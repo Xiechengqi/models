@@ -5,3 +5,4 @@
 !.gitignore
 !.gitconfig
 __pycache__
+raw

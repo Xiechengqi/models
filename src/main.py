@@ -17,6 +17,7 @@ from loguru import logger
 # 导入各个提供商的模块
 from src.openrouter.main import main as openrouter_main
 from src.cerebras.main import main as cerebras_main
+from src.modelscope.main import main as modelscope_main
 
 
 async def main():
@@ -42,6 +43,18 @@ async def main():
             await cerebras_main()
         except Exception as e:
             logger.error(f"抓取 Cerebras 模型失败: {str(e)}")
+            import traceback
+            logger.error(traceback.format_exc())
+        
+        # 抓取 ModelScope 模型列表
+        logger.info("\n" + "=" * 60)
+        logger.info("开始抓取 ModelScope 模型列表")
+        logger.info("=" * 60)
+        
+        try:
+            await modelscope_main()
+        except Exception as e:
+            logger.error(f"抓取 ModelScope 模型失败: {str(e)}")
             import traceback
             logger.error(traceback.format_exc())
         
