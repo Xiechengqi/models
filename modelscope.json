@@ -1,0 +1,1077 @@
+{
+  "models_page": "https://modelscope.cn/models",
+  "api_key_page": "https://modelscope.cn/my/myaccesstoken",
+  "models": [
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-7B-Instruct",
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-7B-Instruct",
+      "time": "2025.03.07",
+      "downloads": 4600000,
+      "stars": 394
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/QwQ-32B",
+      "id": "Qwen/QwQ-32B",
+      "organization": "Qwen",
+      "name": "Qwen/QwQ-32B",
+      "time": "2025.03.11",
+      "downloads": 3700000,
+      "stars": 647
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-8B",
+      "id": "Qwen/Qwen3-8B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-8B",
+      "time": "2025.07.27",
+      "downloads": 3700000,
+      "stars": 181
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-VL-7B-Instruct",
+      "id": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "time": "2025.04.07",
+      "downloads": 3500000,
+      "stars": 375
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-0.6B",
+      "id": "Qwen/Qwen3-0.6B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-0.6B",
+      "time": "2025.07.27",
+      "downloads": 3000000,
+      "stars": 147
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-32B",
+      "id": "Qwen/Qwen3-32B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-32B",
+      "time": "2025.07.27",
+      "downloads": 2900000,
+      "stars": 257
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+      "time": "2025.02.25",
+      "downloads": 2500000,
+      "stars": 229
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-4B",
+      "id": "Qwen/Qwen3-4B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-4B",
+      "time": "2025.07.27",
+      "downloads": 1900000,
+      "stars": 88
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-14B-Instruct",
+      "id": "Qwen/Qwen2.5-14B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-14B-Instruct",
+      "time": "2025.03.07",
+      "downloads": 1900000,
+      "stars": 82
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+      "time": "2025.03.07",
+      "downloads": 1700000,
+      "stars": 270
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-72B-Instruct",
+      "id": "Qwen/Qwen2.5-72B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-72B-Instruct",
+      "time": "2025.03.07",
+      "downloads": 1600000,
+      "stars": 207
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen-Image",
+      "id": "Qwen/Qwen-Image",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen-Image",
+      "time": "2025.08.18",
+      "downloads": 1500000,
+      "stars": 376
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-Next-80B-A3B-Instruct",
+      "id": "Qwen/Qwen3-Next-80B-A3B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-Next-80B-A3B-Instruct",
+      "time": "2025.09.17",
+      "downloads": 1400000,
+      "stars": 143
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-30B-A3B-Instruct-2507",
+      "id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+      "time": "2025.09.17",
+      "downloads": 1400000,
+      "stars": 95
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/489_ckpt_FLUX_1",
+      "id": "MusePublic/489_ckpt_FLUX_1",
+      "organization": "MusePublic",
+      "name": "MusePublic/489_ckpt_FLUX_1",
+      "time": "2025.06.23",
+      "downloads": 1300000,
+      "stars": 235
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+      "time": "2025.02.25",
+      "downloads": 1300000,
+      "stars": 91
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-Embedding-0.6B",
+      "id": "Qwen/Qwen3-Embedding-0.6B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-Embedding-0.6B",
+      "time": "2025.06.23",
+      "downloads": 1300000,
+      "stars": 69
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-VL-3B-Instruct",
+      "id": "Qwen/Qwen2.5-VL-3B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-VL-3B-Instruct",
+      "time": "2025.04.24",
+      "downloads": 1300000,
+      "stars": 130
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-VL-72B-Instruct",
+      "id": "Qwen/Qwen2.5-VL-72B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-VL-72B-Instruct",
+      "time": "2025.06.07",
+      "downloads": 1100000,
+      "stars": 334
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-8B-Instruct",
+      "id": "Qwen/Qwen3-VL-8B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-VL-8B-Instruct",
+      "time": "2025.10.15",
+      "downloads": 770100,
+      "stars": 170
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-235B-A22B",
+      "id": "Qwen/Qwen3-235B-A22B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-235B-A22B",
+      "time": "2025.07.27",
+      "downloads": 757900,
+      "stars": 207
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-32B-Instruct",
+      "id": "Qwen/Qwen2.5-32B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-32B-Instruct",
+      "time": "2025.03.07",
+      "downloads": 724100,
+      "stars": 84
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+      "time": "2025.02.25",
+      "downloads": 683400,
+      "stars": 390
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-30B-A3B",
+      "id": "Qwen/Qwen3-30B-A3B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-30B-A3B",
+      "time": "2025.07.27",
+      "downloads": 677800,
+      "stars": 64
+    },
+    {
+      "link": "https://modelscope.cn/models/MAILAND/majicflus_v1",
+      "id": "MAILAND/majicflus_v1",
+      "organization": "MAILAND",
+      "name": "MAILAND/majicflus_v1",
+      "time": "2025.03.13",
+      "downloads": 543600,
+      "stars": 464
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-0528",
+      "id": "deepseek-ai/DeepSeek-R1-0528",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-R1-0528",
+      "time": "2025.05.29",
+      "downloads": 503400,
+      "stars": 271
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-V3.2-Exp",
+      "id": "deepseek-ai/DeepSeek-V3.2-Exp",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-V3.2-Exp",
+      "time": "2025.11.18",
+      "downloads": 458900,
+      "stars": 140
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+      "time": "2025.02.25",
+      "downloads": 453200,
+      "stars": 148
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/QVQ-72B-Preview",
+      "id": "Qwen/QVQ-72B-Preview",
+      "organization": "Qwen",
+      "name": "Qwen/QVQ-72B-Preview",
+      "time": "2025.01.12",
+      "downloads": 451800,
+      "stars": 122
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-14B",
+      "id": "Qwen/Qwen3-14B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-14B",
+      "time": "2025.07.27",
+      "downloads": 397700,
+      "stars": 45
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-VL-32B-Instruct",
+      "id": "Qwen/Qwen2.5-VL-32B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-VL-32B-Instruct",
+      "time": "2025.04.15",
+      "downloads": 358100,
+      "stars": 115
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-Embedding-8B",
+      "id": "Qwen/Qwen3-Embedding-8B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-Embedding-8B",
+      "time": "2025.07.08",
+      "downloads": 326200,
+      "stars": 161
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-30B-A3B-Instruct",
+      "id": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+      "time": "2025.11.27",
+      "downloads": 306100,
+      "stars": 92
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-1.7B",
+      "id": "Qwen/Qwen3-1.7B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-1.7B",
+      "time": "2025.07.27",
+      "downloads": 306000,
+      "stars": 43
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-Coder-32B-Instruct",
+      "id": "Qwen/Qwen2.5-Coder-32B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-Coder-32B-Instruct",
+      "time": "2025.03.07",
+      "downloads": 296100,
+      "stars": 128
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-Embedding-4B",
+      "id": "Qwen/Qwen3-Embedding-4B",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-Embedding-4B",
+      "time": "2025.06.21",
+      "downloads": 233700,
+      "stars": 29
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "time": "2025.12.04",
+      "downloads": 195400,
+      "stars": 101
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Instruct-2507",
+      "id": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+      "time": "2025.09.17",
+      "downloads": 194200,
+      "stars": 178
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/QwQ-32B-Preview",
+      "id": "Qwen/QwQ-32B-Preview",
+      "organization": "Qwen",
+      "name": "Qwen/QwQ-32B-Preview",
+      "time": "2025.03.07",
+      "downloads": 177700,
+      "stars": 98
+    },
+    {
+      "link": "https://modelscope.cn/models/MiniMax/MiniMax-M1-80k",
+      "id": "MiniMax/MiniMax-M1-80k",
+      "organization": "MiniMax",
+      "name": "MiniMax/MiniMax-M1-80k",
+      "time": "2025.07.08",
+      "downloads": 354400,
+      "stars": 56
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+      "time": "2025.02.24",
+      "downloads": 146600,
+      "stars": 72
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-235B-A22B-Instruct",
+      "id": "Qwen/Qwen3-VL-235B-A22B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-VL-235B-A22B-Instruct",
+      "time": "2025.11.27",
+      "downloads": 132800,
+      "stars": 143
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-30B-A3B-Thinking-2507",
+      "id": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+      "time": "2025.08.20",
+      "downloads": 120600,
+      "stars": 41
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-Coder-14B-Instruct",
+      "id": "Qwen/Qwen2.5-Coder-14B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-Coder-14B-Instruct",
+      "time": "2025.03.07",
+      "downloads": 93900,
+      "stars": 25
+    },
+    {
+      "link": "https://modelscope.cn/models/Dhaizei/YellowFaceEmoji",
+      "id": "Dhaizei/YellowFaceEmoji",
+      "organization": "Dhaizei",
+      "name": "Dhaizei/YellowFaceEmoji",
+      "time": "2025.03.07",
+      "downloads": 88700,
+      "stars": 2
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/42_ckpt_SD_XL",
+      "id": "MusePublic/42_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/42_ckpt_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 82100,
+      "stars": 23
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-Coder-7B-Instruct",
+      "id": "Qwen/Qwen2.5-Coder-7B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-Coder-7B-Instruct",
+      "time": "2025.03.07",
+      "downloads": 81500,
+      "stars": 58
+    },
+    {
+      "link": "https://modelscope.cn/models/mistralai/Mistral-Large-Instruct-2407",
+      "id": "mistralai/Mistral-Large-Instruct-2407",
+      "organization": "mistralai",
+      "name": "mistralai/Mistral-Large-Instruct-2407",
+      "time": "2025.07.29",
+      "downloads": 76500,
+      "stars": 17
+    },
+    {
+      "link": "https://modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo",
+      "id": "Tongyi-MAI/Z-Image-Turbo",
+      "organization": "Tongyi-MAI",
+      "name": "Tongyi-MAI/Z-Image-Turbo",
+      "time": "2025.12.09",
+      "downloads": 68500,
+      "stars": 1100
+    },
+    {
+      "link": "https://modelscope.cn/models/yiwanji/FLUX_xiao_hong_shu_ji_zhi_zhen_shi_V2",
+      "id": "yiwanji/FLUX_xiao_hong_shu_ji_zhi_zhen_shi_V2",
+      "organization": "yiwanji",
+      "name": "yiwanji/FLUX_xiao_hong_shu_ji_zhi_zhen_shi_V2",
+      "time": "2025.03.07",
+      "downloads": 61400,
+      "stars": 237
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-V3.2",
+      "id": "deepseek-ai/DeepSeek-V3.2",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-V3.2",
+      "time": "2025.12.01",
+      "downloads": 52800,
+      "stars": 160
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-Coder-480B-A35B-Instruct",
+      "id": "Qwen/Qwen3-Coder-480B-A35B-Instruct",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-Coder-480B-A35B-Instruct",
+      "time": "2025.08.22",
+      "downloads": 111400,
+      "stars": 994
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/14_ckpt_SD_XL",
+      "id": "MusePublic/14_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/14_ckpt_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 49300,
+      "stars": 62
+    },
+    {
+      "link": "https://modelscope.cn/models/DiffSynth-Studio/ArtAug-lora-FLUX.1dev-v1",
+      "id": "DiffSynth-Studio/ArtAug-lora-FLUX.1dev-v1",
+      "organization": "DiffSynth-Studio",
+      "name": "DiffSynth-Studio/ArtAug-lora-FLUX.1dev-v1",
+      "time": "2025.03.07",
+      "downloads": 38600,
+      "stars": 74
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-7B-Instruct-1M",
+      "id": "Qwen/Qwen2.5-7B-Instruct-1M",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-7B-Instruct-1M",
+      "time": "2025.01.30",
+      "downloads": 35500,
+      "stars": 26
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-V3.1",
+      "id": "deepseek-ai/DeepSeek-V3.1",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-V3.1",
+      "time": "2025.08.26",
+      "downloads": 37000,
+      "stars": 254
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Thinking-2507",
+      "id": "Qwen/Qwen3-235B-A22B-Thinking-2507",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-235B-A22B-Thinking-2507",
+      "time": "2025.08.20",
+      "downloads": 32100,
+      "stars": 93
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_LBL",
+      "id": "mysun2023/MEXX_LBL",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_LBL",
+      "time": "2025.03.07",
+      "downloads": 30800,
+      "stars": 5
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/Qwen-image",
+      "id": "MusePublic/Qwen-image",
+      "organization": "MusePublic",
+      "name": "MusePublic/Qwen-image",
+      "time": "2025.08.04",
+      "downloads": 30100,
+      "stars": 122
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-30B-A3B-Thinking",
+      "id": "Qwen/Qwen3-VL-30B-A3B-Thinking",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-VL-30B-A3B-Thinking",
+      "time": "2025.11.27",
+      "downloads": 26400,
+      "stars": 5
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-Next-80B-A3B-Thinking",
+      "id": "Qwen/Qwen3-Next-80B-A3B-Thinking",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-Next-80B-A3B-Thinking",
+      "time": "2025.12.02",
+      "downloads": 27000,
+      "stars": 29
+    },
+    {
+      "link": "https://modelscope.cn/models/huimengai/HUAHUA_QWEN_NEWTG19",
+      "id": "huimengai/HUAHUA_QWEN_NEWTG19",
+      "organization": "huimengai",
+      "name": "huimengai/HUAHUA_QWEN_NEWTG19",
+      "time": "2025.11.12",
+      "downloads": 25400
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-8B-Thinking",
+      "id": "Qwen/Qwen3-VL-8B-Thinking",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen3-VL-8B-Thinking",
+      "time": "2025.10.15",
+      "downloads": 24700,
+      "stars": 9
+    },
+    {
+      "link": "https://modelscope.cn/models/dajiahaoaaa/ling",
+      "id": "dajiahaoaaa/ling",
+      "organization": "dajiahaoaaa",
+      "name": "dajiahaoaaa/ling",
+      "time": "2025.03.07",
+      "downloads": 23700
+    },
+    {
+      "link": "https://modelscope.cn/models/shanwan/manga_style",
+      "id": "shanwan/manga_style",
+      "organization": "shanwan",
+      "name": "shanwan/manga_style",
+      "time": "2025.03.07",
+      "downloads": 22900,
+      "stars": 5
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/526_ckpt_SD_XL",
+      "id": "MusePublic/526_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/526_ckpt_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 21200,
+      "stars": 3
+    },
+    {
+      "link": "https://modelscope.cn/models/LaxharLAB/NoobAI-XL",
+      "id": "LaxharLAB/NoobAI-XL",
+      "organization": "LaxharLAB",
+      "name": "LaxharLAB/NoobAI-XL",
+      "time": "2025.12.03",
+      "downloads": 21500,
+      "stars": 22
+    },
+    {
+      "link": "https://modelscope.cn/models/ZhipuAI/AutoGLM-Phone-9B",
+      "id": "ZhipuAI/AutoGLM-Phone-9B",
+      "organization": "ZhipuAI",
+      "name": "ZhipuAI/AutoGLM-Phone-9B",
+      "time": "2025.12.09",
+      "downloads": 20500,
+      "stars": 220
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-14B-Instruct-1M",
+      "id": "Qwen/Qwen2.5-14B-Instruct-1M",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen2.5-14B-Instruct-1M",
+      "time": "2025.01.30",
+      "downloads": 19800,
+      "stars": 29
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_TG_REAL",
+      "id": "mysun2023/MEXX_TG_REAL",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_TG_REAL",
+      "time": "2025.03.07",
+      "downloads": 19300,
+      "stars": 5
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/HUIMENG_TIME",
+      "id": "mysun2023/HUIMENG_TIME",
+      "organization": "mysun2023",
+      "name": "mysun2023/HUIMENG_TIME",
+      "time": "2025.03.07",
+      "downloads": 19000,
+      "stars": 10
+    },
+    {
+      "link": "https://modelscope.cn/models/muse/sd35_large",
+      "id": "muse/sd35_large",
+      "organization": "muse",
+      "name": "muse/sd35_large",
+      "time": "2025.03.07",
+      "downloads": 19200,
+      "stars": 12
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_ZP",
+      "id": "mysun2023/MEXX_ZP",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_ZP",
+      "time": "2025.03.07",
+      "downloads": 18700,
+      "stars": 6
+    },
+    {
+      "link": "https://modelscope.cn/models/atonyxu/Illustrious-XL",
+      "id": "atonyxu/Illustrious-XL",
+      "organization": "atonyxu",
+      "name": "atonyxu/Illustrious-XL",
+      "time": "2025.04.24",
+      "downloads": 19000,
+      "stars": 22
+    },
+    {
+      "link": "https://modelscope.cn/models/qijitech/RedCraft-12b-10steps-FP16-AIGC",
+      "id": "qijitech/RedCraft-12b-10steps-FP16-AIGC",
+      "organization": "qijitech",
+      "name": "qijitech/RedCraft-12b-10steps-FP16-AIGC",
+      "time": "2025.03.07",
+      "downloads": 18300,
+      "stars": 28
+    },
+    {
+      "link": "https://modelscope.cn/models/tdzs12345/yxjz",
+      "id": "tdzs12345/yxjz",
+      "organization": "tdzs12345",
+      "name": "tdzs12345/yxjz",
+      "time": "2025.03.07",
+      "downloads": 17400
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_BLUEPUNK",
+      "id": "mysun2023/MEXX_BLUEPUNK",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_BLUEPUNK",
+      "time": "2025.03.07",
+      "downloads": 17200,
+      "stars": 3
+    },
+    {
+      "link": "https://modelscope.cn/models/LLM-Research/Llama-4-Maverick-17B-128E-Instruct",
+      "id": "LLM-Research/Llama-4-Maverick-17B-128E-Instruct",
+      "organization": "LLM-Research",
+      "name": "LLM-Research/Llama-4-Maverick-17B-128E-Instruct",
+      "time": "2025.04.11",
+      "downloads": 16400,
+      "stars": 7
+    },
+    {
+      "link": "https://modelscope.cn/models/WANGMOON/MAJICFLUS-photo",
+      "id": "WANGMOON/MAJICFLUS-photo",
+      "organization": "WANGMOON",
+      "name": "WANGMOON/MAJICFLUS-photo",
+      "time": "2025.03.07",
+      "downloads": 16500,
+      "stars": 86
+    },
+    {
+      "link": "https://modelscope.cn/models/LiblibAI/AWPortraitCN",
+      "id": "LiblibAI/AWPortraitCN",
+      "organization": "LiblibAI",
+      "name": "LiblibAI/AWPortraitCN",
+      "time": "2025.03.07",
+      "downloads": 15800,
+      "stars": 47
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/89_lora_SD_XL",
+      "id": "MusePublic/89_lora_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/89_lora_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 15600,
+      "stars": 5
+    },
+    {
+      "link": "https://modelscope.cn/models/MAILAND/loco-flux-2.5",
+      "id": "MAILAND/loco-flux-2.5",
+      "organization": "MAILAND",
+      "name": "MAILAND/loco-flux-2.5",
+      "time": "2025.06.22",
+      "downloads": 15300,
+      "stars": 39
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/stable-diffusion-xl-base",
+      "id": "MusePublic/stable-diffusion-xl-base",
+      "organization": "MusePublic",
+      "name": "MusePublic/stable-diffusion-xl-base",
+      "time": "2025.12.01",
+      "downloads": 15100,
+      "stars": 24
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_WANGHONG",
+      "id": "mysun2023/MEXX_WANGHONG",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_WANGHONG",
+      "time": "2025.03.07",
+      "downloads": 14300,
+      "stars": 8
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/332_ckpt_SD_XL",
+      "id": "MusePublic/332_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/332_ckpt_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 14000,
+      "stars": 19
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/329_ckpt_SD_XL",
+      "id": "MusePublic/329_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/329_ckpt_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 13700,
+      "stars": 4
+    },
+    {
+      "link": "https://modelscope.cn/models/black-forest-labs/FLUX.1-Krea-dev",
+      "id": "black-forest-labs/FLUX.1-Krea-dev",
+      "organization": "black-forest-labs",
+      "name": "black-forest-labs/FLUX.1-Krea-dev",
+      "time": "2025.08.01",
+      "downloads": 15800,
+      "stars": 60
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_Realistic",
+      "id": "mysun2023/MEXX_Realistic",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_Realistic",
+      "time": "2025.03.07",
+      "downloads": 13500,
+      "stars": 3
+    },
+    {
+      "link": "https://modelscope.cn/models/dajiahaoaaa/CG_gu_feng",
+      "id": "dajiahaoaaa/CG_gu_feng",
+      "organization": "dajiahaoaaa",
+      "name": "dajiahaoaaa/CG_gu_feng",
+      "time": "2025.03.07",
+      "downloads": 13200,
+      "stars": 3
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_ZHENYE",
+      "id": "mysun2023/MEXX_ZHENYE",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_ZHENYE",
+      "time": "2025.03.07",
+      "downloads": 13100,
+      "stars": 3
+    },
+    {
+      "link": "https://modelscope.cn/models/dagegeya/Asianmn4",
+      "id": "dagegeya/Asianmn4",
+      "organization": "dagegeya",
+      "name": "dagegeya/Asianmn4",
+      "time": "2025.03.07",
+      "downloads": 12300,
+      "stars": 1
+    },
+    {
+      "link": "https://modelscope.cn/models/kyisen1/xiangxiang",
+      "id": "kyisen1/xiangxiang",
+      "organization": "kyisen1",
+      "name": "kyisen1/xiangxiang",
+      "time": "2025.03.07",
+      "downloads": 11900
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_Polaroid",
+      "id": "mysun2023/MEXX_Polaroid",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_Polaroid",
+      "time": "2025.03.07",
+      "downloads": 11900,
+      "stars": 6
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_HM",
+      "id": "mysun2023/MEXX_HM",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_HM",
+      "time": "2025.03.07",
+      "downloads": 11000,
+      "stars": 4
+    },
+    {
+      "link": "https://modelscope.cn/models/longgehao/ling_bai",
+      "id": "longgehao/ling_bai",
+      "organization": "longgehao",
+      "name": "longgehao/ling_bai",
+      "time": "2025.03.07",
+      "downloads": 11000,
+      "stars": 1
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/Qwen-image-fp8",
+      "id": "MusePublic/Qwen-image-fp8",
+      "organization": "MusePublic",
+      "name": "MusePublic/Qwen-image-fp8",
+      "time": "2025.08.08",
+      "downloads": 10900,
+      "stars": 43
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_TG_REAL2",
+      "id": "mysun2023/MEXX_TG_REAL2",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_TG_REAL2",
+      "time": "2025.03.07",
+      "downloads": 10200
+    },
+    {
+      "link": "https://modelscope.cn/models/tdzs12345/qwb",
+      "id": "tdzs12345/qwb",
+      "organization": "tdzs12345",
+      "name": "tdzs12345/qwb",
+      "time": "2025.03.07",
+      "downloads": 9600
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/330_ckpt_SD_XL",
+      "id": "MusePublic/330_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/330_ckpt_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 8500,
+      "stars": 6
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_Shooting_Angle",
+      "id": "mysun2023/MEXX_Shooting_Angle",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_Shooting_Angle",
+      "time": "2025.03.07",
+      "downloads": 8500,
+      "stars": 4
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/64_ckpt_SD_XL",
+      "id": "MusePublic/64_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/64_ckpt_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 8300,
+      "stars": 3
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/46_ckpt_SD_XL",
+      "id": "MusePublic/46_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/46_ckpt_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 8300,
+      "stars": 40
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_LSPK",
+      "id": "mysun2023/MEXX_LSPK",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_LSPK",
+      "time": "2025.03.07",
+      "downloads": 7600,
+      "stars": 2
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_WUKONG",
+      "id": "mysun2023/MEXX_WUKONG",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_WUKONG",
+      "time": "2025.03.07",
+      "downloads": 7500,
+      "stars": 2
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_4KDONGMAN",
+      "id": "mysun2023/MEXX_4KDONGMAN",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_4KDONGMAN",
+      "time": "2025.03.07",
+      "downloads": 7500,
+      "stars": 4
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_HANMAN",
+      "id": "mysun2023/MEXX_HANMAN",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_HANMAN",
+      "time": "2025.03.07",
+      "downloads": 7500,
+      "stars": 3
+    },
+    {
+      "link": "https://modelscope.cn/models/djyzcp123/gjerc",
+      "id": "djyzcp123/gjerc",
+      "organization": "djyzcp123",
+      "name": "djyzcp123/gjerc",
+      "time": "2025.05.31",
+      "downloads": 7300,
+      "stars": 42
+    },
+    {
+      "link": "https://modelscope.cn/models/smalltotal/Flux_wx_dust",
+      "id": "smalltotal/Flux_wx_dust",
+      "organization": "smalltotal",
+      "name": "smalltotal/Flux_wx_dust",
+      "time": "2025.09.08",
+      "downloads": 7300,
+      "stars": 1
+    },
+    {
+      "link": "https://modelscope.cn/models/aeetes/dm",
+      "id": "aeetes/dm",
+      "organization": "aeetes",
+      "name": "aeetes/dm",
+      "time": "2025.03.07",
+      "downloads": 7200,
+      "stars": 3
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/majicMIX_realistic_maijuxieshi_SD_1_5",
+      "id": "MusePublic/majicMIX_realistic_maijuxieshi_SD_1_5",
+      "organization": "MusePublic",
+      "name": "MusePublic/majicMIX_realistic_maijuxieshi_SD_1_5",
+      "time": "2025.03.07",
+      "downloads": 8000,
+      "stars": 57
+    },
+    {
+      "link": "https://modelscope.cn/models/QWQ114514123/WAI-illustrious-SDXL",
+      "id": "QWQ114514123/WAI-illustrious-SDXL",
+      "organization": "QWQ114514123",
+      "name": "QWQ114514123/WAI-illustrious-SDXL",
+      "time": "2025.04.12",
+      "downloads": 7200,
+      "stars": 17
+    },
+    {
+      "link": "https://modelscope.cn/models/PaddlePaddle/ERNIE-4.5-0.3B-PT",
+      "id": "PaddlePaddle/ERNIE-4.5-0.3B-PT",
+      "organization": "PaddlePaddle",
+      "name": "PaddlePaddle/ERNIE-4.5-0.3B-PT",
+      "time": "2025.12.17",
+      "downloads": 6900,
+      "stars": 8
+    },
+    {
+      "link": "https://modelscope.cn/models/iic/GUI-Owl-7B",
+      "id": "iic/GUI-Owl-7B",
+      "organization": "iic",
+      "name": "iic/GUI-Owl-7B",
+      "time": "2025.08.27",
+      "downloads": 6800,
+      "stars": 15
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/44_ckpt_SD_XL",
+      "id": "MusePublic/44_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "MusePublic/44_ckpt_SD_XL",
+      "time": "2025.03.07",
+      "downloads": 6800,
+      "stars": 5
+    },
+    {
+      "link": "https://modelscope.cn/models/HoweTsui/V3Dstyle",
+      "id": "HoweTsui/V3Dstyle",
+      "organization": "HoweTsui",
+      "name": "HoweTsui/V3Dstyle",
+      "time": "2025.03.07",
+      "downloads": 6700,
+      "stars": 1
+    },
+    {
+      "link": "https://modelscope.cn/models/VoidOc/home_background",
+      "id": "VoidOc/home_background",
+      "organization": "VoidOc",
+      "name": "VoidOc/home_background",
+      "time": "2025.03.07",
+      "downloads": 6600,
+      "stars": 2
+    },
+    {
+      "link": "https://modelscope.cn/models/mistralai/Mistral-Small-Instruct-2409",
+      "id": "mistralai/Mistral-Small-Instruct-2409",
+      "organization": "mistralai",
+      "name": "mistralai/Mistral-Small-Instruct-2409",
+      "time": "2025.07.30",
+      "downloads": 6500
+    },
+    {
+      "link": "https://modelscope.cn/models/ONETranquil/F.1-dev-fp8",
+      "id": "ONETranquil/F.1-dev-fp8",
+      "organization": "ONETranquil",
+      "name": "ONETranquil/F.1-dev-fp8",
+      "time": "2025.05.17",
+      "downloads": 6900,
+      "stars": 27
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_ANIME",
+      "id": "mysun2023/MEXX_ANIME",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_ANIME",
+      "time": "2025.03.07",
+      "downloads": 6200
+    },
+    {
+      "link": "https://modelscope.cn/models/kyisen/XINXIANG",
+      "id": "kyisen/XINXIANG",
+      "organization": "kyisen",
+      "name": "kyisen/XINXIANG",
+      "time": "2025.03.07",
+      "downloads": 6100
+    }
+  ]
+}
