@@ -440,24 +440,44 @@ async def fetch_modelscope_models() -> List[Dict[str, Any]]:
                         logger.info("正在切换到中文...")
                         clicked = await page.evaluate("""
                             () => {
-                                // 方法1: 直接查找包含该 use 元素的 SVG（根据提供的元素结构）
-                                const svgElement = document.querySelector('svg use[xlink\\:href="#icon-maaszhongyingzhuanhuan-CN-EN-line"]')?.closest('svg');
-                                if (svgElement) {
-                                    // 查找 SVG 的父元素（可能是 button、a 或其他可点击元素）
-                                    let clickable = svgElement.closest('button') || 
-                                                    svgElement.closest('a') || 
-                                                    svgElement.closest('[role="button"]') ||
-                                                    svgElement.closest('div[onclick]') ||
-                                                    svgElement.closest('[data-spm-anchor-id]')?.parentElement ||
-                                                    svgElement.parentElement;
-                                    
-                                    if (clickable) {
-                                        // 尝试多种点击方式
+                                // 查找所有 use 元素，检查 xlink:href 属性（避免使用无效的 CSS 选择器）
+                                const allUses = document.querySelectorAll('use');
+                                let targetUse = null;
+                                
+                                for (let use of allUses) {
+                                    const href = use.getAttribute('xlink:href') || use.getAttribute('href');
+                                    if (href && href === '#icon-maaszhongyingzhuanhuan-CN-EN-line') {
+                                        targetUse = use;
+                                        break;
+                                    }
+                                }
+                                
+                                if (!targetUse) {
+                                    return false;
+                                }
+                                
+                                // 找到包含该 use 的 SVG 元素
+                                const svgElement = targetUse.closest('svg');
+                                if (!svgElement) {
+                                    return false;
+                                }
+                                
+                                // 查找 SVG 的父元素（可能是 button、a 或其他可点击元素）
+                                let clickable = svgElement.closest('button') || 
+                                                svgElement.closest('a') || 
+                                                svgElement.closest('[role="button"]') ||
+                                                svgElement.closest('div[onclick]') ||
+                                                svgElement.closest('[data-spm-anchor-id]')?.parentElement ||
+                                                svgElement.parentElement;
+                                
+                                if (clickable) {
+                                    // 尝试多种点击方式
+                                    try {
+                                        clickable.click();
+                                        return true;
+                                    } catch (e) {
+                                        // 如果 click() 失败，尝试 dispatchEvent
                                         try {
-                                            clickable.click();
-                                            return true;
-                                        } catch (e) {
-                                            // 如果 click() 失败，尝试 dispatchEvent
                                             const clickEvent = new MouseEvent('click', {
                                                 bubbles: true,
                                                 cancelable: true,
@@ -465,30 +485,30 @@ async def fetch_modelscope_models() -> List[Dict[str, Any]]:
                                             });
                                             clickable.dispatchEvent(clickEvent);
                                             return true;
+                                        } catch (e2) {
+                                            return false;
                                         }
                                     }
                                 }
                                 
-                                // 方法2: 通过 use 元素向上查找可点击的父元素
-                                const useElement = document.querySelector('use[xlink\\:href="#icon-maaszhongyingzhuanhuan-CN-EN-line"]');
-                                if (useElement) {
-                                    // 向上查找可点击的父元素（最多查找5层）
-                                    let element = useElement;
-                                    for (let i = 0; i < 5; i++) {
-                                        element = element.parentElement;
-                                        if (!element) break;
-                                        
-                                        // 检查是否是 button、a 或其他可点击元素
-                                        if (element.tagName === 'BUTTON' || 
-                                            element.tagName === 'A' || 
-                                            element.getAttribute('role') === 'button' ||
-                                            element.onclick ||
-                                            element.getAttribute('data-spm-anchor-id') ||
-                                            element.style.cursor === 'pointer') {
+                                // 如果找不到父元素，尝试向上查找
+                                let element = svgElement;
+                                for (let i = 0; i < 5; i++) {
+                                    element = element.parentElement;
+                                    if (!element) break;
+                                    
+                                    // 检查是否是 button、a 或其他可点击元素
+                                    if (element.tagName === 'BUTTON' || 
+                                        element.tagName === 'A' || 
+                                        element.getAttribute('role') === 'button' ||
+                                        element.onclick ||
+                                        element.getAttribute('data-spm-anchor-id') ||
+                                        element.style.cursor === 'pointer') {
+                                        try {
+                                            element.click();
+                                            return true;
+                                        } catch (e) {
                                             try {
-                                                element.click();
-                                                return true;
-                                            } catch (e) {
                                                 const clickEvent = new MouseEvent('click', {
                                                     bubbles: true,
                                                     cancelable: true,
@@ -496,49 +516,9 @@ async def fetch_modelscope_models() -> List[Dict[str, Any]]:
                                                 });
                                                 element.dispatchEvent(clickEvent);
                                                 return true;
+                                            } catch (e2) {
+                                                continue;
                                             }
-                                        }
-                                    }
-                                }
-                                
-                                // 方法3: 查找所有包含该图标的 SVG，尝试点击
-                                const allSvgs = document.querySelectorAll('svg');
-                                for (let svg of allSvgs) {
-                                    const use = svg.querySelector('use[xlink\\:href="#icon-maaszhongyingzhuanhuan-CN-EN-line"]');
-                                    if (use) {
-                                        // 尝试点击 SVG 或其父元素
-                                        let clickable = svg.closest('button') || 
-                                                        svg.closest('a') || 
-                                                        svg.closest('[role="button"]') ||
-                                                        svg.closest('div[onclick]') ||
-                                                        svg.closest('[data-spm-anchor-id]')?.parentElement ||
-                                                        svg.parentElement;
-                                        if (clickable) {
-                                            try {
-                                                clickable.click();
-                                                return true;
-                                            } catch (e) {
-                                                const clickEvent = new MouseEvent('click', {
-                                                    bubbles: true,
-                                                    cancelable: true,
-                                                    view: window
-                                                });
-                                                clickable.dispatchEvent(clickEvent);
-                                                return true;
-                                            }
-                                        }
-                                        // 如果找不到父元素，直接点击 SVG
-                                        try {
-                                            svg.click();
-                                            return true;
-                                        } catch (e) {
-                                            const clickEvent = new MouseEvent('click', {
-                                                bubbles: true,
-                                                cancelable: true,
-                                                view: window
-                                            });
-                                            svg.dispatchEvent(clickEvent);
-                                            return true;
                                         }
                                     }
                                 }
