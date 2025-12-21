@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 770900,
+      "downloads": 771200,
       "stars": 170,
       "task_types": "视觉多模态理解"
     },
@@ -208,7 +208,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B",
       "time": "2025.07.27",
-      "downloads": 758000,
+      "downloads": 758100,
       "stars": 207,
       "task_types": "文本生成"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 683500,
+      "downloads": 683600,
       "stars": 390,
       "task_types": "文本生成"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 677900,
+      "downloads": 678000,
       "stars": 64,
       "task_types": "文本生成"
     },
@@ -268,7 +268,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2-Exp",
       "time": "2025.11.18",
-      "downloads": 459400,
+      "downloads": 459600,
       "stars": 140
     },
     {
@@ -297,7 +297,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 398900,
+      "downloads": 399200,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -326,7 +326,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 306700,
+      "downloads": 306900,
       "stars": 92,
       "task_types": "视觉多模态理解"
     },
@@ -356,7 +356,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 235200,
+      "downloads": 235700,
       "stars": 29,
       "task_types": "文本生成"
     },
@@ -401,6 +401,16 @@
       "task_types": "文本生成"
     },
     {
+      "link": "https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B",
+      "id": "iic/Tongyi-DeepResearch-30B-A3B",
+      "organization": "iic",
+      "name": "通义-DeepResearch-30B-A3B",
+      "time": "2025.10.11",
+      "downloads": 159600,
+      "stars": 107,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "organization": "deepseek-ai",
@@ -416,7 +426,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-235B-A22B-Instruct",
       "time": "2025.11.27",
-      "downloads": 132900,
+      "downloads": 133000,
       "stars": 143,
       "task_types": "视觉多模态理解"
     },
@@ -506,7 +516,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 53000,
+      "downloads": 53100,
       "stars": 160,
       "task_types": "文本生成"
     },
@@ -529,6 +539,16 @@
       "downloads": 49300,
       "stars": 62,
       "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.6",
+      "id": "ZhipuAI/GLM-4.6",
+      "organization": "ZhipuAI",
+      "name": "ZhipuAI/GLM-4.6",
+      "time": "2025.12.02",
+      "downloads": 39900,
+      "stars": 281,
+      "task_types": "文本生成"
     },
     {
       "link": "https://modelscope.cn/models/DiffSynth-Studio/ArtAug-lora-FLUX.1dev-v1",
@@ -579,26 +599,6 @@
       "downloads": 30800,
       "stars": 5,
       "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/Qwen-image",
-      "id": "MusePublic/Qwen-image",
-      "organization": "MusePublic",
-      "name": "Qwen Image",
-      "time": "2025.08.04",
-      "downloads": 30100,
-      "stars": 122,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-30B-A3B-Thinking",
-      "id": "Qwen/Qwen3-VL-30B-A3B-Thinking",
-      "organization": "Qwen",
-      "name": "通义千问3-VL-30B-A3B-Thinking",
-      "time": "2025.11.27",
-      "downloads": 26500,
-      "stars": 5,
-      "task_types": "视觉多模态理解"
     },
     {
       "link": "https://modelscope.cn/models/Qwen/Qwen3-Next-80B-A3B-Thinking",
