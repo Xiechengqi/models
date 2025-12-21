@@ -27,9 +27,6 @@ docker run -itd \
   -e CHROMIUM_CLEAN_SINGLETONLOCK=true \
   -e CHROMIUM_START_URLS="chrome://version" \
   -v ${PWD}/start.sh:/app/start.sh \
-  -v ${PWD}/main.py:/app/main.py \
-  -v ${PWD}/requirements.txt:/app/requirements.txt \
-  -v ${PWD}/data:/app/data \
   --name ${name} fullnode/remote-chromium-ubuntu:latest
 
 docker ps
@@ -47,3 +44,5 @@ sleep 10
 docker exec -i ${name} "pwd"
 docker exec -i ${name} "ls --color=auto -alht"
 docker exec -i ${name} "/app/start.sh"
+
+docker cp ${name}:/app/models/ - | tar -x --strip-components=2 --wildcards -m '*.json'
