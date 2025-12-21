@@ -5,6 +5,9 @@ source <(curl -SsL https://install.xiechengqi.top/tool/common.sh)
 
 BASEPATH=`dirname $(readlink -f ${BASH_SOURCE[0]})` && cd $BASEPATH
 
+INFO "pwd" && pwd
+INFO "ls -alht" && ls -alht
+
 name="chromium"
 # docker rm -f ${name}
 docker run -itd \
@@ -29,7 +32,7 @@ docker run -itd \
   -e LANG=C.UTF-8 \
   -e CHROMIUM_CLEAN_SINGLETONLOCK=true \
   -e CHROMIUM_START_URLS="chrome://version" \
-  -v ${PWD}/start.sh:/app/start.sh \
+  -v ${PWD}/src/start.sh:/app/start.sh \
   --name ${name} fullnode/remote-chromium-ubuntu:latest
 
 docker ps
@@ -48,4 +51,7 @@ docker exec -i ${name} "pwd"
 docker exec -i ${name} "ls --color=auto -alht"
 docker exec -i ${name} "/app/start.sh"
 
-docker cp ${name}:/app/models/ - | tar -x --strip-components=2 --wildcards -m '*.json'
+for i in $(ls -d src/*/ | grep -v '__pycache__' | sed 's/\/$//;s/^src\///')
+do
+docker cp ${name}:/app/models/${i} ./${i}
+done
