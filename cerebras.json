@@ -1,0 +1,42 @@
+{
+  "models_page": "https://inference-docs.ai/models/overview",
+  "api_key_page": "https://cloud.cerebras.ai/platform",
+  "models": [
+    {
+      "id": "llama3.1-8b",
+      "name": "llama3.1-8b",
+      "precision": "FP16",
+      "link": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct"
+    },
+    {
+      "id": "llama-3.3-70b",
+      "name": "llama-3.3-70b",
+      "precision": "FP16",
+      "link": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
+    },
+    {
+      "id": "gpt-oss-120b",
+      "name": "gpt-oss-120b",
+      "precision": "FP16/FP8 (weights only)1",
+      "link": "https://huggingface.co/openai/gpt-oss-120b"
+    },
+    {
+      "id": "qwen-3-32b",
+      "name": "qwen-3-32b",
+      "precision": "FP16",
+      "link": "https://huggingface.co/Qwen/Qwen3-32B"
+    },
+    {
+      "id": "qwen-3-235b-a22b-instruct-2507",
+      "name": "qwen-3-235b-a22b-instruct-2507",
+      "precision": "FP16/FP8 (weights only)1",
+      "link": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507"
+    },
+    {
+      "id": "zai-glm-4.6",
+      "name": "zai-glm-4.6",
+      "precision": "FP16/FP8 (weights only)1",
+      "link": "https://huggingface.co/zai-org/GLM-4.6"
+    }
+  ]
+}
