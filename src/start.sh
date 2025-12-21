@@ -11,3 +11,7 @@ EXEC "source .venv/bin/activate"
 EXEC "uv pip install -r requirements.txt"
 INFO "uv run main.py"
 uv run main.py
+
+INFO "ls -alht /app/" && ls -alht /app/
+INFO "ls -alht /app/models/" && ls -alht /app/models/
+INFO "ls -alht /app/models/src/" && ls -alht /app/models/src/
