@@ -48,10 +48,10 @@ jobs:
         run: docker info
       
       - name: Make run.sh executable
-        run: chmod +x run.sh
+        run: chmod +x src/run.sh
       
       - name: Run deployment script
-        run: ./run.sh
+        run: ./src/run.sh
 
       - name: Configure Git
         run: |
