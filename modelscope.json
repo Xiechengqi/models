@@ -269,7 +269,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen3-14B",
       "time": "2025.07.27",
-      "downloads": 397800,
+      "downloads": 397900,
       "stars": 45
     },
     {
@@ -305,7 +305,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen3-1.7B",
       "time": "2025.07.27",
-      "downloads": 306000,
+      "downloads": 306100,
       "stars": 43
     },
     {
@@ -458,7 +458,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 52800,
+      "downloads": 52900,
       "stars": 160
     },
     {
@@ -610,7 +610,7 @@
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2025.12.09",
       "downloads": 20500,
-      "stars": 220
+      "stars": 221
     },
     {
       "link": "https://modelscope.cn/models/Qwen/Qwen2.5-14B-Instruct-1M",
