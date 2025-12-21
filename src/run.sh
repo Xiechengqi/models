@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+set -x
+source <(curl -SsL https://install.xiechengqi.top/tool/common.sh)
+
 BASEPATH=`dirname $(readlink -f ${BASH_SOURCE[0]})` && cd $BASEPATH
 
 name="chromium"
