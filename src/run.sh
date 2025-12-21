@@ -51,7 +51,7 @@ docker exec -i ${name} "pwd"
 docker exec -i ${name} "ls --color=auto -alht"
 docker exec -i ${name} "/app/start.sh"
 
-for i in $(ls -d src/*/ | grep -v '__pycache__' | sed 's/\/$//;s/^src\///')
+for i in $(ls -d */ | grep -v '__pycache__' | sed 's/\/$//;s/^src\///')
 do
 docker cp ${name}:/app/models/${i} ./${i}
 done
