@@ -32,7 +32,7 @@ docker run -itd \
   -e LANG=C.UTF-8 \
   -e CHROMIUM_CLEAN_SINGLETONLOCK=true \
   -e CHROMIUM_START_URLS="chrome://version" \
-  -v ${PWD}/src/start.sh:/app/start.sh \
+  -v ${PWD}/start.sh:/app/start.sh \
   --name ${name} fullnode/remote-chromium-ubuntu:latest
 
 docker ps
