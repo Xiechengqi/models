@@ -53,5 +53,5 @@ docker exec -i ${name} "/app/start.sh"
 
 for i in $(ls -d */ | grep -v '__pycache__' | sed 's/\/$//;s/^src\///')
 do
-docker cp ${name}:/app/models/${i}.json ./${i}.json
+docker cp ${name}:/app/models/${i}.json ../${i}.json
 done
