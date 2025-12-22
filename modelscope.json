@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 778700,
+      "downloads": 778800,
       "stars": 171,
       "task_types": "视觉多模态理解"
     },
@@ -208,7 +208,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B",
       "time": "2025.07.27",
-      "downloads": 759800,
+      "downloads": 759900,
       "stars": 207,
       "task_types": "文本生成"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 685300,
+      "downloads": 685400,
       "stars": 390,
       "task_types": "文本生成"
     },
@@ -258,7 +258,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 503700,
+      "downloads": 503800,
       "stars": 271,
       "task_types": "文本生成"
     },
@@ -288,7 +288,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 411000,
+      "downloads": 411300,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 312300,
+      "downloads": 312500,
       "stars": 92,
       "task_types": "视觉多模态理解"
     },
@@ -327,7 +327,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 308100,
+      "downloads": 308200,
       "stars": 43,
       "task_types": "文本生成"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 253100,
+      "downloads": 253600,
       "stars": 29,
       "task_types": "文本生成"
     },
@@ -357,7 +357,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B-Instruct-2507",
       "time": "2025.09.17",
-      "downloads": 195900,
+      "downloads": 196000,
       "stars": 178,
       "task_types": "文本生成"
     },
@@ -477,7 +477,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 72100,
+      "downloads": 72500,
       "stars": 1100,
       "task_types": "文本生成图片"
     },
@@ -655,7 +655,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2025.12.09",
-      "downloads": 20900,
+      "downloads": 21100,
       "stars": 226,
       "task_types": "图像描述"
     },
@@ -933,7 +933,7 @@
       "organization": "MusePublic",
       "name": "Qwen Image FP8【仅供本地使用】",
       "time": "2025.08.08",
-      "downloads": 11000,
+      "downloads": 11100,
       "stars": 43,
       "task_types": "文本生成图片"
     },
@@ -1297,6 +1297,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/overcloud81/Ultra_V10_PONY",
+      "id": "overcloud81/Ultra_V10_PONY",
+      "organization": "overcloud81",
+      "name": "Ultra_V10_PONY",
+      "time": "2025.10.28",
+      "downloads": 4300,
+      "stars": 1,
+      "task_types": "文本生成图片"
+    },
+    {
       "link": "https://modelscope.cn/models/parnna/HDR-Flux",
       "id": "parnna/HDR-Flux",
       "organization": "parnna",
@@ -1314,16 +1324,6 @@
       "time": "2025.03.07",
       "downloads": 4500,
       "stars": 24,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/overcloud81/Ultra_V10_PONY",
-      "id": "overcloud81/Ultra_V10_PONY",
-      "organization": "overcloud81",
-      "name": "Ultra_V10_PONY",
-      "time": "2025.10.28",
-      "downloads": 4200,
-      "stars": 1,
       "task_types": "文本生成图片"
     },
     {
@@ -1357,13 +1357,13 @@
       "task_types": "文本生成"
     },
     {
-      "link": "https://modelscope.cn/models/lip421/xiuxian5FLUX",
-      "id": "lip421/xiuxian5FLUX",
-      "organization": "lip421",
-      "name": "万物生fluxV5版",
-      "time": "2025.03.07",
+      "link": "https://modelscope.cn/models/wjlcl0919/hardcoreAsianCosplay_ilV11.safetensors",
+      "id": "wjlcl0919/hardcoreAsianCosplay_ilV11.safetensors",
+      "organization": "wjlcl0919",
+      "name": "hardcoreAsianCosplay_ilV11",
+      "time": "2025.10.07",
       "downloads": 3800,
-      "stars": 9,
+      "stars": 5,
       "task_types": "文本生成图片"
     },
     {
@@ -1377,13 +1377,13 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/wjlcl0919/hardcoreAsianCosplay_ilV11.safetensors",
-      "id": "wjlcl0919/hardcoreAsianCosplay_ilV11.safetensors",
-      "organization": "wjlcl0919",
-      "name": "hardcoreAsianCosplay_ilV11",
-      "time": "2025.10.07",
+      "link": "https://modelscope.cn/models/lip421/xiuxian5FLUX",
+      "id": "lip421/xiuxian5FLUX",
+      "organization": "lip421",
+      "name": "万物生fluxV5版",
+      "time": "2025.03.07",
       "downloads": 3800,
-      "stars": 5,
+      "stars": 9,
       "task_types": "文本生成图片"
     },
     {
