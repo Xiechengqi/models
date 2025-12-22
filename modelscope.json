@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 773700,
+      "downloads": 773900,
       "stars": 171,
       "task_types": "视觉多模态理解"
     },
@@ -268,7 +268,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2-Exp",
       "time": "2025.11.18",
-      "downloads": 462200,
+      "downloads": 462400,
       "stars": 140
     },
     {
@@ -297,7 +297,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 403800,
+      "downloads": 404100,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -326,7 +326,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 309200,
+      "downloads": 309300,
       "stars": 92,
       "task_types": "视觉多模态理解"
     },
@@ -356,8 +356,18 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 242700,
+      "downloads": 243400,
       "stars": 29,
+      "task_types": "文本生成"
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Instruct-2507",
+      "id": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+      "organization": "Qwen",
+      "name": "通义千问3-235B-A22B-Instruct-2507",
+      "time": "2025.09.17",
+      "downloads": 195600,
+      "stars": 178,
       "task_types": "文本生成"
     },
     {
@@ -368,16 +378,6 @@
       "time": "2025.12.04",
       "downloads": 195500,
       "stars": 101,
-      "task_types": "文本生成"
-    },
-    {
-      "link": "https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Instruct-2507",
-      "id": "Qwen/Qwen3-235B-A22B-Instruct-2507",
-      "organization": "Qwen",
-      "name": "通义千问3-235B-A22B-Instruct-2507",
-      "time": "2025.09.17",
-      "downloads": 195500,
-      "stars": 178,
       "task_types": "文本生成"
     },
     {
@@ -426,7 +426,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 121300,
+      "downloads": 121400,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -1376,16 +1376,6 @@
       "task_types": "文本生成"
     },
     {
-      "link": "https://modelscope.cn/models/lip421/xiuxian5FLUX",
-      "id": "lip421/xiuxian5FLUX",
-      "organization": "lip421",
-      "name": "万物生fluxV5版",
-      "time": "2025.03.07",
-      "downloads": 3800,
-      "stars": 9,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/mysun2023/HUIMENG_FLUX_MAGIC",
       "id": "mysun2023/HUIMENG_FLUX_MAGIC",
       "organization": "mysun2023",
@@ -1393,6 +1383,16 @@
       "time": "2025.03.07",
       "downloads": 3800,
       "stars": 1,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/lip421/xiuxian5FLUX",
+      "id": "lip421/xiuxian5FLUX",
+      "organization": "lip421",
+      "name": "万物生fluxV5版",
+      "time": "2025.03.07",
+      "downloads": 3800,
+      "stars": 9,
       "task_types": "文本生成图片"
     },
     {
