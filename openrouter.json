@@ -3,6 +3,14 @@
   "api_key_page": "https://openrouter.ai/settings/keys",
   "models": [
     {
+      "id": "z-ai/glm-4.7",
+      "name": "GLM 4.7",
+      "provider": "Z.AI",
+      "description": "GLM-4.7 is Z.AI’s latest flagship model, featuring upgrades in two key areas: enhanced programming capabilities and more stable multi-step reasoning/execution. It demonstrates significant improvements in executing complex agent tasks while delivering more natural conversational experiences and superior front-end aesthetics.",
+      "link": "https://openrouter.ai/z-ai/glm-4.7",
+      "pub_date": "Mon, 22 Dec 2025 04:33:34 GMT"
+    },
+    {
       "id": "google/gemini-3-flash-preview",
       "name": "Gemini 3 Flash Preview",
       "provider": "Google",
