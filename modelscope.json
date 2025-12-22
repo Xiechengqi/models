@@ -119,7 +119,7 @@
       "name": "Qwen/Qwen-Image",
       "time": "2025.08.18",
       "downloads": 1500000,
-      "stars": 376,
+      "stars": 377,
       "task_types": "文本生成图片"
     },
     {
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 773900,
+      "downloads": 774300,
       "stars": 171,
       "task_types": "视觉多模态理解"
     },
@@ -208,7 +208,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B",
       "time": "2025.07.27",
-      "downloads": 758800,
+      "downloads": 758900,
       "stars": 207,
       "task_types": "文本生成"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 684400,
+      "downloads": 684500,
       "stars": 390,
       "task_types": "文本生成"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 678700,
+      "downloads": 678800,
       "stars": 64,
       "task_types": "文本生成"
     },
@@ -258,7 +258,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 503500,
+      "downloads": 503600,
       "stars": 271,
       "task_types": "文本生成"
     },
@@ -268,7 +268,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2-Exp",
       "time": "2025.11.18",
-      "downloads": 462400,
+      "downloads": 462600,
       "stars": 140
     },
     {
@@ -297,7 +297,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 404100,
+      "downloads": 404600,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -326,7 +326,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 309300,
+      "downloads": 309500,
       "stars": 92,
       "task_types": "视觉多模态理解"
     },
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 307000,
+      "downloads": 307100,
       "stars": 43,
       "task_types": "文本生成"
     },
@@ -356,7 +356,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 243400,
+      "downloads": 244300,
       "stars": 29,
       "task_types": "文本生成"
     },
@@ -416,7 +416,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-235B-A22B-Instruct",
       "time": "2025.11.27",
-      "downloads": 133700,
+      "downloads": 133800,
       "stars": 143,
       "task_types": "视觉多模态理解"
     },
@@ -486,7 +486,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 69900,
+      "downloads": 70100,
       "stars": 1100,
       "task_types": "文本生成图片"
     },
@@ -506,7 +506,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 54000,
+      "downloads": 54100,
       "stars": 163,
       "task_types": "文本生成"
     },
@@ -557,7 +557,7 @@
       "name": "deepseek-ai/DeepSeek-V3.1",
       "time": "2025.08.26",
       "downloads": 37000,
-      "stars": 254,
+      "stars": 255,
       "task_types": "文本生成"
     },
     {
@@ -625,7 +625,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Thinking",
       "time": "2025.10.15",
-      "downloads": 24800,
+      "downloads": 24900,
       "stars": 9,
       "task_types": "视觉多模态理解"
     },
@@ -674,7 +674,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2025.12.09",
-      "downloads": 20700,
+      "downloads": 20800,
       "stars": 224,
       "task_types": "图像描述"
     },
@@ -1011,7 +1011,7 @@
       "name": "SDXL 1.0 ArienMixXL Asian portrait 亚洲人像",
       "time": "2025.03.07",
       "downloads": 8300,
-      "stars": 40,
+      "stars": 41,
       "task_types": "文本生成图片"
     },
     {
