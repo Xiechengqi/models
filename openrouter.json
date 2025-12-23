@@ -2825,19 +2825,19 @@
       "pub_date": "Fri, 08 Nov 2024 22:04:08 GMT"
     },
     {
-      "id": "anthropic/claude-3.5-haiku-20241022",
-      "name": "Claude 3.5 Haiku (2024-10-22)",
-      "provider": "Anthropic",
-      "description": "Claude 3.5 Haiku features enhancements across all skill sets including coding, tool use, and reasoning. As the fastest model in the Anthropic lineup, it offers rapid response times suitable for applications that require high interactivity and low latency, such as user-facing chatbots and on-the-fly code completions. It also excels in specialized tasks like data extraction and real-time content moderation, making it a versatile tool for a broad range of industries.\n\nIt does not support image inputs.\n\nSee the launch announcement and benchmark results here",
-      "link": "https://openrouter.ai/anthropic/claude-3.5-haiku-20241022",
-      "pub_date": "Mon, 04 Nov 2024 00:00:00 GMT"
-    },
-    {
       "id": "anthropic/claude-3.5-haiku",
       "name": "Claude 3.5 Haiku",
       "provider": "Anthropic",
       "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to Claude 3.5 Haiku (2024-10-22).",
       "link": "https://openrouter.ai/anthropic/claude-3.5-haiku",
+      "pub_date": "Mon, 04 Nov 2024 00:00:00 GMT"
+    },
+    {
+      "id": "anthropic/claude-3.5-haiku-20241022",
+      "name": "Claude 3.5 Haiku (2024-10-22)",
+      "provider": "Anthropic",
+      "description": "Claude 3.5 Haiku features enhancements across all skill sets including coding, tool use, and reasoning. As the fastest model in the Anthropic lineup, it offers rapid response times suitable for applications that require high interactivity and low latency, such as user-facing chatbots and on-the-fly code completions. It also excels in specialized tasks like data extraction and real-time content moderation, making it a versatile tool for a broad range of industries.\n\nIt does not support image inputs.\n\nSee the launch announcement and benchmark results here",
+      "link": "https://openrouter.ai/anthropic/claude-3.5-haiku-20241022",
       "pub_date": "Mon, 04 Nov 2024 00:00:00 GMT"
     },
     {
@@ -2849,18 +2849,18 @@
       "pub_date": "Tue, 22 Oct 2024 00:00:00 GMT"
     },
     {
-      "id": "anthracite-org/magnum-v4-72b",
-      "name": "Magnum v4 72B",
-      "description": "This is a series of models designed to replicate the prose quality of the Claude 3 models, specifically Sonnet(https://openrouter.ai/anthropic/claude-3.5-sonnet) and Opus(https://openrouter.ai/anthropic/claude-3-opus).\n\nThe model is fine-tuned on top of Qwen2.5 72B.",
-      "link": "https://openrouter.ai/anthracite-org/magnum-v4-72b",
-      "pub_date": "Tue, 22 Oct 2024 00:00:00 GMT"
-    },
-    {
       "id": "anthropic/claude-3.5-sonnet",
       "name": "Claude 3.5 Sonnet",
       "provider": "Anthropic",
       "description": "New Claude 3.5 Sonnet delivers better-than-Opus capabilities, faster-than-Sonnet speeds, at the same Sonnet prices. Sonnet is particularly good at:\n\n- Coding: Scores ~49% on SWE-Bench Verified, higher than the last best score, and without any fancy prompt scaffolding\n- Data science: Augments human data science expertise; navigates unstructured data while using multiple tools for insights\n- Visual processing: excelling at interpreting charts, graphs, and images, accurately transcribing text to derive insights beyond just the text alone\n- Agentic tasks: exceptional tool use, making it great at agentic tasks (i.e. complex, multi-step problem solving tasks that require engaging with other systems)\n\n#multimodal",
       "link": "https://openrouter.ai/anthropic/claude-3.5-sonnet",
+      "pub_date": "Tue, 22 Oct 2024 00:00:00 GMT"
+    },
+    {
+      "id": "anthracite-org/magnum-v4-72b",
+      "name": "Magnum v4 72B",
+      "description": "This is a series of models designed to replicate the prose quality of the Claude 3 models, specifically Sonnet(https://openrouter.ai/anthropic/claude-3.5-sonnet) and Opus(https://openrouter.ai/anthropic/claude-3-opus).\n\nThe model is fine-tuned on top of Qwen2.5 72B.",
+      "link": "https://openrouter.ai/anthracite-org/magnum-v4-72b",
       "pub_date": "Tue, 22 Oct 2024 00:00:00 GMT"
     },
     {
@@ -2944,26 +2944,11 @@
       "pub_date": "Thu, 03 Oct 2024 00:00:00 GMT"
     },
     {
-      "id": "liquid/lfm-40b",
-      "name": "LFM 40B MoE",
-      "provider": "Liquid",
-      "description": "Liquid's 40.3B Mixture of Experts (MoE) model. Liquid Foundation Models (LFMs) are large neural networks built with computational units rooted in dynamic systems.\n\nLFMs are general-purpose AI models that can be used to model any kind of sequential data, including video, audio, text, time series, and signals.\n\nSee the launch announcement for benchmarks and more info.",
-      "link": "https://openrouter.ai/liquid/lfm-40b",
-      "pub_date": "Mon, 30 Sep 2024 00:00:00 GMT"
-    },
-    {
       "id": "thedrummer/rocinante-12b",
       "name": "Rocinante 12B",
       "provider": "TheDrummer",
       "description": "Rocinante 12B is designed for engaging storytelling and rich prose.\n\nEarly testers have reported:\n- Expanded vocabulary with unique and expressive word choices\n- Enhanced creativity for vivid narratives\n- Adventure-filled and captivating stories",
       "link": "https://openrouter.ai/thedrummer/rocinante-12b",
-      "pub_date": "Mon, 30 Sep 2024 00:00:00 GMT"
-    },
-    {
-      "id": "eva-unit-01/eva-qwen-2.5-14b",
-      "name": "EVA Qwen2.5 14B",
-      "description": "A model specializing in RP and creative writing, this model is based on Qwen2.5-14B, fine-tuned with a mixture of synthetic and natural data.\n\nIt is trained on 1.5M tokens of role-play data, and fine-tuned on 1.5M tokens of synthetic data.",
-      "link": "https://openrouter.ai/eva-unit-01/eva-qwen-2.5-14b",
       "pub_date": "Mon, 30 Sep 2024 00:00:00 GMT"
     },
     {
@@ -2974,19 +2959,26 @@
       "pub_date": "Mon, 30 Sep 2024 00:00:00 GMT"
     },
     {
-      "id": "meta-llama/llama-3.2-3b-instruct",
-      "name": "Llama 3.2 3B Instruct (free)",
-      "provider": "Meta",
-      "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it supports eight languages, including English, Spanish, and Hindi, and is adaptable for additional languages.\n\nTrained on 9 trillion tokens, the Llama 3.2 3B model excels in instruction-following, complex reasoning, and tool use. Its balanced performance makes it ideal for applications needing accuracy and efficiency in text generation across multilingual settings.\n\nClick here for the original model card.\n\nUsage of this model is subject to Meta's Acceptable Use Policy.",
-      "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
-      "pub_date": "Wed, 25 Sep 2024 00:00:00 GMT"
+      "id": "eva-unit-01/eva-qwen-2.5-14b",
+      "name": "EVA Qwen2.5 14B",
+      "description": "A model specializing in RP and creative writing, this model is based on Qwen2.5-14B, fine-tuned with a mixture of synthetic and natural data.\n\nIt is trained on 1.5M tokens of role-play data, and fine-tuned on 1.5M tokens of synthetic data.",
+      "link": "https://openrouter.ai/eva-unit-01/eva-qwen-2.5-14b",
+      "pub_date": "Mon, 30 Sep 2024 00:00:00 GMT"
     },
     {
-      "id": "meta-llama/llama-3.2-1b-instruct",
-      "name": "Llama 3.2 1B Instruct",
+      "id": "liquid/lfm-40b",
+      "name": "LFM 40B MoE",
+      "provider": "Liquid",
+      "description": "Liquid's 40.3B Mixture of Experts (MoE) model. Liquid Foundation Models (LFMs) are large neural networks built with computational units rooted in dynamic systems.\n\nLFMs are general-purpose AI models that can be used to model any kind of sequential data, including video, audio, text, time series, and signals.\n\nSee the launch announcement for benchmarks and more info.",
+      "link": "https://openrouter.ai/liquid/lfm-40b",
+      "pub_date": "Mon, 30 Sep 2024 00:00:00 GMT"
+    },
+    {
+      "id": "meta-llama/llama-3.2-11b-vision-instruct",
+      "name": "Llama 3.2 11B Vision Instruct",
       "provider": "Meta",
-      "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate efficiently in low-resource environments while maintaining strong task performance.\n\nSupporting eight core languages and fine-tunable for more, Llama 1.3B is ideal for businesses or developers seeking lightweight yet powerful AI solutions that can operate in diverse multilingual settings without the high computational demand of larger models.\n\nClick here for the original model card.\n\nUsage of this model is subject to Meta's Acceptable Use Policy.",
-      "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
+      "description": "Llama 3.2 11B Vision is a multimodal model with 11 billion parameters, designed to handle tasks combining visual and textual data. It excels in tasks such as image captioning and visual question answering, bridging the gap between language generation and visual reasoning. Pre-trained on a massive dataset of image-text pairs, it performs well in complex, high-accuracy image analysis.\n\nIts ability to integrate visual understanding with language processing makes it an ideal solution for industries requiring comprehensive visual-linguistic AI applications, such as content creation, AI-driven customer service, and research.\n\nClick here for the original model card.\n\nUsage of this model is subject to Meta's Acceptable Use Policy.",
+      "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
       "pub_date": "Wed, 25 Sep 2024 00:00:00 GMT"
     },
     {
@@ -2998,11 +2990,19 @@
       "pub_date": "Wed, 25 Sep 2024 00:00:00 GMT"
     },
     {
-      "id": "meta-llama/llama-3.2-11b-vision-instruct",
-      "name": "Llama 3.2 11B Vision Instruct",
+      "id": "meta-llama/llama-3.2-1b-instruct",
+      "name": "Llama 3.2 1B Instruct",
       "provider": "Meta",
-      "description": "Llama 3.2 11B Vision is a multimodal model with 11 billion parameters, designed to handle tasks combining visual and textual data. It excels in tasks such as image captioning and visual question answering, bridging the gap between language generation and visual reasoning. Pre-trained on a massive dataset of image-text pairs, it performs well in complex, high-accuracy image analysis.\n\nIts ability to integrate visual understanding with language processing makes it an ideal solution for industries requiring comprehensive visual-linguistic AI applications, such as content creation, AI-driven customer service, and research.\n\nClick here for the original model card.\n\nUsage of this model is subject to Meta's Acceptable Use Policy.",
-      "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
+      "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate efficiently in low-resource environments while maintaining strong task performance.\n\nSupporting eight core languages and fine-tunable for more, Llama 1.3B is ideal for businesses or developers seeking lightweight yet powerful AI solutions that can operate in diverse multilingual settings without the high computational demand of larger models.\n\nClick here for the original model card.\n\nUsage of this model is subject to Meta's Acceptable Use Policy.",
+      "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
+      "pub_date": "Wed, 25 Sep 2024 00:00:00 GMT"
+    },
+    {
+      "id": "meta-llama/llama-3.2-3b-instruct",
+      "name": "Llama 3.2 3B Instruct (free)",
+      "provider": "Meta",
+      "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it supports eight languages, including English, Spanish, and Hindi, and is adaptable for additional languages.\n\nTrained on 9 trillion tokens, the Llama 3.2 3B model excels in instruction-following, complex reasoning, and tool use. Its balanced performance makes it ideal for applications needing accuracy and efficiency in text generation across multilingual settings.\n\nClick here for the original model card.\n\nUsage of this model is subject to Meta's Acceptable Use Policy.",
+      "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
       "pub_date": "Wed, 25 Sep 2024 00:00:00 GMT"
     },
     {
@@ -3021,11 +3021,11 @@
       "pub_date": "Sun, 15 Sep 2024 00:00:00 GMT"
     },
     {
-      "id": "openai/o1-mini-2024-09-12",
-      "name": "o1-mini (2024-09-12)",
+      "id": "openai/o1-preview-2024-09-12",
+      "name": "o1-preview (2024-09-12)",
       "provider": "OpenAI",
       "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the launch announcement.\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
-      "link": "https://openrouter.ai/openai/o1-mini-2024-09-12",
+      "link": "https://openrouter.ai/openai/o1-preview-2024-09-12",
       "pub_date": "Thu, 12 Sep 2024 00:00:00 GMT"
     },
     {
@@ -3037,19 +3037,19 @@
       "pub_date": "Thu, 12 Sep 2024 00:00:00 GMT"
     },
     {
-      "id": "openai/o1-preview-2024-09-12",
-      "name": "o1-preview (2024-09-12)",
-      "provider": "OpenAI",
-      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the launch announcement.\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
-      "link": "https://openrouter.ai/openai/o1-preview-2024-09-12",
-      "pub_date": "Thu, 12 Sep 2024 00:00:00 GMT"
-    },
-    {
       "id": "openai/o1-preview",
       "name": "o1-preview",
       "provider": "OpenAI",
       "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the launch announcement.\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
       "link": "https://openrouter.ai/openai/o1-preview",
+      "pub_date": "Thu, 12 Sep 2024 00:00:00 GMT"
+    },
+    {
+      "id": "openai/o1-mini-2024-09-12",
+      "name": "o1-mini (2024-09-12)",
+      "provider": "OpenAI",
+      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the launch announcement.\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
+      "link": "https://openrouter.ai/openai/o1-mini-2024-09-12",
       "pub_date": "Thu, 12 Sep 2024 00:00:00 GMT"
     },
     {
@@ -3084,11 +3084,11 @@
       "pub_date": "Fri, 30 Aug 2024 00:00:00 GMT"
     },
     {
-      "id": "sao10k/l3.1-euryale-70b",
-      "name": "Llama 3.1 Euryale 70B v2.2",
-      "provider": "Sao10K",
-      "description": "Euryale L3.1 70B v2.2 is a model focused on creative roleplay from Sao10k. It is the successor of Euryale L3 70B v2.1.",
-      "link": "https://openrouter.ai/sao10k/l3.1-euryale-70b",
+      "id": "google/gemini-flash-1.5-exp",
+      "name": "Gemini 1.5 Flash Experimental",
+      "provider": "Google",
+      "description": "Gemini 1.5 Flash Experimental is an experimental version of the Gemini 1.5 Flash model.\n\nUsage of Gemini is subject to Google's Gemini Terms of Use.\n\n#multimodal\n\nNote: This model is experimental and not suited for production use-cases. It may be removed or redirected to another model in the future.",
+      "link": "https://openrouter.ai/google/gemini-flash-1.5-exp",
       "pub_date": "Wed, 28 Aug 2024 00:00:00 GMT"
     },
     {
@@ -3100,11 +3100,11 @@
       "pub_date": "Wed, 28 Aug 2024 00:00:00 GMT"
     },
     {
-      "id": "google/gemini-flash-1.5-exp",
-      "name": "Gemini 1.5 Flash Experimental",
-      "provider": "Google",
-      "description": "Gemini 1.5 Flash Experimental is an experimental version of the Gemini 1.5 Flash model.\n\nUsage of Gemini is subject to Google's Gemini Terms of Use.\n\n#multimodal\n\nNote: This model is experimental and not suited for production use-cases. It may be removed or redirected to another model in the future.",
-      "link": "https://openrouter.ai/google/gemini-flash-1.5-exp",
+      "id": "sao10k/l3.1-euryale-70b",
+      "name": "Llama 3.1 Euryale 70B v2.2",
+      "provider": "Sao10K",
+      "description": "Euryale L3.1 70B v2.2 is a model focused on creative roleplay from Sao10k. It is the successor of Euryale L3 70B v2.1.",
+      "link": "https://openrouter.ai/sao10k/l3.1-euryale-70b",
       "pub_date": "Wed, 28 Aug 2024 00:00:00 GMT"
     },
     {
@@ -3171,19 +3171,19 @@
       "pub_date": "Wed, 14 Aug 2024 00:00:00 GMT"
     },
     {
-      "id": "sao10k/l3-lunaris-8b",
-      "name": "Llama 3 8B Lunaris",
-      "provider": "Sao10K",
-      "description": "Lunaris 8B is a versatile generalist and roleplaying model based on Llama 3. It's a strategic merge of multiple models, designed to balance creativity with improved logic and general knowledge.\n\nCreated by Sao10k, this model aims to offer an improved experience over Stheno v3.2, with enhanced creativity and logical reasoning.\n\nFor best results, use with Llama 3 Instruct context template, temperature 1.4, and min_p 0.1.",
-      "link": "https://openrouter.ai/sao10k/l3-lunaris-8b",
-      "pub_date": "Tue, 13 Aug 2024 00:00:00 GMT"
-    },
-    {
       "id": "aetherwiing/mn-starcannon-12b",
       "name": "Starcannon 12B",
       "provider": "Aetherwiing",
       "description": "Starcannon 12B v2 is a creative roleplay and story writing model, based on Mistral Nemo, using nothingiisreal/mn-celeste-12b as a base, with intervitens/mini-magnum-12b-v1.1 merged in using the TIES method.\n\nAlthough more similar to Magnum overall, the model remains very creative, with a pleasant writing style. It is recommended for people wanting more variety than Magnum, and yet more verbose prose than Celeste.",
       "link": "https://openrouter.ai/aetherwiing/mn-starcannon-12b",
+      "pub_date": "Tue, 13 Aug 2024 00:00:00 GMT"
+    },
+    {
+      "id": "sao10k/l3-lunaris-8b",
+      "name": "Llama 3 8B Lunaris",
+      "provider": "Sao10K",
+      "description": "Lunaris 8B is a versatile generalist and roleplaying model based on Llama 3. It's a strategic merge of multiple models, designed to balance creativity with improved logic and general knowledge.\n\nCreated by Sao10k, this model aims to offer an improved experience over Stheno v3.2, with enhanced creativity and logical reasoning.\n\nFor best results, use with Llama 3 Instruct context template, temperature 1.4, and min_p 0.1.",
+      "link": "https://openrouter.ai/sao10k/l3-lunaris-8b",
       "pub_date": "Tue, 13 Aug 2024 00:00:00 GMT"
     },
     {
@@ -3193,22 +3193,6 @@
       "description": "The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability to supply a JSON schema in the respone_format. Read more here.\n\nGPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of GPT-4 Turbo while being twice as fast and 50% more cost-effective. GPT-4o also offers improved performance in processing non-English languages and enhanced visual capabilities.\n\nFor benchmarking against other models, it was briefly called \"im-also-a-good-gpt2-chatbot\"",
       "link": "https://openrouter.ai/openai/gpt-4o-2024-08-06",
       "pub_date": "Tue, 06 Aug 2024 00:00:00 GMT"
-    },
-    {
-      "id": "01-ai/yi-vision",
-      "name": "Yi Vision",
-      "provider": "01.AI",
-      "description": "The Yi Vision is a complex visual task models provide high-performance understanding and analysis capabilities based on multiple images.\n\nIt's ideal for scenarios that require analysis and interpretation of images and charts, such as image question answering, chart understanding, OCR, visual reasoning, education, research report understanding, or multilingual document reading.",
-      "link": "https://openrouter.ai/01-ai/yi-vision",
-      "pub_date": "Fri, 02 Aug 2024 00:00:00 GMT"
-    },
-    {
-      "id": "01-ai/yi-large-fc",
-      "name": "Yi Large FC",
-      "provider": "01.AI",
-      "description": "The Yi Large Function Calling (FC) is a specialized model with capability of tool use. The model can decide whether to call the tool based on the tool definition passed in by the user, and the calling method will be generate in the specified format.\n\nIt's applicable to various production scenarios that require building agents or workflows.",
-      "link": "https://openrouter.ai/01-ai/yi-large-fc",
-      "pub_date": "Fri, 02 Aug 2024 00:00:00 GMT"
     },
     {
       "id": "01-ai/yi-large-turbo",
@@ -3223,6 +3207,22 @@
       "name": "Mistral Nemo 12B Celeste",
       "description": "A specialized story writing and roleplaying model based on Mistral's NeMo 12B Instruct. Fine-tuned on curated datasets including Reddit Writing Prompts and Opus Instruct 25K.\n\nThis model excels at creative writing, offering improved NSFW capabilities, with smarter and more active narration. It demonstrates remarkable versatility in both SFW and NSFW scenarios, with strong Out of Character (OOC) steering capabilities, allowing fine-tuned control over narrative direction and character behavior.\n\nCheck out the model's HuggingFace page for details on what parameters and prompts work best!",
       "link": "https://openrouter.ai/nothingiisreal/mn-celeste-12b",
+      "pub_date": "Fri, 02 Aug 2024 00:00:00 GMT"
+    },
+    {
+      "id": "01-ai/yi-large-fc",
+      "name": "Yi Large FC",
+      "provider": "01.AI",
+      "description": "The Yi Large Function Calling (FC) is a specialized model with capability of tool use. The model can decide whether to call the tool based on the tool definition passed in by the user, and the calling method will be generate in the specified format.\n\nIt's applicable to various production scenarios that require building agents or workflows.",
+      "link": "https://openrouter.ai/01-ai/yi-large-fc",
+      "pub_date": "Fri, 02 Aug 2024 00:00:00 GMT"
+    },
+    {
+      "id": "01-ai/yi-vision",
+      "name": "Yi Vision",
+      "provider": "01.AI",
+      "description": "The Yi Vision is a complex visual task models provide high-performance understanding and analysis capabilities based on multiple images.\n\nIt's ideal for scenarios that require analysis and interpretation of images and charts, such as image question answering, chart understanding, OCR, visual reasoning, education, research report understanding, or multilingual document reading.",
+      "link": "https://openrouter.ai/01-ai/yi-vision",
       "pub_date": "Fri, 02 Aug 2024 00:00:00 GMT"
     },
     {
@@ -3242,14 +3242,6 @@
       "pub_date": "Thu, 01 Aug 2024 00:00:00 GMT"
     },
     {
-      "id": "perplexity/llama-3.1-sonar-small-128k-online",
-      "name": "Llama 3.1 Sonar 8B Online",
-      "provider": "Perplexity",
-      "description": "Llama 3.1 Sonar is Perplexity's latest model family. It surpasses their earlier Sonar models in cost-efficiency, speed, and performance.\n\nThis is the online version of the offline chat model. It is focused on delivering helpful, up-to-date, and factual responses. #online",
-      "link": "https://openrouter.ai/perplexity/llama-3.1-sonar-small-128k-online",
-      "pub_date": "Thu, 01 Aug 2024 00:00:00 GMT"
-    },
-    {
       "id": "google/gemini-pro-1.5-exp",
       "name": "Gemini 1.5 Pro Experimental",
       "provider": "Google",
@@ -3258,12 +3250,12 @@
       "pub_date": "Thu, 01 Aug 2024 00:00:00 GMT"
     },
     {
-      "id": "meta-llama/llama-3.1-8b-instruct",
-      "name": "Llama 3.1 8B Instruct",
-      "provider": "Meta",
-      "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, click here. Usage of this model is subject to Meta's Acceptable Use Policy.",
-      "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
-      "pub_date": "Tue, 23 Jul 2024 00:00:00 GMT"
+      "id": "perplexity/llama-3.1-sonar-small-128k-online",
+      "name": "Llama 3.1 Sonar 8B Online",
+      "provider": "Perplexity",
+      "description": "Llama 3.1 Sonar is Perplexity's latest model family. It surpasses their earlier Sonar models in cost-efficiency, speed, and performance.\n\nThis is the online version of the offline chat model. It is focused on delivering helpful, up-to-date, and factual responses. #online",
+      "link": "https://openrouter.ai/perplexity/llama-3.1-sonar-small-128k-online",
+      "pub_date": "Thu, 01 Aug 2024 00:00:00 GMT"
     },
     {
       "id": "meta-llama/llama-3.1-405b-instruct",
@@ -3274,12 +3266,28 @@
       "pub_date": "Tue, 23 Jul 2024 00:00:00 GMT"
     },
     {
+      "id": "meta-llama/llama-3.1-8b-instruct",
+      "name": "Llama 3.1 8B Instruct",
+      "provider": "Meta",
+      "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, click here. Usage of this model is subject to Meta's Acceptable Use Policy.",
+      "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
+      "pub_date": "Tue, 23 Jul 2024 00:00:00 GMT"
+    },
+    {
       "id": "meta-llama/llama-3.1-70b-instruct",
       "name": "Llama 3.1 70B Instruct",
       "provider": "Meta",
       "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, click here. Usage of this model is subject to Meta's Acceptable Use Policy.",
       "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
       "pub_date": "Tue, 23 Jul 2024 00:00:00 GMT"
+    },
+    {
+      "id": "mistralai/codestral-mamba",
+      "name": "Codestral Mamba",
+      "provider": "Mistral",
+      "description": "A 7.3B parameter Mamba-based model designed for code and reasoning tasks.\n\n- Linear time inference, allowing for theoretically infinite sequence lengths\n- 256k token context window\n- Optimized for quick responses, especially beneficial for code productivity\n- Performs comparably to state-of-the-art transformer models in code and reasoning tasks\n- Available under the Apache 2.0 license for free use, modification, and distribution",
+      "link": "https://openrouter.ai/mistralai/codestral-mamba",
+      "pub_date": "Fri, 19 Jul 2024 00:00:00 GMT"
     },
     {
       "id": "cognitivecomputations/dolphin-llama-3-70b",
@@ -3294,14 +3302,6 @@
       "provider": "Mistral",
       "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA.\n\nThe model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese, Korean, Arabic, and Hindi.\n\nIt supports function calling and is released under the Apache 2.0 license.",
       "link": "https://openrouter.ai/mistralai/mistral-nemo",
-      "pub_date": "Fri, 19 Jul 2024 00:00:00 GMT"
-    },
-    {
-      "id": "mistralai/codestral-mamba",
-      "name": "Codestral Mamba",
-      "provider": "Mistral",
-      "description": "A 7.3B parameter Mamba-based model designed for code and reasoning tasks.\n\n- Linear time inference, allowing for theoretically infinite sequence lengths\n- 256k token context window\n- Optimized for quick responses, especially beneficial for code productivity\n- Performs comparably to state-of-the-art transformer models in code and reasoning tasks\n- Available under the Apache 2.0 license for free use, modification, and distribution",
-      "link": "https://openrouter.ai/mistralai/codestral-mamba",
       "pub_date": "Fri, 19 Jul 2024 00:00:00 GMT"
     },
     {
@@ -3336,18 +3336,18 @@
       "pub_date": "Sat, 13 Jul 2024 00:00:00 GMT"
     },
     {
-      "id": "alpindale/magnum-72b",
-      "name": "Magnum 72B",
-      "description": "From the maker of Goliath, Magnum 72B is the first in a new family of models designed to achieve the prose quality of the Claude 3 models, notably Opus & Sonnet.\n\nThe model is based on Qwen2 72B and trained with 55 million tokens of highly curated roleplay (RP) data.",
-      "link": "https://openrouter.ai/alpindale/magnum-72b",
-      "pub_date": "Thu, 11 Jul 2024 00:00:00 GMT"
-    },
-    {
       "id": "nousresearch/hermes-2-theta-llama-3-8b",
       "name": "Hermes 2 Theta 8B",
       "provider": "Nous",
       "description": "An experimental merge model based on Llama 3, exhibiting a very distinctive style of writing. It combines the the best of Meta's Llama 3 8B and Nous Research's Hermes 2 Pro.\n\nHermes-2 Θ (theta) was specifically designed with a few capabilities in mind: executing function calls, generating JSON output, and most remarkably, demonstrating metacognitive abilities (contemplating the nature of thought and recognizing the diversity of cognitive processes among individuals).",
       "link": "https://openrouter.ai/nousresearch/hermes-2-theta-llama-3-8b",
+      "pub_date": "Thu, 11 Jul 2024 00:00:00 GMT"
+    },
+    {
+      "id": "alpindale/magnum-72b",
+      "name": "Magnum 72B",
+      "description": "From the maker of Goliath, Magnum 72B is the first in a new family of models designed to achieve the prose quality of the Claude 3 models, notably Opus & Sonnet.\n\nThe model is based on Qwen2 72B and trained with 55 million tokens of highly curated roleplay (RP) data.",
+      "link": "https://openrouter.ai/alpindale/magnum-72b",
       "pub_date": "Thu, 11 Jul 2024 00:00:00 GMT"
     },
     {
@@ -3443,6 +3443,14 @@
       "pub_date": "Sat, 01 Jun 2024 00:00:00 GMT"
     },
     {
+      "id": "mistralai/mistral-7b-instruct-v0.3",
+      "name": "Mistral 7B Instruct v0.3",
+      "provider": "Mistral",
+      "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.\n\nAn improved version of Mistral 7B Instruct v0.2, with the following changes:\n\n- Extended vocabulary to 32768\n- Supports v3 Tokenizer\n- Supports function calling\n\nNOTE: Support for function calling depends on the provider.",
+      "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.3",
+      "pub_date": "Mon, 27 May 2024 00:00:00 GMT"
+    },
+    {
       "id": "nousresearch/hermes-2-pro-llama-3-8b",
       "name": "Hermes 2 Pro - Llama-3 8B",
       "provider": "NousResearch",
@@ -3456,14 +3464,6 @@
       "provider": "Mistral",
       "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.\n\n*Mistral 7B Instruct has multiple version variants, and this is intended to be the latest version.*",
       "link": "https://openrouter.ai/mistralai/mistral-7b-instruct",
-      "pub_date": "Mon, 27 May 2024 00:00:00 GMT"
-    },
-    {
-      "id": "mistralai/mistral-7b-instruct-v0.3",
-      "name": "Mistral 7B Instruct v0.3",
-      "provider": "Mistral",
-      "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.\n\nAn improved version of Mistral 7B Instruct v0.2, with the following changes:\n\n- Extended vocabulary to 32768\n- Supports v3 Tokenizer\n- Supports function calling\n\nNOTE: Support for function calling depends on the provider.",
-      "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.3",
       "pub_date": "Mon, 27 May 2024 00:00:00 GMT"
     },
     {
@@ -3491,34 +3491,11 @@
       "pub_date": "Thu, 16 May 2024 00:00:00 GMT"
     },
     {
-      "id": "perplexity/llama-3-sonar-large-32k-chat",
-      "name": "Llama3 Sonar 70B",
-      "provider": "Perplexity",
-      "description": "Llama3 Sonar is Perplexity's latest model family. It surpasses their earlier Sonar models in cost-efficiency, speed, and performance.\n\nThis is a normal offline LLM, but the online version of this model has Internet access.",
-      "link": "https://openrouter.ai/perplexity/llama-3-sonar-large-32k-chat",
-      "pub_date": "Tue, 14 May 2024 00:00:00 GMT"
-    },
-    {
-      "id": "perplexity/llama-3-sonar-small-32k-online",
-      "name": "Llama3 Sonar 8B Online",
-      "provider": "Perplexity",
-      "description": "Llama3 Sonar is Perplexity's latest model family. It surpasses their earlier Sonar models in cost-efficiency, speed, and performance.\n\nThis is the online version of the offline chat model. It is focused on delivering helpful, up-to-date, and factual responses. #online",
-      "link": "https://openrouter.ai/perplexity/llama-3-sonar-small-32k-online",
-      "pub_date": "Tue, 14 May 2024 00:00:00 GMT"
-    },
-    {
-      "id": "perplexity/llama-3-sonar-small-32k-chat",
-      "name": "Llama3 Sonar 8B",
-      "provider": "Perplexity",
-      "description": "Llama3 Sonar is Perplexity's latest model family. It surpasses their earlier Sonar models in cost-efficiency, speed, and performance.\n\nThis is a normal offline LLM, but the online version of this model has Internet access.",
-      "link": "https://openrouter.ai/perplexity/llama-3-sonar-small-32k-chat",
-      "pub_date": "Tue, 14 May 2024 00:00:00 GMT"
-    },
-    {
-      "id": "deepseek/deepseek-chat-v2.5",
-      "name": "DeepSeek V2.5",
-      "description": "DeepSeek-V2.5 is an upgraded version that combines DeepSeek-V2-Chat and DeepSeek-Coder-V2-Instruct. The new model integrates the general and coding abilities of the two previous versions. For model details, please visit DeepSeek-V2 page for more information.",
-      "link": "https://openrouter.ai/deepseek/deepseek-chat-v2.5",
+      "id": "google/gemini-flash-1.5",
+      "name": "Gemini 1.5 Flash",
+      "provider": "Google",
+      "description": "Gemini 1.5 Flash is a foundation model that performs well at a variety of multimodal tasks such as visual understanding, classification, summarization, and creating content from image, audio and video. It's adept at processing visual and text inputs such as photographs, documents, infographics, and screenshots.\n\nGemini 1.5 Flash is designed for high-volume, high-frequency tasks where cost and latency matter. On most common tasks, Flash achieves comparable quality to other Gemini Pro models at a significantly reduced cost. Flash is well-suited for applications like chat assistants and on-demand content generation where speed and scale matter.\n\nUsage of Gemini is subject to Google's Gemini Terms of Use.\n\n#multimodal",
+      "link": "https://openrouter.ai/google/gemini-flash-1.5",
       "pub_date": "Tue, 14 May 2024 00:00:00 GMT"
     },
     {
@@ -3530,11 +3507,34 @@
       "pub_date": "Tue, 14 May 2024 00:00:00 GMT"
     },
     {
-      "id": "google/gemini-flash-1.5",
-      "name": "Gemini 1.5 Flash",
-      "provider": "Google",
-      "description": "Gemini 1.5 Flash is a foundation model that performs well at a variety of multimodal tasks such as visual understanding, classification, summarization, and creating content from image, audio and video. It's adept at processing visual and text inputs such as photographs, documents, infographics, and screenshots.\n\nGemini 1.5 Flash is designed for high-volume, high-frequency tasks where cost and latency matter. On most common tasks, Flash achieves comparable quality to other Gemini Pro models at a significantly reduced cost. Flash is well-suited for applications like chat assistants and on-demand content generation where speed and scale matter.\n\nUsage of Gemini is subject to Google's Gemini Terms of Use.\n\n#multimodal",
-      "link": "https://openrouter.ai/google/gemini-flash-1.5",
+      "id": "perplexity/llama-3-sonar-large-32k-chat",
+      "name": "Llama3 Sonar 70B",
+      "provider": "Perplexity",
+      "description": "Llama3 Sonar is Perplexity's latest model family. It surpasses their earlier Sonar models in cost-efficiency, speed, and performance.\n\nThis is a normal offline LLM, but the online version of this model has Internet access.",
+      "link": "https://openrouter.ai/perplexity/llama-3-sonar-large-32k-chat",
+      "pub_date": "Tue, 14 May 2024 00:00:00 GMT"
+    },
+    {
+      "id": "deepseek/deepseek-chat-v2.5",
+      "name": "DeepSeek V2.5",
+      "description": "DeepSeek-V2.5 is an upgraded version that combines DeepSeek-V2-Chat and DeepSeek-Coder-V2-Instruct. The new model integrates the general and coding abilities of the two previous versions. For model details, please visit DeepSeek-V2 page for more information.",
+      "link": "https://openrouter.ai/deepseek/deepseek-chat-v2.5",
+      "pub_date": "Tue, 14 May 2024 00:00:00 GMT"
+    },
+    {
+      "id": "perplexity/llama-3-sonar-small-32k-chat",
+      "name": "Llama3 Sonar 8B",
+      "provider": "Perplexity",
+      "description": "Llama3 Sonar is Perplexity's latest model family. It surpasses their earlier Sonar models in cost-efficiency, speed, and performance.\n\nThis is a normal offline LLM, but the online version of this model has Internet access.",
+      "link": "https://openrouter.ai/perplexity/llama-3-sonar-small-32k-chat",
+      "pub_date": "Tue, 14 May 2024 00:00:00 GMT"
+    },
+    {
+      "id": "perplexity/llama-3-sonar-small-32k-online",
+      "name": "Llama3 Sonar 8B Online",
+      "provider": "Perplexity",
+      "description": "Llama3 Sonar is Perplexity's latest model family. It surpasses their earlier Sonar models in cost-efficiency, speed, and performance.\n\nThis is the online version of the offline chat model. It is focused on delivering helpful, up-to-date, and factual responses. #online",
+      "link": "https://openrouter.ai/perplexity/llama-3-sonar-small-32k-online",
       "pub_date": "Tue, 14 May 2024 00:00:00 GMT"
     },
     {
@@ -3543,6 +3543,14 @@
       "provider": "Meta",
       "description": "This safeguard model has 8B parameters and is based on the Llama 3 family. Just like is predecessor, LlamaGuard 1, it can do both prompt and response classification.\n\nLlamaGuard 2 acts as a normal LLM would, generating text that indicates whether the given input/output is safe/unsafe. If deemed unsafe, it will also share the content categories violated.\n\nFor best results, please use raw prompt input or the `/completions` endpoint, instead of the chat API.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, click here. Usage of this model is subject to Meta's Acceptable Use Policy.",
       "link": "https://openrouter.ai/meta-llama/llama-guard-2-8b",
+      "pub_date": "Mon, 13 May 2024 00:00:00 GMT"
+    },
+    {
+      "id": "openai/gpt-4o-2024-05-13",
+      "name": "GPT-4o (2024-05-13)",
+      "provider": "OpenAI",
+      "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of GPT-4 Turbo while being twice as fast and 50% more cost-effective. GPT-4o also offers improved performance in processing non-English languages and enhanced visual capabilities.\n\nFor benchmarking against other models, it was briefly called \"im-also-a-good-gpt2-chatbot\"\n\n#multimodal",
+      "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
       "pub_date": "Mon, 13 May 2024 00:00:00 GMT"
     },
     {
@@ -3559,14 +3567,6 @@
       "provider": "Meta",
       "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This is the base 8B pre-trained version.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, click here. Usage of this model is subject to Meta's Acceptable Use Policy.",
       "link": "https://openrouter.ai/meta-llama/llama-3-8b",
-      "pub_date": "Mon, 13 May 2024 00:00:00 GMT"
-    },
-    {
-      "id": "openai/gpt-4o-2024-05-13",
-      "name": "GPT-4o (2024-05-13)",
-      "provider": "OpenAI",
-      "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of GPT-4 Turbo while being twice as fast and 50% more cost-effective. GPT-4o also offers improved performance in processing non-English languages and enhanced visual capabilities.\n\nFor benchmarking against other models, it was briefly called \"im-also-a-good-gpt2-chatbot\"\n\n#multimodal",
-      "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
       "pub_date": "Mon, 13 May 2024 00:00:00 GMT"
     },
     {
@@ -3883,14 +3883,6 @@
       "pub_date": "Mon, 22 Jan 2024 00:00:00 GMT"
     },
     {
-      "id": "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
-      "name": "Hermes 2 Mixtral 8x7B SFT",
-      "provider": "Nous",
-      "description": "Nous Hermes 2 Mixtral 8x7B SFT is the supervised finetune only version of the Nous Research model trained over the Mixtral 8x7B MoE LLM.\n\nThe model was trained on over 1,000,000 entries of primarily GPT-4 generated data, as well as other high quality data from open datasets across the AI landscape, achieving state of the art performance on a variety of tasks.\n\n#moe",
-      "link": "https://openrouter.ai/nousresearch/nous-hermes-2-mixtral-8x7b-sft",
-      "pub_date": "Tue, 16 Jan 2024 00:00:00 GMT"
-    },
-    {
       "id": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
       "name": "Hermes 2 Mixtral 8x7B DPO",
       "provider": "Nous",
@@ -3899,11 +3891,12 @@
       "pub_date": "Tue, 16 Jan 2024 00:00:00 GMT"
     },
     {
-      "id": "mistralai/mistral-small",
-      "name": "Mistral Small",
-      "description": "With 22 billion parameters, Mistral Small v24.09 offers a convenient mid-point between (Mistral NeMo 12B)[/mistralai/mistral-nemo] and (Mistral Large 2)[/mistralai/mistral-large], providing a cost-effective solution that can be deployed across various platforms and environments. It has better reasoning, exhibits more capabilities, can produce and reason about code, and is multiligual, supporting English, French, German, Italian, and Spanish.",
-      "link": "https://openrouter.ai/mistralai/mistral-small",
-      "pub_date": "Wed, 10 Jan 2024 00:00:00 GMT"
+      "id": "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
+      "name": "Hermes 2 Mixtral 8x7B SFT",
+      "provider": "Nous",
+      "description": "Nous Hermes 2 Mixtral 8x7B SFT is the supervised finetune only version of the Nous Research model trained over the Mixtral 8x7B MoE LLM.\n\nThe model was trained on over 1,000,000 entries of primarily GPT-4 generated data, as well as other high quality data from open datasets across the AI landscape, achieving state of the art performance on a variety of tasks.\n\n#moe",
+      "link": "https://openrouter.ai/nousresearch/nous-hermes-2-mixtral-8x7b-sft",
+      "pub_date": "Tue, 16 Jan 2024 00:00:00 GMT"
     },
     {
       "id": "mistralai/mistral-medium",
@@ -3920,6 +3913,13 @@
       "pub_date": "Wed, 10 Jan 2024 00:00:00 GMT"
     },
     {
+      "id": "mistralai/mistral-small",
+      "name": "Mistral Small",
+      "description": "With 22 billion parameters, Mistral Small v24.09 offers a convenient mid-point between (Mistral NeMo 12B)[/mistralai/mistral-nemo] and (Mistral Large 2)[/mistralai/mistral-large], providing a cost-effective solution that can be deployed across various platforms and environments. It has better reasoning, exhibits more capabilities, can produce and reason about code, and is multiligual, supporting English, French, German, Italian, and Spanish.",
+      "link": "https://openrouter.ai/mistralai/mistral-small",
+      "pub_date": "Wed, 10 Jan 2024 00:00:00 GMT"
+    },
+    {
       "id": "jondurbin/bagel-34b",
       "name": "Bagel 34B v0.2",
       "description": "An experimental fine-tune of Yi 34b 200k using bagel. This is the version of the fine-tune before direct preference optimization (DPO) has been applied. DPO performs better on benchmarks, but this version is likely better for creative writing, roleplay, etc.",
@@ -3927,18 +3927,18 @@
       "pub_date": "Fri, 05 Jan 2024 00:00:00 GMT"
     },
     {
-      "id": "neversleep/noromaid-mixtral-8x7b-instruct",
-      "name": "Noromaid Mixtral 8x7B Instruct",
-      "description": "This model was trained for 8h(v1) + 8h(v2) + 12h(v3) on customized modified datasets, focusing on RP, uncensoring, and a modified version of the Alpaca prompting (that was already used in LimaRP), which should be at the same conversational level as ChatLM or Llama2-Chat without adding any additional special tokens.",
-      "link": "https://openrouter.ai/neversleep/noromaid-mixtral-8x7b-instruct",
-      "pub_date": "Tue, 02 Jan 2024 00:00:00 GMT"
-    },
-    {
       "id": "nousresearch/nous-hermes-yi-34b",
       "name": "Hermes 2 Yi 34B",
       "provider": "Nous",
       "description": "Nous Hermes 2 Yi 34B was trained on 1,000,000 entries of primarily GPT-4 generated data, as well as other high quality data from open datasets across the AI landscape.\n\nNous-Hermes 2 on Yi 34B outperforms all Nous-Hermes & Open-Hermes models of the past, achieving new heights in all benchmarks for a Nous Research LLM as well as surpassing many popular finetunes.",
       "link": "https://openrouter.ai/nousresearch/nous-hermes-yi-34b",
+      "pub_date": "Tue, 02 Jan 2024 00:00:00 GMT"
+    },
+    {
+      "id": "neversleep/noromaid-mixtral-8x7b-instruct",
+      "name": "Noromaid Mixtral 8x7B Instruct",
+      "description": "This model was trained for 8h(v1) + 8h(v2) + 12h(v3) on customized modified datasets, focusing on RP, uncensoring, and a modified version of the Alpaca prompting (that was already used in LimaRP), which should be at the same conversational level as ChatLM or Llama2-Chat without adding any additional special tokens.",
+      "link": "https://openrouter.ai/neversleep/noromaid-mixtral-8x7b-instruct",
       "pub_date": "Tue, 02 Jan 2024 00:00:00 GMT"
     },
     {
@@ -3979,17 +3979,17 @@
       "pub_date": "Sun, 10 Dec 2023 00:00:00 GMT"
     },
     {
-      "id": "togethercomputer/stripedhyena-hessian-7b",
-      "name": "StripedHyena Hessian 7B (base)",
-      "description": "This is the base model variant of the StripedHyena series, developed by Together.\n\nStripedHyena uses a new architecture that competes with traditional Transformers, particularly in long-context data processing. It combines attention mechanisms with gated convolutions for improved speed, efficiency, and scaling. This model marks an advancement in AI architecture for sequence modeling tasks.",
-      "link": "https://openrouter.ai/togethercomputer/stripedhyena-hessian-7b",
-      "pub_date": "Sat, 09 Dec 2023 00:00:00 GMT"
-    },
-    {
       "id": "togethercomputer/stripedhyena-nous-7b",
       "name": "StripedHyena Nous 7B",
       "description": "This is the chat model variant of the StripedHyena series developed by Together in collaboration with Nous Research.\n\nStripedHyena uses a new architecture that competes with traditional Transformers, particularly in long-context data processing. It combines attention mechanisms with gated convolutions for improved speed, efficiency, and scaling. This model marks a significant advancement in AI architecture for sequence modeling tasks.",
       "link": "https://openrouter.ai/togethercomputer/stripedhyena-nous-7b",
+      "pub_date": "Sat, 09 Dec 2023 00:00:00 GMT"
+    },
+    {
+      "id": "togethercomputer/stripedhyena-hessian-7b",
+      "name": "StripedHyena Hessian 7B (base)",
+      "description": "This is the base model variant of the StripedHyena series, developed by Together.\n\nStripedHyena uses a new architecture that competes with traditional Transformers, particularly in long-context data processing. It combines attention mechanisms with gated convolutions for improved speed, efficiency, and scaling. This model marks an advancement in AI architecture for sequence modeling tasks.",
+      "link": "https://openrouter.ai/togethercomputer/stripedhyena-hessian-7b",
       "pub_date": "Sat, 09 Dec 2023 00:00:00 GMT"
     },
     {
@@ -4008,6 +4008,20 @@
       "pub_date": "Thu, 07 Dec 2023 00:00:00 GMT"
     },
     {
+      "id": "01-ai/yi-34b",
+      "name": "Yi 34B (base)",
+      "description": "The Yi series models are large language models trained from scratch by developers at 01.AI. This is the base 34B parameter model.",
+      "link": "https://openrouter.ai/01-ai/yi-34b",
+      "pub_date": "Thu, 07 Dec 2023 00:00:00 GMT"
+    },
+    {
+      "id": "01-ai/yi-34b-chat",
+      "name": "Yi 34B Chat",
+      "description": "The Yi series models are large language models trained from scratch by developers at 01.AI. This 34B parameter model has been instruct-tuned for chat.",
+      "link": "https://openrouter.ai/01-ai/yi-34b-chat",
+      "pub_date": "Thu, 07 Dec 2023 00:00:00 GMT"
+    },
+    {
       "id": "gryphe/mythomist-7b",
       "name": "MythoMist 7B",
       "description": "From the creator of MythoMax, merges a suite of models to reduce word anticipation, ministrations, and other undesirable words in ChatGPT roleplaying data.\n\nIt combines Neural Chat 7B, Airoboros 7b, Toppy M 7B, Zepher 7b beta, Nous Capybara 34B, OpenHeremes 2.5, and many others.\n\n#merge",
@@ -4019,20 +4033,6 @@
       "name": "Yi 6B (base)",
       "description": "The Yi series models are large language models trained from scratch by developers at 01.AI. This is the base 6B parameter model.",
       "link": "https://openrouter.ai/01-ai/yi-6b",
-      "pub_date": "Thu, 07 Dec 2023 00:00:00 GMT"
-    },
-    {
-      "id": "01-ai/yi-34b-chat",
-      "name": "Yi 34B Chat",
-      "description": "The Yi series models are large language models trained from scratch by developers at 01.AI. This 34B parameter model has been instruct-tuned for chat.",
-      "link": "https://openrouter.ai/01-ai/yi-34b-chat",
-      "pub_date": "Thu, 07 Dec 2023 00:00:00 GMT"
-    },
-    {
-      "id": "01-ai/yi-34b",
-      "name": "Yi 34B (base)",
-      "description": "The Yi series models are large language models trained from scratch by developers at 01.AI. This is the base 34B parameter model.",
-      "link": "https://openrouter.ai/01-ai/yi-34b",
       "pub_date": "Thu, 07 Dec 2023 00:00:00 GMT"
     },
     {
@@ -4079,19 +4079,19 @@
       "pub_date": "Sat, 25 Nov 2023 00:00:00 GMT"
     },
     {
-      "id": "anthropic/claude-instant-1.1",
-      "name": "Claude Instant v1.1",
-      "provider": "Anthropic",
-      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
-      "link": "https://openrouter.ai/anthropic/claude-instant-1.1",
-      "pub_date": "Wed, 22 Nov 2023 00:00:00 GMT"
-    },
-    {
       "id": "anthropic/claude-2",
       "name": "Claude v2",
       "provider": "Anthropic",
       "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
       "link": "https://openrouter.ai/anthropic/claude-2",
+      "pub_date": "Wed, 22 Nov 2023 00:00:00 GMT"
+    },
+    {
+      "id": "anthropic/claude-instant-1.1",
+      "name": "Claude Instant v1.1",
+      "provider": "Anthropic",
+      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
+      "link": "https://openrouter.ai/anthropic/claude-instant-1.1",
       "pub_date": "Wed, 22 Nov 2023 00:00:00 GMT"
     },
     {
@@ -4229,19 +4229,19 @@
       "pub_date": "Sun, 15 Oct 2023 00:00:00 GMT"
     },
     {
-      "id": "openai/gpt-3.5-turbo-instruct",
-      "name": "GPT-3.5 Turbo Instruct",
-      "provider": "OpenAI",
-      "description": "This model is a variant of GPT-3.5 Turbo tuned for instructional prompts and omitting chat-related optimizations. Training data: up to Sep 2021.",
-      "link": "https://openrouter.ai/openai/gpt-3.5-turbo-instruct",
-      "pub_date": "Thu, 28 Sep 2023 00:00:00 GMT"
-    },
-    {
       "id": "mistralai/mistral-7b-instruct-v0.1",
       "name": "Mistral 7B Instruct v0.1",
       "provider": "Mistral",
       "description": "A 7.3B parameter model that outperforms Llama 2 13B on all benchmarks, with optimizations for speed and context length.",
       "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1",
+      "pub_date": "Thu, 28 Sep 2023 00:00:00 GMT"
+    },
+    {
+      "id": "openai/gpt-3.5-turbo-instruct",
+      "name": "GPT-3.5 Turbo Instruct",
+      "provider": "OpenAI",
+      "description": "This model is a variant of GPT-3.5 Turbo tuned for instructional prompts and omitting chat-related optimizations. Training data: up to Sep 2021.",
+      "link": "https://openrouter.ai/openai/gpt-3.5-turbo-instruct",
       "pub_date": "Thu, 28 Sep 2023 00:00:00 GMT"
     },
     {
@@ -4284,6 +4284,14 @@
       "pub_date": "Mon, 28 Aug 2023 00:00:00 GMT"
     },
     {
+      "id": "meta-llama/codellama-34b-instruct",
+      "name": "CodeLlama 34B Instruct",
+      "provider": "Meta",
+      "description": "Code Llama is built upon Llama 2 and excels at filling in code, handling extensive input contexts, and following programming instructions without prior training for various programming tasks.",
+      "link": "https://openrouter.ai/meta-llama/codellama-34b-instruct",
+      "pub_date": "Sun, 20 Aug 2023 00:00:00 GMT"
+    },
+    {
       "id": "nousresearch/nous-hermes-llama2-13b",
       "name": "Hermes 13B",
       "provider": "Nous",
@@ -4297,14 +4305,6 @@
       "provider": "Phind",
       "description": "A fine-tune of CodeLlama-34B on an internal dataset that helps it exceed GPT-4 on some benchmarks, including HumanEval.",
       "link": "https://openrouter.ai/phind/phind-codellama-34b",
-      "pub_date": "Sun, 20 Aug 2023 00:00:00 GMT"
-    },
-    {
-      "id": "meta-llama/codellama-34b-instruct",
-      "name": "CodeLlama 34B Instruct",
-      "provider": "Meta",
-      "description": "Code Llama is built upon Llama 2 and excels at filling in code, handling extensive input contexts, and following programming instructions without prior training for various programming tasks.",
-      "link": "https://openrouter.ai/meta-llama/codellama-34b-instruct",
       "pub_date": "Sun, 20 Aug 2023 00:00:00 GMT"
     },
     {
@@ -4332,6 +4332,14 @@
       "pub_date": "Fri, 28 Jul 2023 00:00:00 GMT"
     },
     {
+      "id": "anthropic/claude-instant-1",
+      "name": "Claude Instant v1",
+      "provider": "Anthropic",
+      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
+      "link": "https://openrouter.ai/anthropic/claude-instant-1",
+      "pub_date": "Fri, 28 Jul 2023 00:00:00 GMT"
+    },
+    {
       "id": "anthropic/claude-1.2",
       "name": "Claude v1.2",
       "provider": "Anthropic",
@@ -4345,14 +4353,6 @@
       "provider": "Anthropic",
       "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
       "link": "https://openrouter.ai/anthropic/claude-1",
-      "pub_date": "Fri, 28 Jul 2023 00:00:00 GMT"
-    },
-    {
-      "id": "anthropic/claude-instant-1",
-      "name": "Claude Instant v1",
-      "provider": "Anthropic",
-      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
-      "link": "https://openrouter.ai/anthropic/claude-instant-1",
       "pub_date": "Fri, 28 Jul 2023 00:00:00 GMT"
     },
     {
@@ -4394,14 +4394,6 @@
       "pub_date": "Sun, 02 Jul 2023 00:00:00 GMT"
     },
     {
-      "id": "meta-llama/llama-2-70b-chat",
-      "name": "Llama 2 70B Chat",
-      "provider": "Meta",
-      "description": "The flagship, 70 billion parameter language model from Meta, fine tuned for chat completions. Llama 2 is an auto-regressive language model that uses an optimized transformer architecture. The tuned versions use supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF) to align to human preferences for helpfulness and safety.",
-      "link": "https://openrouter.ai/meta-llama/llama-2-70b-chat",
-      "pub_date": "Tue, 20 Jun 2023 00:00:00 GMT"
-    },
-    {
       "id": "meta-llama/llama-2-13b-chat",
       "name": "Llama 2 13B Chat",
       "provider": "Meta",
@@ -4410,11 +4402,19 @@
       "pub_date": "Tue, 20 Jun 2023 00:00:00 GMT"
     },
     {
-      "id": "openai/gpt-4-0314",
-      "name": "GPT-4 (older v0314)",
+      "id": "meta-llama/llama-2-70b-chat",
+      "name": "Llama 2 70B Chat",
+      "provider": "Meta",
+      "description": "The flagship, 70 billion parameter language model from Meta, fine tuned for chat completions. Llama 2 is an auto-regressive language model that uses an optimized transformer architecture. The tuned versions use supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF) to align to human preferences for helpfulness and safety.",
+      "link": "https://openrouter.ai/meta-llama/llama-2-70b-chat",
+      "pub_date": "Tue, 20 Jun 2023 00:00:00 GMT"
+    },
+    {
+      "id": "openai/gpt-3.5-turbo-0125",
+      "name": "GPT-3.5 Turbo 16k",
       "provider": "OpenAI",
-      "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
-      "link": "https://openrouter.ai/openai/gpt-4-0314",
+      "description": "The latest GPT-3.5 Turbo model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Sep 2021.\n\nThis version has a higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls.",
+      "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0125",
       "pub_date": "Sun, 28 May 2023 00:00:00 GMT"
     },
     {
@@ -4426,19 +4426,11 @@
       "pub_date": "Sun, 28 May 2023 00:00:00 GMT"
     },
     {
-      "id": "openai/gpt-3.5-turbo-0125",
-      "name": "GPT-3.5 Turbo 16k",
+      "id": "openai/gpt-4-0314",
+      "name": "GPT-4 (older v0314)",
       "provider": "OpenAI",
-      "description": "The latest GPT-3.5 Turbo model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Sep 2021.\n\nThis version has a higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls.",
-      "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0125",
-      "pub_date": "Sun, 28 May 2023 00:00:00 GMT"
-    },
-    {
-      "id": "openai/gpt-3.5-turbo-0301",
-      "name": "GPT-3.5 Turbo (older v0301)",
-      "provider": "OpenAI",
-      "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
-      "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0301",
+      "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
+      "link": "https://openrouter.ai/openai/gpt-4-0314",
       "pub_date": "Sun, 28 May 2023 00:00:00 GMT"
     },
     {
@@ -4447,6 +4439,14 @@
       "provider": "OpenAI",
       "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
       "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
+      "pub_date": "Sun, 28 May 2023 00:00:00 GMT"
+    },
+    {
+      "id": "openai/gpt-3.5-turbo-0301",
+      "name": "GPT-3.5 Turbo (older v0301)",
+      "provider": "OpenAI",
+      "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
+      "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0301",
       "pub_date": "Sun, 28 May 2023 00:00:00 GMT"
     }
   ]
