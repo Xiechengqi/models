@@ -3,6 +3,22 @@
   "api_key_page": "https://openrouter.ai/settings/keys",
   "models": [
     {
+      "id": "bytedance-seed/seed-1.6-flash",
+      "name": "Seed 1.6 Flash",
+      "provider": "ByteDance Seed",
+      "description": "Seed 1.6 Flash is an ultra-fast multimodal deep thinking model by ByteDance Seed, supporting both text and visual understanding. It features a 256k context window and can generate outputs of up to 16k tokens.",
+      "link": "https://openrouter.ai/bytedance-seed/seed-1.6-flash",
+      "pub_date": "Tue, 23 Dec 2025 15:50:11 GMT"
+    },
+    {
+      "id": "bytedance-seed/seed-1.6",
+      "name": "Seed 1.6",
+      "provider": "ByteDance Seed",
+      "description": "Seed 1.6 is a general-purpose model released by the ByteDance Seed team. It incorporates multimodal capabilities and adaptive deep thinking with a 256K context window.",
+      "link": "https://openrouter.ai/bytedance-seed/seed-1.6",
+      "pub_date": "Tue, 23 Dec 2025 15:49:57 GMT"
+    },
+    {
       "id": "minimax/minimax-m2.1",
       "name": "MiniMax M2.1",
       "provider": "MiniMax",
