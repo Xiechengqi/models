@@ -3,6 +3,14 @@
   "api_key_page": "https://openrouter.ai/settings/keys",
   "models": [
     {
+      "id": "bytedance-seed/seedream-4.5",
+      "name": "Seedream 4.5",
+      "provider": "ByteDance Seed",
+      "description": "Seedream 4.5 is the latest in-house image generation model developed by ByteDance. Compared with Seedream 4.0, it delivers comprehensive improvements—especially in editing consistency, including better preservation of subject details, lighting, and color tone. It also enhances portrait refinement and small-text rendering. The model’s multi-image composition capabilities have been significantly strengthened, and both reasoning performance and visual aesthetics continue to advance, enabling more accurate and artistically expressive image generation.\n\nPricing is $0.04 per output image, regardless of size.",
+      "link": "https://openrouter.ai/bytedance-seed/seedream-4.5",
+      "pub_date": "Tue, 23 Dec 2025 19:51:46 GMT"
+    },
+    {
       "id": "bytedance-seed/seed-1.6-flash",
       "name": "Seed 1.6 Flash",
       "provider": "ByteDance Seed",
