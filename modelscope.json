@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 789800,
+      "downloads": 790300,
       "stars": 173,
       "task_types": "视觉多模态理解"
     },
@@ -218,7 +218,7 @@
       "organization": "Qwen",
       "name": "通义千问2.5-32B-Instruct",
       "time": "2025.03.07",
-      "downloads": 724500,
+      "downloads": 724600,
       "stars": 84,
       "task_types": "文本生成"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 688000,
+      "downloads": 688100,
       "stars": 390,
       "task_types": "文本生成"
     },
@@ -288,7 +288,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 427700,
+      "downloads": 428200,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 320100,
+      "downloads": 320400,
       "stars": 92,
       "task_types": "视觉多模态理解"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 261200,
+      "downloads": 261300,
       "stars": 29,
       "task_types": "文本生成"
     },
@@ -397,7 +397,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "time": "2025.02.24",
-      "downloads": 146700,
+      "downloads": 146800,
       "stars": 73,
       "task_types": "文本生成"
     },
@@ -467,7 +467,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 83000,
+      "downloads": 83700,
       "stars": 1100,
       "task_types": "文本生成图片"
     },
@@ -547,7 +547,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 33200,
+      "downloads": 33500,
       "stars": 93,
       "task_types": "文本生成"
     },
