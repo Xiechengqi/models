@@ -39,7 +39,7 @@
       "name": "通义千问2.5-VL-7B-Instruct",
       "time": "2025.04.07",
       "downloads": 3600000,
-      "stars": 375,
+      "stars": 376,
       "task_types": "视觉多模态理解"
     },
     {
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 795200,
+      "downloads": 795700,
       "stars": 174,
       "task_types": "视觉多模态理解"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 683700,
+      "downloads": 683800,
       "stars": 66,
       "task_types": "文本生成"
     },
@@ -288,7 +288,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 436700,
+      "downloads": 437200,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 324300,
+      "downloads": 324500,
       "stars": 92,
       "task_types": "视觉多模态理解"
     },
@@ -327,7 +327,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 311100,
+      "downloads": 311200,
       "stars": 43,
       "task_types": "文本生成"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 262800,
+      "downloads": 262900,
       "stars": 29,
       "task_types": "文本生成"
     },
@@ -367,7 +367,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Coder-30B-A3B-Instruct",
       "time": "2025.12.04",
-      "downloads": 196700,
+      "downloads": 196800,
       "stars": 102,
       "task_types": "文本生成"
     },
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 124700,
+      "downloads": 124800,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -447,7 +447,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 86300,
+      "downloads": 86800,
       "stars": 1100,
       "task_types": "文本生成图片"
     },
@@ -775,7 +775,7 @@
       "name": "LiblibAI/AWPortraitCN",
       "time": "2025.03.07",
       "downloads": 15900,
-      "stars": 47,
+      "stars": 48,
       "task_types": "文本生成图片"
     },
     {
@@ -1061,7 +1061,7 @@
       "organization": "MusePublic",
       "name": "majicMIX realistic 麦橘写实 SD1.5",
       "time": "2025.03.07",
-      "downloads": 8000,
+      "downloads": 8100,
       "stars": 57,
       "task_types": "文本生成图片"
     },
@@ -1332,7 +1332,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7",
       "time": "2025.12.23",
-      "downloads": 4000,
+      "downloads": 4100,
       "stars": 52,
       "task_types": "文本生成"
     },
@@ -1387,16 +1387,6 @@
       "task_types": "文本生成"
     },
     {
-      "link": "https://modelscope.cn/models/mysun2023/HUIMENG_FLUX_MAGIC",
-      "id": "mysun2023/HUIMENG_FLUX_MAGIC",
-      "organization": "mysun2023",
-      "name": "绘梦·FLUX基础模型·艺术家",
-      "time": "2025.03.07",
-      "downloads": 3800,
-      "stars": 1,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/lip421/xiuxian5FLUX",
       "id": "lip421/xiuxian5FLUX",
       "organization": "lip421",
@@ -1404,6 +1394,16 @@
       "time": "2025.03.07",
       "downloads": 3800,
       "stars": 9,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/HUIMENG_FLUX_MAGIC",
+      "id": "mysun2023/HUIMENG_FLUX_MAGIC",
+      "organization": "mysun2023",
+      "name": "绘梦·FLUX基础模型·艺术家",
+      "time": "2025.03.07",
+      "downloads": 3800,
+      "stars": 1,
       "task_types": "文本生成图片"
     },
     {
