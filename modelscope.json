@@ -119,7 +119,7 @@
       "name": "Qwen/Qwen-Image",
       "time": "2025.08.18",
       "downloads": 1500000,
-      "stars": 381,
+      "stars": 382,
       "task_types": "文本生成图片"
     },
     {
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 799600,
+      "downloads": 799900,
       "stars": 174,
       "task_types": "视觉多模态理解"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 684600,
+      "downloads": 684700,
       "stars": 66,
       "task_types": "文本生成"
     },
@@ -288,7 +288,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 440800,
+      "downloads": 441300,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 326200,
+      "downloads": 326400,
       "stars": 93,
       "task_types": "视觉多模态理解"
     },
@@ -397,7 +397,7 @@
       "organization": "iic",
       "name": "通义-DeepResearch-30B-A3B",
       "time": "2025.10.11",
-      "downloads": 163300,
+      "downloads": 163400,
       "stars": 107,
       "task_types": "文本生成"
     },
@@ -427,7 +427,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 125200,
+      "downloads": 125300,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -457,7 +457,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 88800,
+      "downloads": 89100,
       "stars": 1100,
       "task_types": "文本生成图片"
     },
@@ -507,7 +507,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 58800,
+      "downloads": 58900,
       "stars": 181,
       "task_types": "文本生成"
     },
@@ -537,7 +537,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.6",
       "time": "2025.12.02",
-      "downloads": 43800,
+      "downloads": 43900,
       "stars": 280,
       "task_types": "文本生成"
     },
@@ -1283,7 +1283,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7",
       "time": "2025.12.23",
-      "downloads": 4800,
+      "downloads": 4900,
       "stars": 59,
       "task_types": "文本生成"
     },
