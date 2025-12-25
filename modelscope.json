@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 801500,
+      "downloads": 801600,
       "stars": 174,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 690500,
+      "downloads": 690600,
       "stars": 390,
       "task_types": "文本生成"
     },
@@ -288,7 +288,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 444500,
+      "downloads": 444900,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 327500,
+      "downloads": 327700,
       "stars": 93,
       "task_types": "视觉多模态理解"
     },
@@ -327,7 +327,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 311900,
+      "downloads": 312000,
       "stars": 43,
       "task_types": "文本生成"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 264200,
+      "downloads": 264300,
       "stars": 29,
       "task_types": "文本生成"
     },
@@ -537,7 +537,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.6",
       "time": "2025.12.02",
-      "downloads": 44200,
+      "downloads": 44300,
       "stars": 280,
       "task_types": "文本生成"
     },
@@ -1250,6 +1250,16 @@
       "task_types": "视觉多模态理解"
     },
     {
+      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7",
+      "id": "ZhipuAI/GLM-4.7",
+      "organization": "ZhipuAI",
+      "name": "GLM-4.7",
+      "time": "2025.12.23",
+      "downloads": 5500,
+      "stars": 60,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/kyisen/nizi",
       "id": "kyisen/nizi",
       "organization": "kyisen",
@@ -1257,16 +1267,6 @@
       "time": "2025.03.07",
       "downloads": 5400,
       "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7",
-      "id": "ZhipuAI/GLM-4.7",
-      "organization": "ZhipuAI",
-      "name": "GLM-4.7",
-      "time": "2025.12.23",
-      "downloads": 5400,
-      "stars": 60,
-      "task_types": "文本生成"
     },
     {
       "link": "https://modelscope.cn/models/aeetes/fj",
@@ -1367,16 +1367,6 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/PaddlePaddle/ERNIE-4.5-21B-A3B-PT",
-      "id": "PaddlePaddle/ERNIE-4.5-21B-A3B-PT",
-      "organization": "PaddlePaddle",
-      "name": "PaddlePaddle/ERNIE-4.5-21B-A3B-PT",
-      "time": "2025.09.27",
-      "downloads": 4000,
-      "stars": 4,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/XGenerationLab/XiYanSQL-QwenCoder-32B-2504",
       "id": "XGenerationLab/XiYanSQL-QwenCoder-32B-2504",
       "organization": "XGenerationLab",
@@ -1384,6 +1374,16 @@
       "time": "2025.12.04",
       "downloads": 4000,
       "stars": 36,
+      "task_types": "文本生成"
+    },
+    {
+      "link": "https://modelscope.cn/models/PaddlePaddle/ERNIE-4.5-21B-A3B-PT",
+      "id": "PaddlePaddle/ERNIE-4.5-21B-A3B-PT",
+      "organization": "PaddlePaddle",
+      "name": "PaddlePaddle/ERNIE-4.5-21B-A3B-PT",
+      "time": "2025.09.27",
+      "downloads": 4000,
+      "stars": 4,
       "task_types": "文本生成"
     },
     {
