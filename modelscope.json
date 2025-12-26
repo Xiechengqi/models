@@ -19,7 +19,7 @@
       "name": "通义千问3-8B",
       "time": "2025.07.27",
       "downloads": 3800000,
-      "stars": 182,
+      "stars": 183,
       "task_types": "文本生成"
     },
     {
@@ -59,7 +59,7 @@
       "name": "通义千问3-32B",
       "time": "2025.07.27",
       "downloads": 3000000,
-      "stars": 260,
+      "stars": 261,
       "task_types": "文本生成"
     },
     {
@@ -79,7 +79,7 @@
       "name": "通义千问3-4B",
       "time": "2025.07.27",
       "downloads": 2000000,
-      "stars": 88,
+      "stars": 89,
       "task_types": "文本生成"
     },
     {
@@ -139,7 +139,7 @@
       "name": "通义千问3-30B-A3B-Instruct-2507",
       "time": "2025.09.17",
       "downloads": 1400000,
-      "stars": 95,
+      "stars": 96,
       "task_types": "文本生成"
     },
     {
@@ -159,7 +159,7 @@
       "name": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
       "time": "2025.02.25",
       "downloads": 1300000,
-      "stars": 92,
+      "stars": 93,
       "task_types": "文本生成"
     },
     {
@@ -198,8 +198,8 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 801900,
-      "stars": 174,
+      "downloads": 802700,
+      "stars": 175,
       "task_types": "视觉多模态理解"
     },
     {
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 690700,
+      "downloads": 690900,
       "stars": 390,
       "task_types": "文本生成"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 685200,
+      "downloads": 685500,
       "stars": 66,
       "task_types": "文本生成"
     },
@@ -258,7 +258,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 504800,
+      "downloads": 504900,
       "stars": 270,
       "task_types": "文本生成"
     },
@@ -268,7 +268,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
       "time": "2025.02.25",
-      "downloads": 453400,
+      "downloads": 453500,
       "stars": 148,
       "task_types": "文本生成"
     },
@@ -288,7 +288,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 445800,
+      "downloads": 447600,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 328000,
+      "downloads": 328500,
       "stars": 93,
       "task_types": "视觉多模态理解"
     },
@@ -327,7 +327,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 312000,
+      "downloads": 312100,
       "stars": 43,
       "task_types": "文本生成"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 264500,
+      "downloads": 264600,
       "stars": 29,
       "task_types": "文本生成"
     },
@@ -357,7 +357,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B-Instruct-2507",
       "time": "2025.09.17",
-      "downloads": 199000,
+      "downloads": 199100,
       "stars": 178,
       "task_types": "文本生成"
     },
@@ -397,7 +397,7 @@
       "organization": "iic",
       "name": "通义-DeepResearch-30B-A3B",
       "time": "2025.10.11",
-      "downloads": 163800,
+      "downloads": 163900,
       "stars": 107,
       "task_types": "文本生成"
     },
@@ -427,7 +427,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 125700,
+      "downloads": 125800,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -457,7 +457,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 90900,
+      "downloads": 91200,
       "stars": 1100,
       "task_types": "文本生成图片"
     },
@@ -467,7 +467,7 @@
       "organization": "Qwen",
       "name": "通义千问2.5-代码-7B-Instruct",
       "time": "2025.03.07",
-      "downloads": 82200,
+      "downloads": 82300,
       "stars": 58,
       "task_types": "文本生成"
     },
@@ -507,8 +507,8 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 59300,
-      "stars": 181,
+      "downloads": 59400,
+      "stars": 182,
       "task_types": "文本生成"
     },
     {
@@ -537,7 +537,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.6",
       "time": "2025.12.02",
-      "downloads": 44300,
+      "downloads": 44400,
       "stars": 280,
       "task_types": "文本生成"
     },
@@ -665,7 +665,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2025.12.09",
-      "downloads": 21800,
+      "downloads": 21900,
       "stars": 240,
       "task_types": "图像描述"
     },
@@ -855,7 +855,7 @@
       "name": "快速生图之水墨风",
       "time": "2025.03.07",
       "downloads": 14000,
-      "stars": 19,
+      "stars": 20,
       "task_types": "文本生成图片"
     },
     {
@@ -1231,6 +1231,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7",
+      "id": "ZhipuAI/GLM-4.7",
+      "organization": "ZhipuAI",
+      "name": "GLM-4.7",
+      "time": "2025.12.23",
+      "downloads": 5800,
+      "stars": 63,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/kyisen1/noditou",
       "id": "kyisen1/noditou",
       "organization": "kyisen1",
@@ -1238,16 +1248,6 @@
       "time": "2025.03.14",
       "downloads": 5700,
       "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7",
-      "id": "ZhipuAI/GLM-4.7",
-      "organization": "ZhipuAI",
-      "name": "GLM-4.7",
-      "time": "2025.12.23",
-      "downloads": 5600,
-      "stars": 61,
-      "task_types": "文本生成"
     },
     {
       "link": "https://modelscope.cn/models/Shanghai_AI_Laboratory/Intern-S1-mini",
