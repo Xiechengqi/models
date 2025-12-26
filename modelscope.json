@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 807000,
+      "downloads": 807100,
       "stars": 178,
       "task_types": "视觉多模态理解"
     },
@@ -263,6 +263,16 @@
       "task_types": "文本生成"
     },
     {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-14B",
+      "id": "Qwen/Qwen3-14B",
+      "organization": "Qwen",
+      "name": "通义千问3-14B",
+      "time": "2025.07.27",
+      "downloads": 455300,
+      "stars": 46,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
       "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
       "organization": "deepseek-ai",
@@ -270,16 +280,6 @@
       "time": "2025.02.25",
       "downloads": 453500,
       "stars": 148,
-      "task_types": "文本生成"
-    },
-    {
-      "link": "https://modelscope.cn/models/Qwen/Qwen3-14B",
-      "id": "Qwen/Qwen3-14B",
-      "organization": "Qwen",
-      "name": "通义千问3-14B",
-      "time": "2025.07.27",
-      "downloads": 454900,
-      "stars": 46,
       "task_types": "文本生成"
     },
     {
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 331400,
+      "downloads": 331500,
       "stars": 93,
       "task_types": "视觉多模态理解"
     },
@@ -327,7 +327,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 318400,
+      "downloads": 318900,
       "stars": 43,
       "task_types": "文本生成"
     },
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 126500,
+      "downloads": 126600,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -437,7 +437,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 94400,
+      "downloads": 94700,
       "stars": 1200,
       "task_types": "文本生成图片"
     },
@@ -635,7 +635,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2025.12.09",
-      "downloads": 21900,
+      "downloads": 22000,
       "stars": 243,
       "task_types": "图像描述"
     },
@@ -1086,6 +1086,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7",
+      "id": "ZhipuAI/GLM-4.7",
+      "organization": "ZhipuAI",
+      "name": "GLM-4.7",
+      "time": "2025.12.23",
+      "downloads": 7100,
+      "stars": 67,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/PaddlePaddle/ERNIE-4.5-0.3B-PT",
       "id": "PaddlePaddle/ERNIE-4.5-0.3B-PT",
       "organization": "PaddlePaddle",
@@ -1104,16 +1114,6 @@
       "downloads": 6900,
       "stars": 17,
       "task_types": "视觉多模态理解"
-    },
-    {
-      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7",
-      "id": "ZhipuAI/GLM-4.7",
-      "organization": "ZhipuAI",
-      "name": "GLM-4.7",
-      "time": "2025.12.23",
-      "downloads": 6900,
-      "stars": 67,
-      "task_types": "文本生成"
     },
     {
       "link": "https://modelscope.cn/models/MusePublic/44_ckpt_SD_XL",
