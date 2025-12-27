@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 811200,
+      "downloads": 811300,
       "stars": 179,
       "task_types": "视觉多模态理解"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 690100,
+      "downloads": 690200,
       "stars": 66,
       "task_types": "文本生成"
     },
@@ -268,7 +268,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 465900,
+      "downloads": 466200,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 335400,
+      "downloads": 335500,
       "stars": 93,
       "task_types": "视觉多模态理解"
     },
@@ -318,7 +318,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 333600,
+      "downloads": 334100,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 268200,
+      "downloads": 268300,
       "stars": 29,
       "task_types": "文本生成"
     },
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 127700,
+      "downloads": 127800,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -427,7 +427,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 97100,
+      "downloads": 97200,
       "stars": 1200,
       "task_types": "文本生成图片"
     },
@@ -961,7 +961,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7",
       "time": "2025.12.23",
-      "downloads": 8700,
+      "downloads": 8800,
       "stars": 69,
       "task_types": "文本生成"
     },
