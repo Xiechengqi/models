@@ -19,7 +19,7 @@
       "name": "通义千问3-8B",
       "time": "2025.07.27",
       "downloads": 3800000,
-      "stars": 184,
+      "stars": 185,
       "task_types": "文本生成"
     },
     {
@@ -79,7 +79,7 @@
       "name": "通义千问3-4B",
       "time": "2025.07.27",
       "downloads": 2000000,
-      "stars": 90,
+      "stars": 91,
       "task_types": "文本生成"
     },
     {
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 817600,
+      "downloads": 817700,
       "stars": 184,
       "task_types": "视觉多模态理解"
     },
@@ -268,7 +268,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 480400,
+      "downloads": 480700,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 355600,
+      "downloads": 356100,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -318,7 +318,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 341300,
+      "downloads": 341400,
       "stars": 94,
       "task_types": "视觉多模态理解"
     },
@@ -348,7 +348,7 @@
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
       "downloads": 271900,
-      "stars": 29,
+      "stars": 30,
       "task_types": "文本生成"
     },
     {
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 129199,
+      "downloads": 129300,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -527,7 +527,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 39800,
+      "downloads": 39900,
       "stars": 94,
       "task_types": "文本生成"
     },
@@ -1112,7 +1112,7 @@
       "name": "iic/GUI-Owl-7B",
       "time": "2025.08.27",
       "downloads": 6900,
-      "stars": 17,
+      "stars": 18,
       "task_types": "视觉多模态理解"
     },
     {
