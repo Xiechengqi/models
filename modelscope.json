@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 838100,
+      "downloads": 838200,
       "stars": 186,
       "task_types": "视觉多模态理解"
     },
@@ -258,7 +258,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 508300,
+      "downloads": 508800,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -298,7 +298,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 393700,
+      "downloads": 394300,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -318,7 +318,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 352900,
+      "downloads": 353100,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 276800,
+      "downloads": 276900,
       "stars": 31,
       "task_types": "文本生成"
     },
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 132000,
+      "downloads": 132100,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -427,7 +427,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 108400,
+      "downloads": 108500,
       "stars": 1200,
       "task_types": "文本生成图片"
     },
@@ -680,16 +680,6 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/mysun2023/HUIMENG_TIME",
-      "id": "mysun2023/HUIMENG_TIME",
-      "organization": "mysun2023",
-      "name": "绘梦·时间的痕迹",
-      "time": "2025.03.07",
-      "downloads": 19000,
-      "stars": 10,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/muse/sd35_large",
       "id": "muse/sd35_large",
       "organization": "muse",
@@ -697,6 +687,16 @@
       "time": "2025.03.07",
       "downloads": 19200,
       "stars": 12,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/HUIMENG_TIME",
+      "id": "mysun2023/HUIMENG_TIME",
+      "organization": "mysun2023",
+      "name": "绘梦·时间的痕迹",
+      "time": "2025.03.07",
+      "downloads": 19000,
+      "stars": 10,
       "task_types": "文本生成图片"
     },
     {
@@ -889,22 +889,22 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/MusePublic/Qwen-image-fp8",
+      "id": "MusePublic/Qwen-image-fp8",
+      "organization": "MusePublic",
+      "name": "Qwen Image FP8【仅供本地使用】",
+      "time": "2025.08.08",
+      "downloads": 12400,
+      "stars": 44,
+      "task_types": "文本生成图片"
+    },
+    {
       "link": "https://modelscope.cn/models/kyisen1/xiangxiang",
       "id": "kyisen1/xiangxiang",
       "organization": "kyisen1",
       "name": "kyisen1/xiangxiang",
       "time": "2025.03.07",
       "downloads": 11900,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/Qwen-image-fp8",
-      "id": "MusePublic/Qwen-image-fp8",
-      "organization": "MusePublic",
-      "name": "Qwen Image FP8【仅供本地使用】",
-      "time": "2025.08.08",
-      "downloads": 12300,
-      "stars": 44,
       "task_types": "文本生成图片"
     },
     {
