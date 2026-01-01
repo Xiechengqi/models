@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 841700,
+      "downloads": 841900,
       "stars": 186,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 700600,
+      "downloads": 700700,
       "stars": 394,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "MAILAND",
       "name": "麦橘超然",
       "time": "2025.03.13",
-      "downloads": 543700,
+      "downloads": 543800,
       "stars": 467,
       "task_types": "文本生成图片"
     },
@@ -258,7 +258,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 516500,
+      "downloads": 517000,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -298,7 +298,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 406100,
+      "downloads": 406900,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -318,7 +318,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 356200,
+      "downloads": 356500,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 278200,
+      "downloads": 278300,
       "stars": 31,
       "task_types": "文本生成"
     },
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 132800,
+      "downloads": 132900,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -427,7 +427,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2025.12.09",
-      "downloads": 108900,
+      "downloads": 109000,
       "stars": 1300,
       "task_types": "文本生成图片"
     },
@@ -487,7 +487,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 67500,
+      "downloads": 67600,
       "stars": 204,
       "task_types": "文本生成"
     },
