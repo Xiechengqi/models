@@ -119,7 +119,7 @@
       "name": "通义千问3-Next-80B-A3B-Instruct",
       "time": "2025.09.17",
       "downloads": 1600000,
-      "stars": 146,
+      "stars": 147,
       "task_types": "文本生成"
     },
     {
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 841500,
+      "downloads": 841700,
       "stars": 186,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 700500,
+      "downloads": 700600,
       "stars": 394,
       "task_types": "文本生成"
     },
@@ -258,7 +258,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 516100,
+      "downloads": 516500,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -298,7 +298,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 405500,
+      "downloads": 406100,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -318,7 +318,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 356000,
+      "downloads": 356200,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -358,7 +358,7 @@
       "name": "通义千问3-235B-A22B-Instruct-2507",
       "time": "2025.09.17",
       "downloads": 258300,
-      "stars": 180,
+      "stars": 181,
       "task_types": "文本生成"
     },
     {
