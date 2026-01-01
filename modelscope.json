@@ -169,7 +169,7 @@
       "name": "FLUX.1-dev",
       "time": "2025.06.23",
       "downloads": 1300000,
-      "stars": 236,
+      "stars": 235,
       "task_types": "文本生成图片"
     },
     {
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 839500,
+      "downloads": 839900,
       "stars": 186,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 700000,
+      "downloads": 700100,
       "stars": 394,
       "task_types": "文本生成"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 695800,
+      "downloads": 695900,
       "stars": 67,
       "task_types": "文本生成"
     },
@@ -258,7 +258,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 512400,
+      "downloads": 513299,
       "stars": 46,
       "task_types": "文本生成"
     },
@@ -268,7 +268,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 506200,
+      "downloads": 506300,
       "stars": 273,
       "task_types": "文本生成"
     },
@@ -298,7 +298,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 399900,
+      "downloads": 401400,
       "stars": 45,
       "task_types": "文本生成"
     },
@@ -309,7 +309,7 @@
       "name": "通义千问2.5-VL-32B-Instruct",
       "time": "2025.04.15",
       "downloads": 359200,
-      "stars": 115,
+      "stars": 114,
       "task_types": "视觉多模态理解"
     },
     {
@@ -318,7 +318,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 354500,
+      "downloads": 354900,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 277500,
+      "downloads": 277700,
       "stars": 31,
       "task_types": "文本生成"
     },
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 132400,
+      "downloads": 132500,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -487,7 +487,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 67100,
+      "downloads": 67200,
       "stars": 204,
       "task_types": "文本生成"
     },
