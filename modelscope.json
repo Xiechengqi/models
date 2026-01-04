@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 858100,
+      "downloads": 858300,
       "stars": 192,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 705400,
+      "downloads": 705500,
       "stars": 394,
       "task_types": "文本生成"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 700300,
+      "downloads": 700400,
       "stars": 67,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 549700,
+      "downloads": 550100,
       "stars": 47,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 369900,
+      "downloads": 370200,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 283300,
+      "downloads": 283400,
       "stars": 31,
       "task_types": "文本生成"
     },
@@ -407,7 +407,7 @@
       "organization": "iic",
       "name": "通义-DeepResearch-30B-A3B",
       "time": "2025.10.11",
-      "downloads": 173000,
+      "downloads": 173100,
       "stars": 107,
       "task_types": "文本生成"
     },
@@ -427,7 +427,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 136100,
+      "downloads": 136200,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -437,7 +437,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.04",
-      "downloads": 115200,
+      "downloads": 115500,
       "stars": 1300,
       "task_types": "文本生成图片"
     },
@@ -497,7 +497,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 71100,
+      "downloads": 71200,
       "stars": 220,
       "task_types": "文本生成"
     },
@@ -896,36 +896,6 @@
       "time": "2025.03.07",
       "downloads": 13200,
       "stars": 3,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_ZHENYE",
-      "id": "mysun2023/MEXX_ZHENYE",
-      "organization": "mysun2023",
-      "name": "绘梦·真野",
-      "time": "2025.03.07",
-      "downloads": 13100,
-      "stars": 3,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/dagegeya/Asianmn4",
-      "id": "dagegeya/Asianmn4",
-      "organization": "dagegeya",
-      "name": "亚洲人哟4",
-      "time": "2025.03.07",
-      "downloads": 12300,
-      "stars": 1,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/Qwen-image-fp8",
-      "id": "MusePublic/Qwen-image-fp8",
-      "organization": "MusePublic",
-      "name": "Qwen Image FP8【仅供本地使用】",
-      "time": "2025.08.08",
-      "downloads": 12700,
-      "stars": 45,
       "task_types": "文本生成图片"
     },
     {
@@ -1484,6 +1454,35 @@
       "time": "2025.03.07",
       "downloads": 3600,
       "stars": 3,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/LLyx17/McWithFangao",
+      "id": "LLyx17/McWithFangao",
+      "organization": "LLyx17",
+      "name": "LLyx17/McWithFangao",
+      "time": "2025.03.07",
+      "downloads": 3500,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MAILAND/Merjic-boy2",
+      "id": "MAILAND/Merjic-boy2",
+      "organization": "MAILAND",
+      "name": "LOCOmuchen/《麦橘超boy》Majicflus",
+      "time": "2025.03.07",
+      "downloads": 3500,
+      "stars": 13,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/bozoyan/mesmerAsianRelustion_pony",
+      "id": "bozoyan/mesmerAsianRelustion_pony",
+      "organization": "bozoyan",
+      "name": "东亚女性",
+      "time": "2025.08.19",
+      "downloads": 3400,
+      "stars": 2,
       "task_types": "文本生成图片"
     }
   ]
