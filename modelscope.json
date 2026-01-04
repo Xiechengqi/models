@@ -8,7 +8,7 @@
       "organization": "Qwen",
       "name": "通义千问2.5-7B-Instruct",
       "time": "2025.03.07",
-      "downloads": 4700000,
+      "downloads": 4800000,
       "stars": 397,
       "task_types": "文本生成"
     },
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 858600,
+      "downloads": 858800,
       "stars": 192,
       "task_types": "视觉多模态理解"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 700400,
+      "downloads": 700500,
       "stars": 67,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 550600,
+      "downloads": 551000,
       "stars": 47,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 370400,
+      "downloads": 370500,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 136200,
+      "downloads": 136300,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -427,7 +427,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.04",
-      "downloads": 115700,
+      "downloads": 116000,
       "stars": 1300,
       "task_types": "文本生成图片"
     },
@@ -487,7 +487,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 71200,
+      "downloads": 71300,
       "stars": 220,
       "task_types": "文本生成"
     },
@@ -1302,7 +1302,7 @@
       "organization": "MusePublic",
       "name": "XXMix_9realisticSDXL",
       "time": "2025.03.07",
-      "downloads": 4400,
+      "downloads": 4500,
       "stars": 16,
       "task_types": "文本生成图片"
     },
