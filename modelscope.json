@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 873700,
+      "downloads": 873900,
       "stars": 197,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 708700,
+      "downloads": 708800,
       "stars": 397,
       "task_types": "文本生成"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 703500,
+      "downloads": 703600,
       "stars": 67,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 571200,
+      "downloads": 571600,
       "stars": 50,
       "task_types": "文本生成"
     },
@@ -298,7 +298,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 450400,
+      "downloads": 450500,
       "stars": 47,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 379300,
+      "downloads": 379500,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 336800,
+      "downloads": 336900,
       "stars": 169
     },
     {
@@ -427,7 +427,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.04",
-      "downloads": 133900,
+      "downloads": 134200,
       "stars": 1300,
       "task_types": "文本生成图片"
     },
@@ -1215,7 +1215,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 5800,
+      "downloads": 5900,
       "stars": 90,
       "task_types": "文本生成图片"
     },
