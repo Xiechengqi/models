@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 874100,
+      "downloads": 874400,
       "stars": 197,
       "task_types": "视觉多模态理解"
     },
@@ -218,7 +218,7 @@
       "organization": "Qwen",
       "name": "通义千问2.5-32B-Instruct",
       "time": "2025.03.07",
-      "downloads": 725900,
+      "downloads": 726000,
       "stars": 85,
       "task_types": "文本生成"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 703600,
+      "downloads": 703700,
       "stars": 67,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 572100,
+      "downloads": 572500,
       "stars": 50,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 379700,
+      "downloads": 379800,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 337000,
+      "downloads": 337100,
       "stars": 169
     },
     {
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 287700,
+      "downloads": 287800,
       "stars": 32,
       "task_types": "文本生成"
     },
@@ -357,7 +357,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B-Instruct-2507",
       "time": "2025.09.17",
-      "downloads": 259500,
+      "downloads": 259600,
       "stars": 183,
       "task_types": "文本生成"
     },
@@ -402,6 +402,16 @@
       "task_types": "视觉多模态理解"
     },
     {
+      "link": "https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B",
+      "id": "iic/Tongyi-DeepResearch-30B-A3B",
+      "organization": "iic",
+      "name": "通义-DeepResearch-30B-A3B",
+      "time": "2025.10.11",
+      "downloads": 175100,
+      "stars": 107,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "organization": "deepseek-ai",
@@ -417,7 +427,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 138700,
+      "downloads": 138800,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -427,7 +437,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.04",
-      "downloads": 134400,
+      "downloads": 134500,
       "stars": 1300,
       "task_types": "文本生成图片"
     },
@@ -457,7 +467,7 @@
       "organization": "Qwen",
       "name": "通义千问2.5-代码-7B-Instruct",
       "time": "2025.03.07",
-      "downloads": 83200,
+      "downloads": 83300,
       "stars": 59,
       "task_types": "文本生成"
     },
@@ -509,6 +519,16 @@
       "time": "2025.08.22",
       "downloads": 115600,
       "stars": 1000,
+      "task_types": "文本生成"
+    },
+    {
+      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.6",
+      "id": "ZhipuAI/GLM-4.6",
+      "organization": "ZhipuAI",
+      "name": "ZhipuAI/GLM-4.6",
+      "time": "2025.12.02",
+      "downloads": 49200,
+      "stars": 282,
       "task_types": "文本生成"
     },
     {
@@ -580,26 +600,6 @@
       "downloads": 29300,
       "stars": 6,
       "task_types": "视觉多模态理解"
-    },
-    {
-      "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-8B-Thinking",
-      "id": "Qwen/Qwen3-VL-8B-Thinking",
-      "organization": "Qwen",
-      "name": "通义千问3-VL-8B-Thinking",
-      "time": "2025.10.15",
-      "downloads": 28500,
-      "stars": 9,
-      "task_types": "视觉多模态理解"
-    },
-    {
-      "link": "https://modelscope.cn/models/ZhipuAI/AutoGLM-Phone-9B",
-      "id": "ZhipuAI/AutoGLM-Phone-9B",
-      "organization": "ZhipuAI",
-      "name": "ZhipuAI/AutoGLM-Phone-9B",
-      "time": "2025.12.09",
-      "downloads": 28100,
-      "stars": 264,
-      "task_types": "图像描述"
     },
     {
       "link": "https://modelscope.cn/models/Qwen/Qwen3-Next-80B-A3B-Thinking",
