@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 875000,
+      "downloads": 875200,
       "stars": 197,
       "task_types": "视觉多模态理解"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 573300,
+      "downloads": 573800,
       "stars": 50,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 380100,
+      "downloads": 380300,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 337300,
+      "downloads": 337400,
       "stars": 169
     },
     {
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 287900,
+      "downloads": 288000,
       "stars": 32,
       "task_types": "文本生成"
     },
@@ -487,7 +487,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 74400,
+      "downloads": 74500,
       "stars": 232,
       "task_types": "文本生成"
     },
@@ -597,7 +597,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2025.12.09",
-      "downloads": 28200,
+      "downloads": 28300,
       "stars": 264,
       "task_types": "图像描述"
     },
@@ -1407,16 +1407,6 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/goldwins/lora-xy-ms",
-      "id": "goldwins/lora-xy-ms",
-      "organization": "goldwins",
-      "name": "goldwins/lora-xy-ms",
-      "time": "2025.03.10",
-      "downloads": 3700,
-      "stars": 2,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/MusePublic/326_ckpt_SD_XL",
       "id": "MusePublic/326_ckpt_SD_XL",
       "organization": "MusePublic",
@@ -1424,6 +1414,16 @@
       "time": "2025.03.07",
       "downloads": 3800,
       "stars": 10,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/goldwins/lora-xy-ms",
+      "id": "goldwins/lora-xy-ms",
+      "organization": "goldwins",
+      "name": "goldwins/lora-xy-ms",
+      "time": "2025.03.10",
+      "downloads": 3700,
+      "stars": 2,
       "task_types": "文本生成图片"
     },
     {
