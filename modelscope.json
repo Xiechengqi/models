@@ -93,16 +93,6 @@
       "task_types": "文本生成"
     },
     {
-      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
-      "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
-      "organization": "deepseek-ai",
-      "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
-      "time": "2025.03.07",
-      "downloads": 1700000,
-      "stars": 276,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/Qwen/Qwen-Image",
       "id": "Qwen/Qwen-Image",
       "organization": "Qwen",
@@ -111,6 +101,16 @@
       "downloads": 1700000,
       "stars": 391,
       "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+      "organization": "deepseek-ai",
+      "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+      "time": "2025.03.07",
+      "downloads": 1700000,
+      "stars": 276,
+      "task_types": "文本生成"
     },
     {
       "link": "https://modelscope.cn/models/Qwen/Qwen2.5-72B-Instruct",
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 872000,
+      "downloads": 872300,
       "stars": 197,
       "task_types": "视觉多模态理解"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 569100,
+      "downloads": 569200,
       "stars": 50,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 378100,
+      "downloads": 378200,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -437,7 +437,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.04",
-      "downloads": 132400,
+      "downloads": 132600,
       "stars": 1300,
       "task_types": "文本生成图片"
     },
@@ -1193,6 +1193,34 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/kyisen/XINXIANG",
+      "id": "kyisen/XINXIANG",
+      "organization": "kyisen",
+      "name": "kyisen/XINXIANG",
+      "time": "2025.03.07",
+      "downloads": 6100,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/Baitqtd/Bait",
+      "id": "Baitqtd/Bait",
+      "organization": "Baitqtd",
+      "name": "Baitqtd/Bait",
+      "time": "2025.03.07",
+      "downloads": 6100,
+      "stars": 11,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/aeetes/1",
+      "id": "aeetes/1",
+      "organization": "aeetes",
+      "name": "aeetes/1",
+      "time": "2025.03.07",
+      "downloads": 5900,
+      "task_types": "文本生成图片"
+    },
+    {
       "link": "https://modelscope.cn/models/mysun2023/MEXX_Grainy_FilmV1",
       "id": "mysun2023/MEXX_Grainy_FilmV1",
       "organization": "mysun2023",
@@ -1456,35 +1484,6 @@
       "time": "2025.06.18",
       "downloads": 3600,
       "stars": 6,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/100_lora_SD_XL",
-      "id": "MusePublic/100_lora_SD_XL",
-      "organization": "MusePublic",
-      "name": "Aesthetic Anime LoRA",
-      "time": "2025.03.07",
-      "downloads": 3600,
-      "stars": 3,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/LLyx17/McWithFangao",
-      "id": "LLyx17/McWithFangao",
-      "organization": "LLyx17",
-      "name": "LLyx17/McWithFangao",
-      "time": "2025.03.07",
-      "downloads": 3500,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MAILAND/Merjic-boy2",
-      "id": "MAILAND/Merjic-boy2",
-      "organization": "MAILAND",
-      "name": "LOCOmuchen/《麦橘超boy》Majicflus",
-      "time": "2025.03.07",
-      "downloads": 3500,
-      "stars": 13,
       "task_types": "文本生成图片"
     }
   ]
