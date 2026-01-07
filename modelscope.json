@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 877300,
+      "downloads": 877600,
       "stars": 197,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 709700,
+      "downloads": 709800,
       "stars": 397,
       "task_types": "文本生成"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 704300,
+      "downloads": 704400,
       "stars": 68,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 577600,
+      "downloads": 578000,
       "stars": 50,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 381800,
+      "downloads": 382000,
       "stars": 97,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 338200,
+      "downloads": 338300,
       "stars": 169
     },
     {
@@ -402,16 +402,6 @@
       "task_types": "视觉多模态理解"
     },
     {
-      "link": "https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B",
-      "id": "iic/Tongyi-DeepResearch-30B-A3B",
-      "organization": "iic",
-      "name": "通义-DeepResearch-30B-A3B",
-      "time": "2025.10.11",
-      "downloads": 175600,
-      "stars": 107,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "organization": "deepseek-ai",
@@ -437,7 +427,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.04",
-      "downloads": 135500,
+      "downloads": 135700,
       "stars": 1300,
       "task_types": "文本生成图片"
     },
@@ -497,7 +487,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 75000,
+      "downloads": 75100,
       "stars": 234,
       "task_types": "文本生成"
     },
@@ -517,18 +507,8 @@
       "organization": "Qwen",
       "name": "通义千问3-Coder-480B-A35B-Instruct",
       "time": "2025.08.22",
-      "downloads": 116100,
+      "downloads": 116200,
       "stars": 1000,
-      "task_types": "文本生成"
-    },
-    {
-      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.6",
-      "id": "ZhipuAI/GLM-4.6",
-      "organization": "ZhipuAI",
-      "name": "ZhipuAI/GLM-4.6",
-      "time": "2025.12.02",
-      "downloads": 49300,
-      "stars": 284,
       "task_types": "文本生成"
     },
     {
@@ -602,16 +582,6 @@
       "task_types": "视觉多模态理解"
     },
     {
-      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.5",
-      "id": "ZhipuAI/GLM-4.5",
-      "organization": "ZhipuAI",
-      "name": "ZhipuAI/GLM-4.5",
-      "time": "2025.08.11",
-      "downloads": 29000,
-      "stars": 398,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-8B-Thinking",
       "id": "Qwen/Qwen3-VL-8B-Thinking",
       "organization": "Qwen",
@@ -627,9 +597,19 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2025.12.09",
-      "downloads": 28400,
+      "downloads": 28500,
       "stars": 264,
       "task_types": "图像描述"
+    },
+    {
+      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.5",
+      "id": "ZhipuAI/GLM-4.5",
+      "organization": "ZhipuAI",
+      "name": "ZhipuAI/GLM-4.5",
+      "time": "2025.08.11",
+      "downloads": 29000,
+      "stars": 398,
+      "task_types": "文本生成"
     },
     {
       "link": "https://modelscope.cn/models/Qwen/Qwen3-Next-80B-A3B-Thinking",
@@ -1184,22 +1164,22 @@
       "downloads": 6500
     },
     {
+      "link": "https://modelscope.cn/models/Qwen/Qwen-Image-2512",
+      "id": "Qwen/Qwen-Image-2512",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen-Image-2512",
+      "time": "2025.12.31",
+      "downloads": 6700,
+      "stars": 97,
+      "task_types": "文本生成图片"
+    },
+    {
       "link": "https://modelscope.cn/models/mysun2023/MEXX_ANIME",
       "id": "mysun2023/MEXX_ANIME",
       "organization": "mysun2023",
       "name": "mysun2023/MEXX_ANIME",
       "time": "2025.03.07",
       "downloads": 6200,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/Qwen/Qwen-Image-2512",
-      "id": "Qwen/Qwen-Image-2512",
-      "organization": "Qwen",
-      "name": "Qwen/Qwen-Image-2512",
-      "time": "2025.12.31",
-      "downloads": 6600,
-      "stars": 96,
       "task_types": "文本生成图片"
     },
     {
