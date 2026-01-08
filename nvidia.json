@@ -1181,7 +1181,7 @@
       "provider": "nvidia",
       "description": "Topic control model to keep conversations focused on approved topics, avoiding inappropriate content.",
       "tags": [
-        "Dialogue Safety",
+        "nemo guardrails",
         "LLM safety"
       ]
     },
@@ -1192,8 +1192,9 @@
       "provider": "nvidia",
       "description": "Industry leading jailbreak classification model for protection from adversarial attempts",
       "tags": [
-        "LLM Security",
-        "Jailbreak Detection"
+        "nemo guardrails",
+        "llm security",
+        "NIM"
       ]
     },
     {
@@ -1203,8 +1204,8 @@
       "provider": "nvidia",
       "description": "Leading content safety model for enhancing the safety and moderation capabilities of LLMs",
       "tags": [
-        "LLM safety",
-        "content moderation"
+        "nemo guardrails",
+        "LLM safety"
       ]
     },
     {
