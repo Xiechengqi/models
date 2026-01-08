@@ -3,6 +3,14 @@
   "api_key_page": "https://openrouter.ai/settings/keys",
   "models": [
     {
+      "id": "allenai/olmo-3.1-32b-instruct",
+      "name": "Olmo 3.1 32B Instruct",
+      "provider": "AllenAI",
+      "description": "Olmo 3.1 32B Instruct is a large-scale, 32-billion-parameter instruction-tuned language model engineered for high-performance conversational AI, multi-turn dialogue, and practical instruction following. As part of the Olmo 3.1 family, this variant emphasizes responsiveness to complex user directions and robust chat interactions while retaining strong capabilities on reasoning and coding benchmarks. Developed by Ai2 under the Apache 2.0 license, Olmo 3.1 32B Instruct reflects the Olmo initiative’s commitment to openness and transparency.",
+      "link": "https://openrouter.ai/allenai/olmo-3.1-32b-instruct",
+      "pub_date": "Tue, 06 Jan 2026 19:42:34 GMT"
+    },
+    {
       "id": "bytedance-seed/seedream-4.5",
       "name": "Seedream 4.5",
       "provider": "ByteDance Seed",
