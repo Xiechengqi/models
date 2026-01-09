@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 896800,
+      "downloads": 896900,
       "stars": 204,
       "task_types": "视觉多模态理解"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 710800,
+      "downloads": 710900,
       "stars": 68,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 610700,
+      "downloads": 611100,
       "stars": 51,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 394300,
+      "downloads": 394500,
       "stars": 98,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 342900,
+      "downloads": 343000,
       "stars": 171
     },
     {
@@ -397,7 +397,7 @@
       "organization": "iic",
       "name": "通义-DeepResearch-30B-A3B",
       "time": "2025.10.11",
-      "downloads": 178200,
+      "downloads": 178300,
       "stars": 108,
       "task_types": "文本生成"
     },
@@ -427,7 +427,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 142500,
+      "downloads": 142600,
       "stars": 41,
       "task_types": "文本生成"
     },
@@ -487,7 +487,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 79000,
+      "downloads": 79100,
       "stars": 244,
       "task_types": "文本生成"
     },
@@ -547,7 +547,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 48200,
+      "downloads": 48300,
       "stars": 96,
       "task_types": "文本生成"
     },
@@ -991,7 +991,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 9800,
+      "downloads": 9900,
       "stars": 126,
       "task_types": "文本生成图片"
     },
