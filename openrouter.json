@@ -4,7 +4,7 @@
   "models": [
     {
       "id": "allenai/molmo-2-8b",
-      "name": "Molmo2 8B",
+      "name": "Molmo2 8B (free)",
       "provider": "AllenAI",
       "description": "Molmo2-8B is an open vision-language model developed by the Allen Institute for AI (Ai2) as part of the Molmo2 family, supporting image, video, and multi-image understanding and grounding. It is based on Qwen3-8B and uses SigLIP 2 as its vision backbone, outperforming other open-weight, open-data models on short videos, counting, and captioning, while remaining competitive on long-video tasks.",
       "link": "https://openrouter.ai/allenai/molmo-2-8b",
