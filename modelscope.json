@@ -189,7 +189,7 @@
       "name": "通义千问2.5-VL-72B-Instruct",
       "time": "2025.06.07",
       "downloads": 1200000,
-      "stars": 335,
+      "stars": 336,
       "task_types": "视觉多模态理解"
     },
     {
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 901400,
+      "downloads": 901600,
       "stars": 204,
       "task_types": "视觉多模态理解"
     },
@@ -229,7 +229,7 @@
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
       "downloads": 715200,
-      "stars": 399,
+      "stars": 400,
       "task_types": "文本生成"
     },
     {
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 618700,
+      "downloads": 619100,
       "stars": 52,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 397400,
+      "downloads": 397500,
       "stars": 98,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 345400,
+      "downloads": 345600,
       "stars": 171
     },
     {
@@ -398,7 +398,7 @@
       "name": "通义千问3-VL-235B-A22B-Instruct",
       "time": "2025.11.27",
       "downloads": 165500,
-      "stars": 156,
+      "stars": 157,
       "task_types": "视觉多模态理解"
     },
     {
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 143300,
+      "downloads": 143400,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -578,7 +578,7 @@
       "name": "通义千问3-VL-30B-A3B-Thinking",
       "time": "2025.11.27",
       "downloads": 30400,
-      "stars": 6,
+      "stars": 7,
       "task_types": "视觉多模态理解"
     },
     {
@@ -588,7 +588,7 @@
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2025.12.09",
       "downloads": 29900,
-      "stars": 270,
+      "stars": 271,
       "task_types": "图像描述"
     },
     {
@@ -775,7 +775,7 @@
       "name": "LiblibAI/AWPortraitCN",
       "time": "2025.03.07",
       "downloads": 15900,
-      "stars": 49,
+      "stars": 50,
       "task_types": "文本生成图片"
     },
     {
@@ -795,7 +795,7 @@
       "name": "LOCO-FLUX-RAW",
       "time": "2025.06.22",
       "downloads": 15300,
-      "stars": 40,
+      "stars": 41,
       "task_types": "文本生成图片"
     },
     {
@@ -1052,7 +1052,7 @@
       "name": "TPSZ_矢量艺术插画风格-童趣的小世界_majiuFlux版本（一丹一世界）",
       "time": "2025.05.31",
       "downloads": 7300,
-      "stars": 42,
+      "stars": 43,
       "task_types": "文本生成图片"
     },
     {
@@ -1111,7 +1111,7 @@
       "organization": "iic",
       "name": "iic/GUI-Owl-7B",
       "time": "2025.08.27",
-      "downloads": 6900,
+      "downloads": 7000,
       "stars": 18,
       "task_types": "视觉多模态理解"
     },
@@ -1333,7 +1333,7 @@
       "name": "majicMIX realistic 麦橘写实",
       "time": "2025.03.07",
       "downloads": 4500,
-      "stars": 24,
+      "stars": 25,
       "task_types": "文本生成图片"
     },
     {
