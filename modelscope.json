@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 898500,
+      "downloads": 898800,
       "stars": 204,
       "task_types": "视觉多模态理解"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 711900,
+      "downloads": 712100,
       "stars": 69,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 613600,
+      "downloads": 614000,
       "stars": 52,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 395600,
+      "downloads": 395800,
       "stars": 98,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 343900,
+      "downloads": 344100,
       "stars": 171
     },
     {
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 142800,
+      "downloads": 142900,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -602,263 +602,6 @@
       "task_types": "视觉多模态理解"
     },
     {
-      "link": "https://modelscope.cn/models/Qwen/Qwen3-Next-80B-A3B-Thinking",
-      "id": "Qwen/Qwen3-Next-80B-A3B-Thinking",
-      "organization": "Qwen",
-      "name": "通义千问3-Next-80B-A3B-Thinking",
-      "time": "2025.12.02",
-      "downloads": 28000,
-      "stars": 30,
-      "task_types": "文本生成"
-    },
-    {
-      "link": "https://modelscope.cn/models/huimengai/HUAHUA_QWEN_NEWTG19",
-      "id": "huimengai/HUAHUA_QWEN_NEWTG19",
-      "organization": "huimengai",
-      "name": "HUAHUA_QWEN_NEWTG19",
-      "time": "2025.11.12",
-      "downloads": 25400,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/dajiahaoaaa/ling",
-      "id": "dajiahaoaaa/ling",
-      "organization": "dajiahaoaaa",
-      "name": "灵儿",
-      "time": "2025.03.07",
-      "downloads": 23700,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/shanwan/manga_style",
-      "id": "shanwan/manga_style",
-      "organization": "shanwan",
-      "name": "日漫风",
-      "time": "2025.03.07",
-      "downloads": 22900,
-      "stars": 5,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/526_ckpt_SD_XL",
-      "id": "MusePublic/526_ckpt_SD_XL",
-      "organization": "MusePublic",
-      "name": "Photo Realistic XL",
-      "time": "2025.03.07",
-      "downloads": 21200,
-      "stars": 3,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/LaxharLAB/NoobAI-XL",
-      "id": "LaxharLAB/NoobAI-XL",
-      "organization": "LaxharLAB",
-      "name": "NoobAI-XL(NAI-XL)",
-      "time": "2025.12.03",
-      "downloads": 21500,
-      "stars": 23,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-14B-Instruct-1M",
-      "id": "Qwen/Qwen2.5-14B-Instruct-1M",
-      "organization": "Qwen",
-      "name": "通义千问2.5-14B-Instruct-1M",
-      "time": "2025.01.30",
-      "downloads": 20000,
-      "stars": 29,
-      "task_types": "文本生成"
-    },
-    {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_TG_REAL",
-      "id": "mysun2023/MEXX_TG_REAL",
-      "organization": "mysun2023",
-      "name": "mysun2023/MEXX_TG_REAL",
-      "time": "2025.03.07",
-      "downloads": 19300,
-      "stars": 5,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/muse/sd35_large",
-      "id": "muse/sd35_large",
-      "organization": "muse",
-      "name": "muse/sd35_large",
-      "time": "2025.03.07",
-      "downloads": 19200,
-      "stars": 12,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/mysun2023/HUIMENG_TIME",
-      "id": "mysun2023/HUIMENG_TIME",
-      "organization": "mysun2023",
-      "name": "绘梦·时间的痕迹",
-      "time": "2025.03.07",
-      "downloads": 19000,
-      "stars": 10,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/atonyxu/Illustrious-XL",
-      "id": "atonyxu/Illustrious-XL",
-      "organization": "atonyxu",
-      "name": "Illustrious XL",
-      "time": "2025.04.24",
-      "downloads": 19100,
-      "stars": 23,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_ZP",
-      "id": "mysun2023/MEXX_ZP",
-      "organization": "mysun2023",
-      "name": "mysun2023/MEXX_ZP",
-      "time": "2025.03.07",
-      "downloads": 18700,
-      "stars": 6,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/qijitech/RedCraft-12b-10steps-FP16-AIGC",
-      "id": "qijitech/RedCraft-12b-10steps-FP16-AIGC",
-      "organization": "qijitech",
-      "name": "RedCraft | 红潮 CADS Commercial &amp; Advertising Design System",
-      "time": "2025.03.07",
-      "downloads": 18300,
-      "stars": 29,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/tdzs12345/yxjz",
-      "id": "tdzs12345/yxjz",
-      "organization": "tdzs12345",
-      "name": "tdzs12345/yxjz",
-      "time": "2025.03.07",
-      "downloads": 17400,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_BLUEPUNK",
-      "id": "mysun2023/MEXX_BLUEPUNK",
-      "organization": "mysun2023",
-      "name": "绘梦·蓝色朋克",
-      "time": "2025.03.07",
-      "downloads": 17200,
-      "stars": 3,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/LLM-Research/Llama-4-Maverick-17B-128E-Instruct",
-      "id": "LLM-Research/Llama-4-Maverick-17B-128E-Instruct",
-      "organization": "LLM-Research",
-      "name": "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
-      "time": "2025.04.11",
-      "downloads": 16400,
-      "stars": 7,
-      "task_types": "文本生成"
-    },
-    {
-      "link": "https://modelscope.cn/models/WANGMOON/MAJICFLUS-photo",
-      "id": "WANGMOON/MAJICFLUS-photo",
-      "organization": "WANGMOON",
-      "name": "MAJICFLUS-麦橘光影约拍",
-      "time": "2025.03.07",
-      "downloads": 16500,
-      "stars": 87,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/LiblibAI/AWPortraitCN",
-      "id": "LiblibAI/AWPortraitCN",
-      "organization": "LiblibAI",
-      "name": "LiblibAI/AWPortraitCN",
-      "time": "2025.03.07",
-      "downloads": 15900,
-      "stars": 49,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/89_lora_SD_XL",
-      "id": "MusePublic/89_lora_SD_XL",
-      "organization": "MusePublic",
-      "name": "XL - Designer_BlindBox",
-      "time": "2025.03.07",
-      "downloads": 15600,
-      "stars": 5,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MAILAND/loco-flux-2.5",
-      "id": "MAILAND/loco-flux-2.5",
-      "organization": "MAILAND",
-      "name": "LOCO-FLUX-RAW",
-      "time": "2025.06.22",
-      "downloads": 15300,
-      "stars": 40,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/stable-diffusion-xl-base",
-      "id": "MusePublic/stable-diffusion-xl-base",
-      "organization": "MusePublic",
-      "name": "stable-diffusion-xl-base-1.0",
-      "time": "2025.12.01",
-      "downloads": 15100,
-      "stars": 25,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_WANGHONG",
-      "id": "mysun2023/MEXX_WANGHONG",
-      "organization": "mysun2023",
-      "name": "mysun2023/MEXX_WANGHONG",
-      "time": "2025.03.07",
-      "downloads": 14300,
-      "stars": 8,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/332_ckpt_SD_XL",
-      "id": "MusePublic/332_ckpt_SD_XL",
-      "organization": "MusePublic",
-      "name": "快速生图之水墨风",
-      "time": "2025.03.07",
-      "downloads": 14000,
-      "stars": 20,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/329_ckpt_SD_XL",
-      "id": "MusePublic/329_ckpt_SD_XL",
-      "organization": "MusePublic",
-      "name": "快速生图之黏土风",
-      "time": "2025.03.07",
-      "downloads": 13700,
-      "stars": 4,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/black-forest-labs/FLUX.1-Krea-dev",
-      "id": "black-forest-labs/FLUX.1-Krea-dev",
-      "organization": "black-forest-labs",
-      "name": "black-forest-labs/FLUX.1-Krea-dev",
-      "time": "2025.08.01",
-      "downloads": 15900,
-      "stars": 60,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_Realistic",
-      "id": "mysun2023/MEXX_Realistic",
-      "organization": "mysun2023",
-      "name": "绘梦·写实·重新训练版本",
-      "time": "2025.03.07",
-      "downloads": 13500,
-      "stars": 3,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/dajiahaoaaa/CG_gu_feng",
       "id": "dajiahaoaaa/CG_gu_feng",
       "organization": "dajiahaoaaa",
@@ -866,16 +609,6 @@
       "time": "2025.03.07",
       "downloads": 13200,
       "stars": 3,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/Qwen-image-fp8",
-      "id": "MusePublic/Qwen-image-fp8",
-      "organization": "MusePublic",
-      "name": "Qwen Image FP8【仅供本地使用】",
-      "time": "2025.08.08",
-      "downloads": 13600,
-      "stars": 45,
       "task_types": "文本生成图片"
     },
     {
@@ -953,7 +686,7 @@
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
       "downloads": 10100,
-      "stars": 129,
+      "stars": 130,
       "task_types": "文本生成图片"
     },
     {
@@ -1164,31 +897,297 @@
       "downloads": 6600
     },
     {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_ANIME",
-      "id": "mysun2023/MEXX_ANIME",
+      "link": "https://modelscope.cn/models/aeetes/1",
+      "id": "aeetes/1",
+      "organization": "aeetes",
+      "name": "aeetes/1",
+      "time": "2025.03.07",
+      "downloads": 5900,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_Grainy_FilmV1",
+      "id": "mysun2023/MEXX_Grainy_FilmV1",
       "organization": "mysun2023",
-      "name": "mysun2023/MEXX_ANIME",
+      "name": "绘梦·颗粒电影V1",
       "time": "2025.03.07",
-      "downloads": 6200,
+      "downloads": 5900,
+      "stars": 3,
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/kyisen/XINXIANG",
-      "id": "kyisen/XINXIANG",
+      "link": "https://modelscope.cn/models/kyisen1/noditou",
+      "id": "kyisen1/noditou",
+      "organization": "kyisen1",
+      "name": "kyisen1/noditou",
+      "time": "2025.03.14",
+      "downloads": 5700,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/Shanghai_AI_Laboratory/Intern-S1-mini",
+      "id": "Shanghai_AI_Laboratory/Intern-S1-mini",
+      "organization": "Shanghai_AI_Laboratory",
+      "name": "Shanghai_AI_Laboratory/Intern-S1-mini",
+      "time": "2025.11.01",
+      "downloads": 5600,
+      "stars": 10,
+      "task_types": "视觉多模态理解"
+    },
+    {
+      "link": "https://modelscope.cn/models/kyisen/nizi",
+      "id": "kyisen/nizi",
       "organization": "kyisen",
-      "name": "kyisen/XINXIANG",
+      "name": "kyisen/nizi",
       "time": "2025.03.07",
-      "downloads": 6100,
+      "downloads": 5400,
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/Baitqtd/Bait",
-      "id": "Baitqtd/Bait",
-      "organization": "Baitqtd",
-      "name": "Baitqtd/Bait",
+      "link": "https://modelscope.cn/models/aeetes/fj",
+      "id": "aeetes/fj",
+      "organization": "aeetes",
+      "name": "aeetes/fj",
       "time": "2025.03.07",
-      "downloads": 6100,
+      "downloads": 5300,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/14_ckpt_SD_1_5",
+      "id": "MusePublic/14_ckpt_SD_1_5",
+      "organization": "MusePublic",
+      "name": "万象熔炉 | Anything SD1.5",
+      "time": "2025.03.07",
+      "downloads": 5000,
       "stars": 11,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/bailitiaoyi123/LL",
+      "id": "bailitiaoyi123/LL",
+      "organization": "bailitiaoyi123",
+      "name": "bailitiaoyi123/LL",
+      "time": "2025.03.07",
+      "downloads": 4700,
+      "stars": 5,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/mistralai/Ministral-8B-Instruct-2410",
+      "id": "mistralai/Ministral-8B-Instruct-2410",
+      "organization": "mistralai",
+      "name": "mistralai/Ministral-8B-Instruct-2410",
+      "time": "2025.08.01",
+      "downloads": 4600,
+      "stars": 1,
+      "task_types": "文本生成"
+    },
+    {
+      "link": "https://modelscope.cn/models/XGenerationLab/XiYanSQL-QwenCoder-32B-2412",
+      "id": "XGenerationLab/XiYanSQL-QwenCoder-32B-2412",
+      "organization": "XGenerationLab",
+      "name": "XGenerationLab/XiYanSQL-QwenCoder-32B-2412",
+      "time": "2025.12.04",
+      "downloads": 4500,
+      "stars": 52,
+      "task_types": "文本生成"
+    },
+    {
+      "link": "https://modelscope.cn/models/overcloud81/Ultra_V10_PONY",
+      "id": "overcloud81/Ultra_V10_PONY",
+      "organization": "overcloud81",
+      "name": "Ultra_V10_PONY",
+      "time": "2025.10.28",
+      "downloads": 4500,
+      "stars": 2,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/aeetes/GN",
+      "id": "aeetes/GN",
+      "organization": "aeetes",
+      "name": "aeetes/GN",
+      "time": "2025.03.07",
+      "downloads": 4400,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/41_ckpt_SD_XL",
+      "id": "MusePublic/41_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "XXMix_9realisticSDXL",
+      "time": "2025.03.07",
+      "downloads": 4500,
+      "stars": 16,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/parnna/HDR-Flux",
+      "id": "parnna/HDR-Flux",
+      "organization": "parnna",
+      "name": "高动态光照渲染_Flux",
+      "time": "2025.03.07",
+      "downloads": 4300,
+      "stars": 5,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/51_ckpt_SD_1_5",
+      "id": "MusePublic/51_ckpt_SD_1_5",
+      "organization": "MusePublic",
+      "name": "majicMIX realistic 麦橘写实",
+      "time": "2025.03.07",
+      "downloads": 4500,
+      "stars": 24,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/PaddlePaddle/ERNIE-4.5-21B-A3B-PT",
+      "id": "PaddlePaddle/ERNIE-4.5-21B-A3B-PT",
+      "organization": "PaddlePaddle",
+      "name": "PaddlePaddle/ERNIE-4.5-21B-A3B-PT",
+      "time": "2025.09.27",
+      "downloads": 4200,
+      "stars": 4,
+      "task_types": "文本生成"
+    },
+    {
+      "link": "https://modelscope.cn/models/XGenerationLab/XiYanSQL-QwenCoder-32B-2504",
+      "id": "XGenerationLab/XiYanSQL-QwenCoder-32B-2504",
+      "organization": "XGenerationLab",
+      "name": "XGenerationLab/XiYanSQL-QwenCoder-32B-2504",
+      "time": "2025.12.04",
+      "downloads": 4100,
+      "stars": 36,
+      "task_types": "文本生成"
+    },
+    {
+      "link": "https://modelscope.cn/models/wjlcl0919/hardcoreAsianCosplay_ilV11.safetensors",
+      "id": "wjlcl0919/hardcoreAsianCosplay_ilV11.safetensors",
+      "organization": "wjlcl0919",
+      "name": "hardcoreAsianCosplay_ilV11",
+      "time": "2025.10.07",
+      "downloads": 4000,
+      "stars": 6,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_ANIME2",
+      "id": "mysun2023/MEXX_ANIME2",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_ANIME2",
+      "time": "2025.03.07",
+      "downloads": 3900,
+      "stars": 2,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/ModelE/Hassaku-XL",
+      "id": "ModelE/Hassaku-XL",
+      "organization": "ModelE",
+      "name": "ModelE/Hassaku-XL",
+      "time": "2025.10.03",
+      "downloads": 4100,
+      "stars": 35,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/HUIMENG_FLUX_MAGIC",
+      "id": "mysun2023/HUIMENG_FLUX_MAGIC",
+      "organization": "mysun2023",
+      "name": "绘梦·FLUX基础模型·艺术家",
+      "time": "2025.03.07",
+      "downloads": 3800,
+      "stars": 1,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/lip421/xiuxian5FLUX",
+      "id": "lip421/xiuxian5FLUX",
+      "organization": "lip421",
+      "name": "万物生fluxV5版",
+      "time": "2025.03.07",
+      "downloads": 3800,
+      "stars": 10,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/326_ckpt_SD_XL",
+      "id": "MusePublic/326_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "快速生图之像素风",
+      "time": "2025.03.07",
+      "downloads": 3800,
+      "stars": 10,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/goldwins/lora-xy-ms",
+      "id": "goldwins/lora-xy-ms",
+      "organization": "goldwins",
+      "name": "goldwins/lora-xy-ms",
+      "time": "2025.03.10",
+      "downloads": 3700,
+      "stars": 2,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/flux-high-res",
+      "id": "MusePublic/flux-high-res",
+      "organization": "MusePublic",
+      "name": "FLUX.1-dev HighRes",
+      "time": "2025.06.24",
+      "downloads": 4100,
+      "stars": 83,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/Shanghai_AI_Laboratory/Intern-S1",
+      "id": "Shanghai_AI_Laboratory/Intern-S1",
+      "organization": "Shanghai_AI_Laboratory",
+      "name": "Shanghai_AI_Laboratory/Intern-S1",
+      "time": "2025.11.01",
+      "downloads": 3600,
+      "stars": 21,
+      "task_types": "视觉多模态理解"
+    },
+    {
+      "link": "https://modelscope.cn/models/AImissyou/DSDJ",
+      "id": "AImissyou/DSDJ",
+      "organization": "AImissyou",
+      "name": "DSDJ扁平插画（一丹一世界）",
+      "time": "2025.06.18",
+      "downloads": 3600,
+      "stars": 6,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/100_lora_SD_XL",
+      "id": "MusePublic/100_lora_SD_XL",
+      "organization": "MusePublic",
+      "name": "Aesthetic Anime LoRA",
+      "time": "2025.03.07",
+      "downloads": 3600,
+      "stars": 3,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/LLyx17/McWithFangao",
+      "id": "LLyx17/McWithFangao",
+      "organization": "LLyx17",
+      "name": "LLyx17/McWithFangao",
+      "time": "2025.03.07",
+      "downloads": 3500,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MAILAND/Merjic-boy2",
+      "id": "MAILAND/Merjic-boy2",
+      "organization": "MAILAND",
+      "name": "LOCOmuchen/《麦橘超boy》Majicflus",
+      "time": "2025.03.07",
+      "downloads": 3500,
+      "stars": 13,
       "task_types": "文本生成图片"
     }
   ]
