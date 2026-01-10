@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 901800,
+      "downloads": 902000,
       "stars": 204,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 715300,
+      "downloads": 715400,
       "stars": 400,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 619500,
+      "downloads": 619800,
       "stars": 52,
       "task_types": "文本生成"
     },
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 397700,
+      "downloads": 399100,
       "stars": 98,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 345700,
+      "downloads": 345800,
       "stars": 171
     },
     {
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 293400,
+      "downloads": 293500,
       "stars": 33,
       "task_types": "文本生成"
     },
@@ -367,7 +367,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Coder-30B-A3B-Instruct",
       "time": "2025.12.04",
-      "downloads": 199600,
+      "downloads": 201300,
       "stars": 110,
       "task_types": "文本生成"
     },
@@ -918,6 +918,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/Qwen/Qwen-Image-2512",
+      "id": "Qwen/Qwen-Image-2512",
+      "organization": "Qwen",
+      "name": "Qwen/Qwen-Image-2512",
+      "time": "2025.12.31",
+      "downloads": 11700,
+      "stars": 135,
+      "task_types": "文本生成图片"
+    },
+    {
       "link": "https://modelscope.cn/models/mysun2023/MEXX_HM",
       "id": "mysun2023/MEXX_HM",
       "organization": "mysun2023",
@@ -944,16 +954,6 @@
       "name": "mysun2023/MEXX_TG_REAL2",
       "time": "2025.03.07",
       "downloads": 10200,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/Qwen/Qwen-Image-2512",
-      "id": "Qwen/Qwen-Image-2512",
-      "organization": "Qwen",
-      "name": "Qwen/Qwen-Image-2512",
-      "time": "2025.12.31",
-      "downloads": 10300,
-      "stars": 135,
       "task_types": "文本生成图片"
     },
     {
