@@ -99,7 +99,7 @@
       "name": "Qwen/Qwen-Image",
       "time": "2025.08.18",
       "downloads": 1800000,
-      "stars": 393,
+      "stars": 394,
       "task_types": "文本生成图片"
     },
     {
@@ -169,7 +169,7 @@
       "name": "FLUX.1-dev",
       "time": "2025.06.23",
       "downloads": 1300000,
-      "stars": 238,
+      "stars": 239,
       "task_types": "文本生成图片"
     },
     {
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 903800,
+      "downloads": 904000,
       "stars": 204,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 716000,
+      "downloads": 716100,
       "stars": 401,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 623500,
+      "downloads": 623800,
       "stars": 52,
       "task_types": "文本生成"
     },
@@ -259,7 +259,7 @@
       "name": "麦橘超然",
       "time": "2025.03.13",
       "downloads": 543900,
-      "stars": 467,
+      "stars": 468,
       "task_types": "文本生成图片"
     },
     {
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 427700,
+      "downloads": 427900,
       "stars": 98,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 347000,
+      "downloads": 347200,
       "stars": 171
     },
     {
@@ -347,7 +347,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 293900,
+      "downloads": 294200,
       "stars": 33,
       "task_types": "文本生成"
     },
@@ -417,7 +417,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 143800,
+      "downloads": 143900,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -457,7 +457,7 @@
       "organization": "Qwen",
       "name": "通义千问2.5-代码-7B-Instruct",
       "time": "2025.03.07",
-      "downloads": 83500,
+      "downloads": 83600,
       "stars": 59,
       "task_types": "文本生成"
     },
@@ -477,7 +477,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 80400,
+      "downloads": 80500,
       "stars": 245,
       "task_types": "文本生成"
     },
@@ -498,7 +498,7 @@
       "name": "苏-FLUX抖音小红书极致真实_苏-FLUX小红书极致真实V2",
       "time": "2025.03.07",
       "downloads": 61500,
-      "stars": 241,
+      "stars": 242,
       "task_types": "文本生成图片"
     },
     {
@@ -547,7 +547,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 38600,
+      "downloads": 38700,
       "stars": 135,
       "task_types": "文本生成图片"
     },
@@ -588,7 +588,7 @@
       "name": "通义千问3-VL-30B-A3B-Thinking",
       "time": "2025.11.27",
       "downloads": 30400,
-      "stars": 7,
+      "stars": 8,
       "task_types": "视觉多模态理解"
     },
     {
@@ -608,7 +608,7 @@
       "name": "通义千问3-VL-8B-Thinking",
       "time": "2025.10.15",
       "downloads": 28800,
-      "stars": 9,
+      "stars": 10,
       "task_types": "视觉多模态理解"
     },
     {
@@ -775,7 +775,7 @@
       "name": "MAJICFLUS-麦橘光影约拍",
       "time": "2025.03.07",
       "downloads": 16500,
-      "stars": 87,
+      "stars": 88,
       "task_types": "文本生成图片"
     },
     {
@@ -805,7 +805,7 @@
       "name": "LOCO-FLUX-RAW",
       "time": "2025.06.22",
       "downloads": 15300,
-      "stars": 41,
+      "stars": 42,
       "task_types": "文本生成图片"
     },
     {
@@ -855,7 +855,7 @@
       "name": "black-forest-labs/FLUX.1-Krea-dev",
       "time": "2025.08.01",
       "downloads": 15900,
-      "stars": 60,
+      "stars": 61,
       "task_types": "文本生成图片"
     },
     {
@@ -874,7 +874,7 @@
       "organization": "MusePublic",
       "name": "Qwen Image FP8【仅供本地使用】",
       "time": "2025.08.08",
-      "downloads": 13800,
+      "downloads": 13900,
       "stars": 45,
       "task_types": "文本生成图片"
     },
@@ -1226,7 +1226,7 @@
       "name": "Shanghai_AI_Laboratory/Intern-S1-mini",
       "time": "2025.11.01",
       "downloads": 5700,
-      "stars": 10,
+      "stars": 11,
       "task_types": "视觉多模态理解"
     },
     {
