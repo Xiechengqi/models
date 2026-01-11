@@ -43,7 +43,8 @@
       "tags": [
         "MoE",
         "Reasoning",
-        "chat"
+        "chat",
+        "Long Context"
       ]
     },
     {
@@ -192,7 +193,8 @@
       "description": "DeepSeek-V3.1: hybrid inference LLM with Think/Non-Think modes, stronger agents, 128K context, strict function calling.",
       "tags": [
         "tool calling",
-        "chat"
+        "chat",
+        "advanced reasoning"
       ]
     },
     {
@@ -250,7 +252,8 @@
       "tags": [
         "Polish",
         "Sovereign AI",
-        "chat"
+        "chat",
+        "Chatbots"
       ]
     },
     {
@@ -380,7 +383,8 @@
       "description": "FLUX.1 Kontext is a multimodal model that enables in-context image generation and editing.",
       "tags": [
         "Image Generation",
-        "Text-to-Image"
+        "Text-to-Image",
+        "Run-on-RTX"
       ]
     },
     {
@@ -438,7 +442,8 @@
       "tags": [
         "ASR",
         "English",
-        "NVIDIA NIM"
+        "NVIDIA NIM",
+        "NVIDIA Riva"
       ]
     },
     {
@@ -542,7 +547,8 @@
       "tags": [
         "TTS",
         "Text-to-Speech",
-        "NVIDIA NIM"
+        "NVIDIA NIM",
+        "NVIDIA Riva"
       ]
     },
     {
@@ -573,7 +579,8 @@
       "provider": "google",
       "description": "An edge computing AI model which accepts text, audio and image input, ideal for resource-constrained environments",
       "tags": [
-        "language generation"
+        "language generation",
+        "speech recognition"
       ]
     },
     {
@@ -583,7 +590,8 @@
       "provider": "google",
       "description": "An edge computing AI model which accepts text, audio and image input, ideal for resource-constrained environments",
       "tags": [
-        "language generation"
+        "language generation",
+        "speech recognition"
       ]
     },
     {
@@ -648,7 +656,8 @@
       "tags": [
         "coding",
         "chat",
-        "math"
+        "math",
+        "advanced reasoning"
       ]
     },
     {
@@ -683,7 +692,8 @@
       "tags": [
         "edge",
         "tool calling",
-        "chat"
+        "chat",
+        "reasoning"
       ]
     },
     {
@@ -707,7 +717,8 @@
       "tags": [
         "TTS",
         "Text-to-Speech",
-        "NVIDIA NIM"
+        "NVIDIA NIM",
+        "NVIDIA Riva"
       ]
     },
     {
@@ -741,7 +752,8 @@
       "description": "FLUX.1-schnell is a distilled image generation model, producing high quality images at fast speeds",
       "tags": [
         "Image Generation",
-        "Text-to-Image"
+        "Text-to-Image",
+        "Run-on-RTX"
       ]
     },
     {
@@ -808,7 +820,8 @@
       "description": "FLUX.1 is a state-of-the-art suite of image generation models",
       "tags": [
         "Image Generation",
-        "Text-to-Image"
+        "Text-to-Image",
+        "Run-on-RTX"
       ]
     },
     {
@@ -854,7 +867,8 @@
       "tags": [
         "coding",
         "chat",
-        "math"
+        "math",
+        "advanced reasoning"
       ]
     },
     {
@@ -1337,7 +1351,8 @@
       "provider": "university-at-buffalo",
       "description": "Context-aware chart extraction that can detect 18 classes for chart basic elements, excluding plot elements.",
       "tags": [
-        "nemo retriever"
+        "nemo retriever",
+        "Chart Element Detection"
       ]
     },
     {
@@ -1379,7 +1394,8 @@
       "provider": "nvidia",
       "description": "Generative downscaling model for generating high resolution regional scale weather fields.",
       "tags": [
-        "AI Weather prediction"
+        "AI Weather prediction",
+        "Weather Simulation"
       ]
     },
     {
@@ -1389,7 +1405,8 @@
       "provider": "nvidia",
       "description": "FourCastNet predicts global atmospheric dynamics of various weather / climate variables.",
       "tags": [
-        "Weather Simulation"
+        "Weather Simulation",
+        "AI Weather Prediction"
       ]
     },
     {
@@ -1800,7 +1817,8 @@
       "description": "Estimate gaze angles of a person in a video and redirect to make it frontal.",
       "tags": [
         "telepresence",
-        "Nvidia Maxine"
+        "Nvidia Maxine",
+        "Digital Human"
       ]
     },
     {
@@ -1959,7 +1977,8 @@
       "description": "Advanced LLM to generate high-quality, context-aware responses for chatbots and search engines.",
       "tags": [
         "text-to-text",
-        "chat"
+        "chat",
+        "Non-Commercial Use Only"
       ]
     },
     {
@@ -1981,7 +2000,8 @@
       "provider": "nvidia",
       "description": "NV-CLIP is a multimodal embeddings model for image and text.",
       "tags": [
-        "Computer vision"
+        "Computer vision",
+        "multimodal embeddings"
       ]
     },
     {
@@ -2280,7 +2300,8 @@
       "tags": [
         "Chemistry",
         "nim",
-        "BioNemo"
+        "BioNemo",
+        "Docking"
       ]
     },
     {
