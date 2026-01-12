@@ -2,16 +2,6 @@
   "models_page": "https://build.nvidia.com/models",
   "models": [
     {
-      "id": "nvidia/cosmos-reason2-8b",
-      "name": "cosmos-reason2-8b",
-      "link": "https://build.nvidia.com/nvidia/cosmos-reason2-8b",
-      "provider": "nvidia",
-      "description": "Vision language model that excels in understanding the physical world using structured reasoning on videos or images.",
-      "tags": [
-        "video understanding"
-      ]
-    },
-    {
       "id": "nvidia/nemoretriever-page-elements-v3",
       "name": "nemoretriever-page-elements-v3",
       "link": "https://build.nvidia.com/nvidia/nemoretriever-page-elements-v3",
@@ -385,16 +375,6 @@
         "Image Generation",
         "Text-to-Image",
         "Run-on-RTX"
-      ]
-    },
-    {
-      "id": "nvidia/cosmos-reason1-7b",
-      "name": "cosmos-reason1-7b",
-      "link": "https://build.nvidia.com/nvidia/cosmos-reason1-7b",
-      "provider": "nvidia",
-      "description": "Reasoning vision language model (VLM) for physical AI and robotics.",
-      "tags": [
-        "video understanding"
       ]
     },
     {
