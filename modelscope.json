@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 912000,
+      "downloads": 912200,
       "stars": 208,
       "task_types": "视觉多模态理解"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 716000,
+      "downloads": 716100,
       "stars": 70,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 637500,
+      "downloads": 637800,
       "stars": 53,
       "task_types": "文本生成"
     },
@@ -283,6 +283,16 @@
       "task_types": "文本生成"
     },
     {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-1.7B",
+      "id": "Qwen/Qwen3-1.7B",
+      "organization": "Qwen",
+      "name": "通义千问3-1.7B",
+      "time": "2025.07.27",
+      "downloads": 453500,
+      "stars": 48,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/Qwen/QVQ-72B-Preview",
       "id": "Qwen/QVQ-72B-Preview",
       "organization": "Qwen",
@@ -293,22 +303,12 @@
       "task_types": "视觉多模态理解"
     },
     {
-      "link": "https://modelscope.cn/models/Qwen/Qwen3-1.7B",
-      "id": "Qwen/Qwen3-1.7B",
-      "organization": "Qwen",
-      "name": "通义千问3-1.7B",
-      "time": "2025.07.27",
-      "downloads": 453400,
-      "stars": 48,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-30B-A3B-Instruct",
       "id": "Qwen/Qwen3-VL-30B-A3B-Instruct",
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 433200,
+      "downloads": 433300,
       "stars": 100,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 351500,
+      "downloads": 351700,
       "stars": 172
     },
     {
@@ -427,7 +427,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 147000,
+      "downloads": 147100,
       "stars": 1400,
       "task_types": "文本生成图片"
     },
@@ -537,7 +537,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 41200,
+      "downloads": 41300,
       "stars": 145,
       "task_types": "文本生成图片"
     },
@@ -597,7 +597,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2025.12.09",
-      "downloads": 30600,
+      "downloads": 30700,
       "stars": 274,
       "task_types": "图像描述"
     },
@@ -849,16 +849,6 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/MusePublic/329_ckpt_SD_XL",
-      "id": "MusePublic/329_ckpt_SD_XL",
-      "organization": "MusePublic",
-      "name": "快速生图之黏土风",
-      "time": "2025.03.07",
-      "downloads": 13700,
-      "stars": 4,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/MusePublic/Qwen-image-fp8",
       "id": "MusePublic/Qwen-image-fp8",
       "organization": "MusePublic",
@@ -866,6 +856,16 @@
       "time": "2025.08.08",
       "downloads": 14100,
       "stars": 45,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/329_ckpt_SD_XL",
+      "id": "MusePublic/329_ckpt_SD_XL",
+      "organization": "MusePublic",
+      "name": "快速生图之黏土风",
+      "time": "2025.03.07",
+      "downloads": 13700,
+      "stars": 4,
       "task_types": "文本生成图片"
     },
     {
