@@ -19,7 +19,7 @@
       "name": "通义千问3-8B",
       "time": "2025.07.27",
       "downloads": 4099999,
-      "stars": 203,
+      "stars": 204,
       "task_types": "文本生成"
     },
     {
@@ -198,7 +198,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 919400,
+      "downloads": 919700,
       "stars": 214,
       "task_types": "视觉多模态理解"
     },
@@ -228,7 +228,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 720000,
+      "downloads": 720100,
       "stars": 401,
       "task_types": "文本生成"
     },
@@ -238,7 +238,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 717700,
+      "downloads": 717800,
       "stars": 70,
       "task_types": "文本生成"
     },
@@ -248,7 +248,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 647400,
+      "downloads": 648200,
       "stars": 53,
       "task_types": "文本生成"
     },
@@ -278,7 +278,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 458200,
+      "downloads": 458500,
       "stars": 48,
       "task_types": "文本生成"
     },
@@ -289,7 +289,7 @@
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
       "time": "2025.02.25",
       "downloads": 454600,
-      "stars": 152,
+      "stars": 153,
       "task_types": "文本生成"
     },
     {
@@ -308,7 +308,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 437800,
+      "downloads": 438000,
       "stars": 102,
       "task_types": "视觉多模态理解"
     },
@@ -328,7 +328,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 355700,
+      "downloads": 355800,
       "stars": 172
     },
     {
@@ -337,7 +337,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 299300,
+      "downloads": 299400,
       "stars": 33,
       "task_types": "文本生成"
     },
@@ -537,8 +537,8 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 43400,
-      "stars": 149,
+      "downloads": 43500,
+      "stars": 150,
       "task_types": "文本生成图片"
     },
     {
@@ -839,6 +839,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/MusePublic/Qwen-image-fp8",
+      "id": "MusePublic/Qwen-image-fp8",
+      "organization": "MusePublic",
+      "name": "Qwen Image FP8【仅供本地使用】",
+      "time": "2025.08.08",
+      "downloads": 14500,
+      "stars": 47,
+      "task_types": "文本生成图片"
+    },
+    {
       "link": "https://modelscope.cn/models/MusePublic/332_ckpt_SD_XL",
       "id": "MusePublic/332_ckpt_SD_XL",
       "organization": "MusePublic",
@@ -846,16 +856,6 @@
       "time": "2025.03.07",
       "downloads": 14000,
       "stars": 20,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/Qwen-image-fp8",
-      "id": "MusePublic/Qwen-image-fp8",
-      "organization": "MusePublic",
-      "name": "Qwen Image FP8【仅供本地使用】",
-      "time": "2025.08.08",
-      "downloads": 14400,
-      "stars": 47,
       "task_types": "文本生成图片"
     },
     {
