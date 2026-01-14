@@ -9,7 +9,7 @@
       "name": "通义千问2.5-7B-Instruct",
       "time": "2025.03.07",
       "downloads": 4900000,
-      "stars": 401,
+      "stars": 402,
       "task_types": "文本生成"
     },
     {
@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 927100,
+      "downloads": 927800,
       "stars": 216,
       "task_types": "视觉多模态理解"
     },
@@ -237,7 +237,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 719500,
+      "downloads": 719600,
       "stars": 70,
       "task_types": "文本生成"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 655200,
+      "downloads": 655600,
       "stars": 53,
       "task_types": "文本生成"
     },
@@ -267,7 +267,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 511600,
+      "downloads": 511800,
       "stars": 278,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 462800,
+      "downloads": 462900,
       "stars": 48,
       "task_types": "文本生成"
     },
@@ -307,7 +307,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 442900,
+      "downloads": 443200,
       "stars": 102,
       "task_types": "视觉多模态理解"
     },
@@ -327,7 +327,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 357600,
+      "downloads": 357800,
       "stars": 172
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 301900,
+      "downloads": 302000,
       "stars": 33
     },
     {
@@ -405,7 +405,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 151800,
+      "downloads": 151900,
       "stars": 1400,
       "task_types": "文本生成图片"
     },
@@ -415,7 +415,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 147400,
+      "downloads": 147500,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -455,7 +455,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 84600,
+      "downloads": 84800,
       "stars": 260,
       "task_types": "文本生成"
     },
@@ -535,7 +535,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 45300,
+      "downloads": 45500,
       "stars": 159,
       "task_types": "文本生成图片"
     },
@@ -546,7 +546,7 @@
       "name": "ArtAug FLUX 增强 LoRA",
       "time": "2025.03.07",
       "downloads": 38600,
-      "stars": 77,
+      "stars": 76,
       "task_types": "文本生成图片"
     },
     {
@@ -615,7 +615,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Thinking",
       "time": "2025.10.15",
-      "downloads": 29500,
+      "downloads": 29600,
       "stars": 11,
       "task_types": "视觉多模态理解"
     },
@@ -744,7 +744,7 @@
       "name": "RedCraft | 红潮 CADS Commercial &amp; Advertising Design System",
       "time": "2025.03.07",
       "downloads": 18300,
-      "stars": 29,
+      "stars": 28,
       "task_types": "文本生成图片"
     },
     {
