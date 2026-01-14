@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 927800,
+      "downloads": 928300,
       "stars": 216,
       "task_types": "视觉多模态理解"
     },
@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 721500,
+      "downloads": 721600,
       "stars": 401,
       "task_types": "文本生成"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 655600,
+      "downloads": 656000,
       "stars": 53,
       "task_types": "文本生成"
     },
@@ -307,7 +307,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 443200,
+      "downloads": 443500,
       "stars": 102,
       "task_types": "视觉多模态理解"
     },
@@ -327,7 +327,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 357800,
+      "downloads": 357900,
       "stars": 172
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 302000,
+      "downloads": 302100,
       "stars": 33
     },
     {
@@ -395,7 +395,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-235B-A22B-Instruct",
       "time": "2025.11.27",
-      "downloads": 166100,
+      "downloads": 166200,
       "stars": 157,
       "task_types": "视觉多模态理解"
     },
@@ -456,7 +456,7 @@
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
       "downloads": 84800,
-      "stars": 260,
+      "stars": 261,
       "task_types": "文本生成"
     },
     {
@@ -505,7 +505,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Coder-480B-A35B-Instruct",
       "time": "2025.08.22",
-      "downloads": 118000,
+      "downloads": 118500,
       "stars": 1000,
       "task_types": "文本生成"
     },
@@ -515,7 +515,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 48900,
+      "downloads": 49000,
       "stars": 97,
       "task_types": "文本生成"
     },
@@ -535,7 +535,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 45500,
+      "downloads": 45600,
       "stars": 159,
       "task_types": "文本生成图片"
     },
@@ -575,7 +575,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7",
       "time": "2025.12.23",
-      "downloads": 31900,
+      "downloads": 32000,
       "stars": 133,
       "task_types": "文本生成"
     },
