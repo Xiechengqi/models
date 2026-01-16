@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 950800,
+      "downloads": 951000,
       "stars": 218,
       "task_types": "视觉多模态理解"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 675800,
+      "downloads": 676200,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -297,7 +297,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 453600,
+      "downloads": 453700,
       "stars": 103,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 364200,
+      "downloads": 364300,
       "stars": 172
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 306500,
+      "downloads": 306600,
       "stars": 33
     },
     {
@@ -415,7 +415,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 149900,
+      "downloads": 150000,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -520,6 +520,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Thinking-2507",
+      "id": "Qwen/Qwen3-235B-A22B-Thinking-2507",
+      "organization": "Qwen",
+      "name": "通义千问3-235B-A22B-Thinking-2507",
+      "time": "2025.08.20",
+      "downloads": 49700,
+      "stars": 97,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.6",
       "id": "ZhipuAI/GLM-4.6",
       "organization": "ZhipuAI",
@@ -527,16 +537,6 @@
       "time": "2025.12.02",
       "downloads": 49500,
       "stars": 286,
-      "task_types": "文本生成"
-    },
-    {
-      "link": "https://modelscope.cn/models/Qwen/Qwen3-235B-A22B-Thinking-2507",
-      "id": "Qwen/Qwen3-235B-A22B-Thinking-2507",
-      "organization": "Qwen",
-      "name": "通义千问3-235B-A22B-Thinking-2507",
-      "time": "2025.08.20",
-      "downloads": 49000,
-      "stars": 97,
       "task_types": "文本生成"
     },
     {
@@ -575,7 +575,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.7",
       "time": "2026.01.16",
-      "downloads": 35100,
+      "downloads": 35200,
       "stars": 135,
       "task_types": "文本生成"
     },
@@ -1192,15 +1192,6 @@
       "downloads": 6600
     },
     {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_ANIME",
-      "id": "mysun2023/MEXX_ANIME",
-      "organization": "mysun2023",
-      "name": "mysun2023/MEXX_ANIME",
-      "time": "2025.03.07",
-      "downloads": 6200,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/kyisen/XINXIANG",
       "id": "kyisen/XINXIANG",
       "organization": "kyisen",
@@ -1482,6 +1473,16 @@
       "time": "2025.06.18",
       "downloads": 3600,
       "stars": 6,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/100_lora_SD_XL",
+      "id": "MusePublic/100_lora_SD_XL",
+      "organization": "MusePublic",
+      "name": "Aesthetic Anime LoRA",
+      "time": "2025.03.07",
+      "downloads": 3600,
+      "stars": 3,
       "task_types": "文本生成图片"
     }
   ]
