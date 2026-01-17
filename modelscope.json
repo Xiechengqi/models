@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 953000,
+      "downloads": 953200,
       "stars": 219,
       "task_types": "视觉多模态理解"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 680100,
+      "downloads": 680400,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -287,7 +287,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 455600,
+      "downloads": 455800,
       "stars": 103,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 365500,
+      "downloads": 365600,
       "stars": 172
     },
     {
@@ -365,7 +365,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Coder-30B-A3B-Instruct",
       "time": "2025.12.04",
-      "downloads": 229800,
+      "downloads": 229900,
       "stars": 115,
       "task_types": "文本生成"
     },
@@ -405,7 +405,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 158400,
+      "downloads": 158500,
       "stars": 1400,
       "task_types": "文本生成图片"
     },
@@ -515,7 +515,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Coder-480B-A35B-Instruct",
       "time": "2025.08.22",
-      "downloads": 119900,
+      "downloads": 120000,
       "stars": 1000,
       "task_types": "文本生成"
     },
@@ -560,16 +560,6 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-7B-Instruct-1M",
-      "id": "Qwen/Qwen2.5-7B-Instruct-1M",
-      "organization": "Qwen",
-      "name": "通义千问2.5-7B-Instruct-1M",
-      "time": "2025.01.30",
-      "downloads": 35600,
-      "stars": 26,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7",
       "id": "ZhipuAI/GLM-4.7",
       "organization": "ZhipuAI",
@@ -580,12 +570,22 @@
       "task_types": "文本生成"
     },
     {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-7B-Instruct-1M",
+      "id": "Qwen/Qwen2.5-7B-Instruct-1M",
+      "organization": "Qwen",
+      "name": "通义千问2.5-7B-Instruct-1M",
+      "time": "2025.01.30",
+      "downloads": 35600,
+      "stars": 26,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/MusePublic/Qwen-image",
       "id": "MusePublic/Qwen-image",
       "organization": "MusePublic",
       "name": "Qwen Image",
       "time": "2025.08.04",
-      "downloads": 33300,
+      "downloads": 33400,
       "stars": 130,
       "task_types": "文本生成图片"
     },
@@ -842,7 +842,7 @@
       "organization": "MusePublic",
       "name": "Qwen Image FP8【仅供本地使用】",
       "time": "2025.08.08",
-      "downloads": 15100,
+      "downloads": 15200,
       "stars": 47,
       "task_types": "文本生成图片"
     },
