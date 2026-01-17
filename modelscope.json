@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 952000,
+      "downloads": 952100,
       "stars": 219,
       "task_types": "视觉多模态理解"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 678200,
+      "downloads": 678500,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -287,7 +287,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 454600,
+      "downloads": 454700,
       "stars": 103,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 364900,
+      "downloads": 365000,
       "stars": 172
     },
     {
@@ -505,7 +505,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Coder-480B-A35B-Instruct",
       "time": "2025.08.22",
-      "downloads": 119700,
+      "downloads": 119800,
       "stars": 1000,
       "task_types": "文本生成"
     },
@@ -575,7 +575,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.7",
       "time": "2026.01.16",
-      "downloads": 35400,
+      "downloads": 35500,
       "stars": 137,
       "task_types": "文本生成"
     },
@@ -1184,23 +1184,6 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/mistralai/Mistral-Small-Instruct-2409",
-      "id": "mistralai/Mistral-Small-Instruct-2409",
-      "organization": "mistralai",
-      "name": "mistralai/Mistral-Small-Instruct-2409",
-      "time": "2025.07.30",
-      "downloads": 6600
-    },
-    {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_ANIME",
-      "id": "mysun2023/MEXX_ANIME",
-      "organization": "mysun2023",
-      "name": "mysun2023/MEXX_ANIME",
-      "time": "2025.03.07",
-      "downloads": 6200,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/kyisen/XINXIANG",
       "id": "kyisen/XINXIANG",
       "organization": "kyisen",
@@ -1482,6 +1465,16 @@
       "time": "2025.06.18",
       "downloads": 3600,
       "stars": 6,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/100_lora_SD_XL",
+      "id": "MusePublic/100_lora_SD_XL",
+      "organization": "MusePublic",
+      "name": "Aesthetic Anime LoRA",
+      "time": "2025.03.07",
+      "downloads": 3600,
+      "stars": 3,
       "task_types": "文本生成图片"
     }
   ]
