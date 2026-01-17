@@ -109,7 +109,7 @@
       "name": "Qwen/Qwen-Image",
       "time": "2025.08.18",
       "downloads": 1800000,
-      "stars": 395,
+      "stars": 396,
       "task_types": "文本生成图片"
     },
     {
@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 954000,
+      "downloads": 954200,
       "stars": 220,
       "task_types": "视觉多模态理解"
     },
@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 727000,
+      "downloads": 727100,
       "stars": 400,
       "task_types": "文本生成"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 681800,
+      "downloads": 682100,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -287,7 +287,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 456300,
+      "downloads": 456500,
       "stars": 103,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 365900,
+      "downloads": 366000,
       "stars": 172
     },
     {
@@ -366,7 +366,7 @@
       "name": "通义千问3-Coder-30B-A3B-Instruct",
       "time": "2025.12.04",
       "downloads": 229900,
-      "stars": 116,
+      "stars": 117,
       "task_types": "文本生成"
     },
     {
@@ -405,7 +405,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 158600,
+      "downloads": 158700,
       "stars": 1400,
       "task_types": "文本生成图片"
     },
@@ -415,7 +415,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 150600,
+      "downloads": 150700,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -496,7 +496,7 @@
       "name": "苏-FLUX抖音小红书极致真实_苏-FLUX小红书极致真实V2",
       "time": "2025.03.07",
       "downloads": 61600,
-      "stars": 243,
+      "stars": 244,
       "task_types": "文本生成图片"
     },
     {
@@ -515,7 +515,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Coder-480B-A35B-Instruct",
       "time": "2025.08.22",
-      "downloads": 120000,
+      "downloads": 120100,
       "stars": 1000,
       "task_types": "文本生成"
     },
