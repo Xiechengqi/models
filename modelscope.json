@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 957500,
+      "downloads": 957700,
       "stars": 220,
       "task_types": "视觉多模态理解"
     },
@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 728200,
+      "downloads": 728300,
       "stars": 400,
       "task_types": "文本生成"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 687800,
+      "downloads": 688100,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -287,7 +287,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 459800,
+      "downloads": 460000,
       "stars": 105,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 367600,
+      "downloads": 367700,
       "stars": 172
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 309200,
+      "downloads": 309300,
       "stars": 33
     },
     {
@@ -396,7 +396,7 @@
       "name": "通义千问3-VL-235B-A22B-Instruct",
       "time": "2025.11.27",
       "downloads": 166500,
-      "stars": 161,
+      "stars": 162,
       "task_types": "视觉多模态理解"
     },
     {
@@ -415,7 +415,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 151400,
+      "downloads": 151500,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -456,7 +456,7 @@
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
       "downloads": 88900,
-      "stars": 268,
+      "stars": 269,
       "task_types": "文本生成"
     },
     {
@@ -585,7 +585,7 @@
       "organization": "MusePublic",
       "name": "Qwen Image",
       "time": "2025.08.04",
-      "downloads": 33500,
+      "downloads": 33600,
       "stars": 130,
       "task_types": "文本生成图片"
     },
@@ -1159,7 +1159,7 @@
       "organization": "ONETranquil",
       "name": "F.1基础算法dev-fp8",
       "time": "2025.05.17",
-      "downloads": 7100,
+      "downloads": 7200,
       "stars": 27,
       "task_types": "文本生成图片"
     },
