@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 959600,
+      "downloads": 959700,
       "stars": 220,
       "task_types": "视觉多模态理解"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 691200,
+      "downloads": 691500,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -287,7 +287,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 461700,
+      "downloads": 461800,
       "stars": 105,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 368600,
+      "downloads": 368700,
       "stars": 172
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 309900,
+      "downloads": 310000,
       "stars": 33
     },
     {
@@ -525,7 +525,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 50900,
+      "downloads": 51000,
       "stars": 191,
       "task_types": "文本生成图片"
     },
@@ -610,16 +610,6 @@
       "task_types": "视觉多模态理解"
     },
     {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_LBL",
-      "id": "mysun2023/MEXX_LBL",
-      "organization": "mysun2023",
-      "name": "mysun2023/MEXX_LBL",
-      "time": "2025.03.07",
-      "downloads": 30800,
-      "stars": 5,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-8B-Thinking",
       "id": "Qwen/Qwen3-VL-8B-Thinking",
       "organization": "Qwen",
@@ -628,6 +618,16 @@
       "downloads": 31000,
       "stars": 11,
       "task_types": "视觉多模态理解"
+    },
+    {
+      "link": "https://modelscope.cn/models/mysun2023/MEXX_LBL",
+      "id": "mysun2023/MEXX_LBL",
+      "organization": "mysun2023",
+      "name": "mysun2023/MEXX_LBL",
+      "time": "2025.03.07",
+      "downloads": 30800,
+      "stars": 5,
+      "task_types": "文本生成图片"
     },
     {
       "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.5",
