@@ -3,6 +3,14 @@
   "api_key_page": "https://openrouter.ai/settings/keys",
   "models": [
     {
+      "id": "z-ai/glm-4.7-flash",
+      "name": "GLM 4.7 Flash",
+      "provider": "Z.AI",
+      "description": "As a 30B-class SOTA model, GLM-4.7-Flash offers a new option that balances performance and efficiency. It is further optimized for agentic coding use cases, strengthening coding capabilities, long-horizon task planning, and tool collaboration, and has achieved leading performance among open-source models of the same size on several current public benchmark leaderboards.",
+      "link": "https://openrouter.ai/z-ai/glm-4.7-flash",
+      "pub_date": "Mon, 19 Jan 2026 14:45:13 GMT"
+    },
+    {
       "id": "black-forest-labs/flux.2-klein-4b",
       "name": "FLUX.2 Klein 4B",
       "provider": "Black Forest Labs",
