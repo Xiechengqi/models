@@ -1146,7 +1146,7 @@
       "id": "openai/gpt-4o-audio-preview",
       "name": "GPT-4o Audio",
       "provider": "OpenAI",
-      "description": "The gpt-4o-audio-preview model adds support for audio inputs as prompts. This enhancement allows the model to detect nuances within audio recordings and add depth to generated user experiences. Audio outputs are currently not supported. Audio tokens are priced at $40 per million input audio tokens.",
+      "description": "The gpt-4o-audio-preview model adds support for audio inputs as prompts. This enhancement allows the model to detect nuances within audio recordings and add depth to generated user experiences. Audio outputs are currently not supported. Audio tokens are priced at $40 per million input and $80 per million output audio tokens.",
       "link": "https://openrouter.ai/openai/gpt-4o-audio-preview",
       "pub_date": "Fri, 15 Aug 2025 04:44:21 GMT"
     },
