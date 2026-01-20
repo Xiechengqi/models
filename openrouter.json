@@ -727,7 +727,7 @@
     {
       "id": "liquid/lfm2-8b-a1b",
       "name": "LiquidAI/LFM2-8B-A1B",
-      "description": "Model created via inbox interface",
+      "description": "LFM2-8B-A1B is an efficient on-device Mixture-of-Experts (MoE) model from Liquid AI’s LFM2 family, built for fast, high-quality inference on edge hardware. It uses 8.3B total parameters with only ~1.5B active per token, delivering strong performance while keeping compute and memory usage low—making it ideal for phones, tablets, and laptops.",
       "link": "https://openrouter.ai/liquid/lfm2-8b-a1b",
       "pub_date": "Mon, 20 Oct 2025 14:36:24 GMT"
     },
