@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 981800,
+      "downloads": 982200,
       "stars": 221,
       "task_types": "视觉多模态理解"
     },
@@ -227,7 +227,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 731000,
+      "downloads": 731100,
       "stars": 70,
       "task_types": "文本生成"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 711400,
+      "downloads": 711700,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 479300,
+      "downloads": 479500,
       "stars": 105,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 379300,
+      "downloads": 379500,
       "stars": 174
     },
     {
@@ -326,7 +326,7 @@
       "organization": "Qwen",
       "name": "通义千问2.5-VL-32B-Instruct",
       "time": "2025.04.15",
-      "downloads": 367700,
+      "downloads": 367900,
       "stars": 114,
       "task_types": "视觉多模态理解"
     },
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 314500,
+      "downloads": 314600,
       "stars": 33
     },
     {
@@ -405,7 +405,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 169100,
+      "downloads": 169200,
       "stars": 1500,
       "task_types": "文本生成图片"
     },
@@ -415,7 +415,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 155100,
+      "downloads": 155200,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -527,16 +527,6 @@
       "time": "2025.08.22",
       "downloads": 121300,
       "stars": 1000,
-      "task_types": "文本生成"
-    },
-    {
-      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.6",
-      "id": "ZhipuAI/GLM-4.6",
-      "organization": "ZhipuAI",
-      "name": "ZhipuAI/GLM-4.6",
-      "time": "2026.01.20",
-      "downloads": 49600,
-      "stars": 286,
       "task_types": "文本生成"
     },
     {
@@ -743,7 +733,7 @@
       "organization": "atonyxu",
       "name": "Illustrious XL",
       "time": "2025.04.24",
-      "downloads": 19200,
+      "downloads": 19300,
       "stars": 24,
       "task_types": "文本生成图片"
     },
@@ -884,26 +874,6 @@
       "time": "2025.08.01",
       "downloads": 16100,
       "stars": 61,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/329_ckpt_SD_XL",
-      "id": "MusePublic/329_ckpt_SD_XL",
-      "organization": "MusePublic",
-      "name": "快速生图之黏土风",
-      "time": "2025.03.07",
-      "downloads": 13700,
-      "stars": 4,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/mysun2023/MEXX_Realistic",
-      "id": "mysun2023/MEXX_Realistic",
-      "organization": "mysun2023",
-      "name": "绘梦·写实·重新训练版本",
-      "time": "2025.03.07",
-      "downloads": 13500,
-      "stars": 3,
       "task_types": "文本生成图片"
     },
     {
@@ -1197,8 +1167,8 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.20",
-      "downloads": 6400,
-      "stars": 29,
+      "downloads": 6500,
+      "stars": 30,
       "task_types": "文本生成"
     },
     {
@@ -1483,6 +1453,16 @@
       "downloads": 3600,
       "stars": 21,
       "task_types": "视觉多模态理解"
+    },
+    {
+      "link": "https://modelscope.cn/models/AImissyou/DSDJ",
+      "id": "AImissyou/DSDJ",
+      "organization": "AImissyou",
+      "name": "DSDJ扁平插画（一丹一世界）",
+      "time": "2025.06.18",
+      "downloads": 3600,
+      "stars": 6,
+      "task_types": "文本生成图片"
     }
   ]
 }
