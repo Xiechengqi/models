@@ -493,6 +493,118 @@
       ]
     },
     {
+      "id": "nvidia/nv-embed-v1",
+      "name": "nv-embed-v1",
+      "link": "https://build.nvidia.com/nvidia/nv-embed-v1",
+      "provider": "nvidia",
+      "description": "Generates high-quality numerical embeddings from text inputs.",
+      "tags": [
+        "Non-Commercial Use Only"
+      ]
+    },
+    {
+      "id": "ipd/proteinmpnn",
+      "name": "proteinmpnn",
+      "link": "https://build.nvidia.com/ipd/proteinmpnn",
+      "provider": "ipd",
+      "description": "ProteinMPNN is a deep learning model for predicting amino acid sequences for protein backbones.",
+      "tags": [
+        "biology",
+        "nim",
+        "BioNemo"
+      ]
+    },
+    {
+      "id": "nvidia/llama-3_2-nv-rerankqa-1b-v2",
+      "name": "llama-3.2-nv-rerankqa-1b-v2",
+      "link": "https://build.nvidia.com/nvidia/llama-3_2-nv-rerankqa-1b-v2",
+      "provider": "nvidia",
+      "description": "Fine-tuned reranking model for multilingual, cross-lingual text question-answering retrieval, with long context support.",
+      "tags": [
+        "nemo retriever"
+      ]
+    },
+    {
+      "id": "nvidia/nv-embedqa-e5-v5",
+      "name": "nv-embedqa-e5-v5",
+      "link": "https://build.nvidia.com/nvidia/nv-embedqa-e5-v5",
+      "provider": "nvidia",
+      "description": "English text embedding model for question-answering retrieval.",
+      "tags": [
+        "Embedding",
+        "run-on-rtx"
+      ]
+    },
+    {
+      "id": "qwen/qwen3-235b-a22b",
+      "name": "qwen3-235b-a22b",
+      "link": "https://build.nvidia.com/qwen/qwen3-235b-a22b",
+      "provider": "qwen",
+      "description": "Advanced reasoing MOE mode excelling at reasoning, multilingual tasks, and instruction following",
+      "tags": [
+        "chat",
+        "complex math"
+      ]
+    },
+    {
+      "id": "nvidia/genmol-generate",
+      "name": "genmol",
+      "link": "https://build.nvidia.com/nvidia/genmol-generate",
+      "provider": "nvidia",
+      "description": "Fragment-Based Molecular Generation by Discrete Diffusion.",
+      "tags": [
+        "Chemistry",
+        "nim",
+        "BioNemo"
+      ]
+    },
+    {
+      "id": "nvidia/llama-3_2-nv-embedqa-1b-v2",
+      "name": "llama-3.2-nv-embedqa-1b-v2",
+      "link": "https://build.nvidia.com/nvidia/llama-3_2-nv-embedqa-1b-v2",
+      "provider": "nvidia",
+      "description": "Multilingual and cross-lingual text question-answering retrieval with long context support and optimized data storage efficiency.",
+      "tags": [
+        "nemo retriever",
+        "embedding"
+      ]
+    },
+    {
+      "id": "nvidia/llama-3_3-nemotron-super-49b-v1",
+      "name": "llama-3.3-nemotron-super-49b-v1",
+      "link": "https://build.nvidia.com/nvidia/llama-3_3-nemotron-super-49b-v1",
+      "provider": "nvidia",
+      "description": "High efficiency model with leading accuracy for reasoning, tool calling, chat, and instruction following.",
+      "tags": [
+        "chat",
+        "math",
+        "advanced reasoning"
+      ]
+    },
+    {
+      "id": "nvidia/sparsedrive",
+      "name": "sparsedrive",
+      "link": "https://build.nvidia.com/nvidia/sparsedrive",
+      "provider": "nvidia",
+      "description": "End-to-end autonomous driving stack integrating perception, prediction, and planning with sparse scene representations for efficiency and safety.",
+      "tags": [
+        "autonomous vehicles",
+        "bev",
+        "av stack"
+      ]
+    },
+    {
+      "id": "nvidia/bevformer",
+      "name": "bevformer",
+      "link": "https://build.nvidia.com/nvidia/bevformer",
+      "provider": "nvidia",
+      "description": "Advanced transformer for multi-frame bird's-eye-view 3D perception in autonomous driving.",
+      "tags": [
+        "autonomous vehicles",
+        "bev"
+      ]
+    },
+    {
       "id": "microsoft/phi-4-mini-flash-reasoning",
       "name": "phi-4-mini-flash-reasoning",
       "link": "https://build.nvidia.com/microsoft/phi-4-mini-flash-reasoning",
@@ -502,6 +614,18 @@
         "edge",
         "chat",
         "reasoning"
+      ]
+    },
+    {
+      "id": "nvidia/molmim-generate",
+      "name": "molmim",
+      "link": "https://build.nvidia.com/nvidia/molmim-generate",
+      "provider": "nvidia",
+      "description": "MolMIM performs controlled generation, finding molecules with the right properties.",
+      "tags": [
+        "Chemistry",
+        "nim",
+        "BioNemo"
       ]
     },
     {
@@ -517,6 +641,119 @@
       ]
     },
     {
+      "id": "mistralai/mixtral-8x22b-instruct",
+      "name": "mixtral-8x22b-instruct-v0.1",
+      "link": "https://build.nvidia.com/mistralai/mixtral-8x22b-instruct",
+      "provider": "mistralai",
+      "description": "An MOE LLM that follows instructions, completes requests, and generates creative text.",
+      "tags": [
+        "Advanced Reasoning",
+        "chat"
+      ]
+    },
+    {
+      "id": "mistralai/mixtral-8x7b-instruct",
+      "name": "mixtral-8x7b-instruct-v0.1",
+      "link": "https://build.nvidia.com/mistralai/mixtral-8x7b-instruct",
+      "provider": "mistralai",
+      "description": "An MOE LLM that follows instructions, completes requests, and generates creative text.",
+      "tags": [
+        "Advanced Reasoning",
+        "chat"
+      ]
+    },
+    {
+      "id": "meta/llama-4-maverick-17b-128e-instruct",
+      "name": "llama-4-maverick-17b-128e-instruct",
+      "link": "https://build.nvidia.com/meta/llama-4-maverick-17b-128e-instruct",
+      "provider": "meta",
+      "description": "A general purpose multimodal, multilingual 128 MoE model with 17B parameters.",
+      "tags": [
+        "language generation",
+        "chat"
+      ]
+    },
+    {
+      "id": "deepseek-ai/deepseek-r1",
+      "name": "deepseek-r1",
+      "link": "https://build.nvidia.com/deepseek-ai/deepseek-r1",
+      "provider": "deepseek-ai",
+      "description": "State-of-the-art, high-efficiency LLM excelling in reasoning, math, and coding.",
+      "tags": [
+        "chat",
+        "Math",
+        "advanced reasoning"
+      ]
+    },
+    {
+      "id": "meta/llama-4-scout-17b-16e-instruct",
+      "name": "llama-4-scout-17b-16e-instruct",
+      "link": "https://build.nvidia.com/meta/llama-4-scout-17b-16e-instruct",
+      "provider": "meta",
+      "description": "A multimodal, multilingual 16 MoE model with 17B parameters.",
+      "tags": [
+        "language generation",
+        "chat"
+      ]
+    },
+    {
+      "id": "thudm/chatglm3-6b",
+      "name": "chatglm3-6b",
+      "link": "https://build.nvidia.com/thudm/chatglm3-6b",
+      "provider": "thudm",
+      "description": "Supports Chinese and English languages to handle tasks including chatbot, content generation, coding, and translation.",
+      "tags": [
+        "Text Translation",
+        "chat"
+      ]
+    },
+    {
+      "id": "google/gemma-3n-e2b-it",
+      "name": "gemma-3n-e2b-it",
+      "link": "https://build.nvidia.com/google/gemma-3n-e2b-it",
+      "provider": "google",
+      "description": "An edge computing AI model which accepts text, audio and image input, ideal for resource-constrained environments",
+      "tags": [
+        "language generation",
+        "speech recognition"
+      ]
+    },
+    {
+      "id": "google/gemma-3n-e4b-it",
+      "name": "gemma-3n-e4b-it",
+      "link": "https://build.nvidia.com/google/gemma-3n-e4b-it",
+      "provider": "google",
+      "description": "An edge computing AI model which accepts text, audio and image input, ideal for resource-constrained environments",
+      "tags": [
+        "language generation",
+        "speech recognition"
+      ]
+    },
+    {
+      "id": "mit/diffdock",
+      "name": "diffdock",
+      "link": "https://build.nvidia.com/mit/diffdock",
+      "provider": "mit",
+      "description": "Predicts the 3D structure of how a molecule interacts with a protein.",
+      "tags": [
+        "Chemistry",
+        "nim",
+        "BioNemo",
+        "Docking"
+      ]
+    },
+    {
+      "id": "mistralai/mistral-medium-3-instruct",
+      "name": "mistral-medium-3-instruct",
+      "link": "https://build.nvidia.com/mistralai/mistral-medium-3-instruct",
+      "provider": "mistralai",
+      "description": "Powerful, multimodal language model designed for enterprise applications, including software development, data analysis, and reasoning.",
+      "tags": [
+        "language generation",
+        "chat"
+      ]
+    },
+    {
       "id": "mistralai/magistral-small-2506",
       "name": "magistral-small-2506",
       "link": "https://build.nvidia.com/mistralai/magistral-small-2506",
@@ -526,6 +763,30 @@
         "coding",
         "chat",
         "math"
+      ]
+    },
+    {
+      "id": "nvidia/llama-3_1-nemotron-ultra-253b-v1",
+      "name": "llama-3.1-nemotron-ultra-253b-v1",
+      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemotron-ultra-253b-v1",
+      "provider": "nvidia",
+      "description": "Superior inference efficiency with highest accuracy for scientific and complex math reasoning, coding, tool calling, and instruction following.",
+      "tags": [
+        "chat",
+        "math",
+        "advanced reasoning"
+      ]
+    },
+    {
+      "id": "ibm/granite-3_3-8b-instruct",
+      "name": "granite-3.3-8b-instruct",
+      "link": "https://build.nvidia.com/ibm/granite-3_3-8b-instruct",
+      "provider": "ibm",
+      "description": "Small language model fine-tuned for improved reasoning, coding, and instruction-following",
+      "tags": [
+        "coding",
+        "Reasoning",
+        "chat"
       ]
     },
     {
@@ -542,6 +803,108 @@
       ]
     },
     {
+      "id": "nvidia/nv-yolox-page-elements-v1",
+      "name": "nv-yolox-page-elements-v1",
+      "link": "https://build.nvidia.com/nvidia/nv-yolox-page-elements-v1",
+      "provider": "nvidia",
+      "description": "Model for object detection, fine-tuned to detect charts, tables, and titles in documents.",
+      "tags": [
+        "Object Detection",
+        "Data ingestion"
+      ]
+    },
+    {
+      "id": "baidu/paddleocr",
+      "name": "paddleocr",
+      "link": "https://build.nvidia.com/baidu/paddleocr",
+      "provider": "baidu",
+      "description": "Model for table extraction that receives an image as input, runs OCR on the image, and returns the text within the image and its bounding boxes.",
+      "tags": [
+        "Optical Character Recognition"
+      ]
+    },
+    {
+      "id": "meta/llama-3_1-8b-instruct",
+      "name": "llama-3.1-8b-instruct",
+      "link": "https://build.nvidia.com/meta/llama-3_1-8b-instruct",
+      "provider": "meta",
+      "description": "Advanced state-of-the-art model with language understanding, superior reasoning, and text generation.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "deepseek-ai/deepseek-r1-distill-llama-8b",
+      "name": "deepseek-r1-distill-llama-8b",
+      "link": "https://build.nvidia.com/deepseek-ai/deepseek-r1-distill-llama-8b",
+      "provider": "deepseek-ai",
+      "description": "Distilled version of Llama 3.1 8B using reasoning data generated by DeepSeek R1 for enhanced performance.",
+      "tags": [
+        "Distillation",
+        "coding",
+        "chat"
+      ]
+    },
+    {
+      "id": "mit/boltz2",
+      "name": "Boltz-2",
+      "link": "https://build.nvidia.com/mit/boltz2",
+      "provider": "mit",
+      "description": "Predict complex structures using Boltz-2.",
+      "tags": [
+        "nim",
+        "Bionemo",
+        "Biology"
+      ]
+    },
+    {
+      "id": "nvidia/usdcode",
+      "name": "usdcode",
+      "link": "https://build.nvidia.com/nvidia/usdcode",
+      "provider": "nvidia",
+      "description": "State-of-the-art LLM that answers OpenUSD knowledge queries and generates USD-Python code.",
+      "tags": [
+        "OpenUSD",
+        "Synthetic Data Generation"
+      ]
+    },
+    {
+      "id": "qwen/qwen2_5-coder-32b-instruct",
+      "name": "qwen2.5-coder-32b-instruct",
+      "link": "https://build.nvidia.com/qwen/qwen2_5-coder-32b-instruct",
+      "provider": "qwen",
+      "description": "Advanced LLM for code generation, reasoning, and fixing across popular programming languages.",
+      "tags": [
+        "code completion",
+        "code generation"
+      ]
+    },
+    {
+      "id": "nvidia/nemoguard-jailbreak-detect",
+      "name": "nemoguard-jailbreak-detect",
+      "link": "https://build.nvidia.com/nvidia/nemoguard-jailbreak-detect",
+      "provider": "nvidia",
+      "description": "Industry leading jailbreak classification model for protection from adversarial attempts",
+      "tags": [
+        "nemo guardrails",
+        "llm security",
+        "NIM"
+      ]
+    },
+    {
+      "id": "nvidia/llama-3.1-nemotron-nano-vl-8b-v1",
+      "name": "llama-3.1-nemotron-nano-vl-8b-v1",
+      "link": "https://build.nvidia.com/nvidia/llama-3.1-nemotron-nano-vl-8b-v1",
+      "provider": "nvidia",
+      "description": "Multi-modal vision-language model that understands text/img and creates informative responses",
+      "tags": [
+        "doc intelligence",
+        "chat"
+      ]
+    },
+    {
       "id": "meta/llama-guard-4-12b",
       "name": "llama-guard-4-12b",
       "link": "https://build.nvidia.com/meta/llama-guard-4-12b",
@@ -550,6 +913,77 @@
       "tags": [
         "LLM Multimodal Safety",
         "Content Safety"
+      ]
+    },
+    {
+      "id": "nvidia/llama-3_1-nemotron-nano-4b-v1_1",
+      "name": "llama-3.1-nemotron-nano-4b-v1.1",
+      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemotron-nano-4b-v1_1",
+      "provider": "nvidia",
+      "description": "State-of-the-art open model for reasoning, code, math, and tool calling - suitable for edge agents",
+      "tags": [
+        "edge",
+        "tool calling",
+        "chat",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "nvidia/cosmos-transfer1-7b",
+      "name": "cosmos-transfer1-7b",
+      "link": "https://build.nvidia.com/nvidia/cosmos-transfer1-7b",
+      "provider": "nvidia",
+      "description": "Generates physics-aware video world states for physical AI development using text prompts and multiple spatial control inputs derived from real-world data or simulation.",
+      "tags": [
+        "Synthetic Data Generation"
+      ]
+    },
+    {
+      "id": "mistralai/mistral-small-24b-instruct",
+      "name": "mistral-small-24b-instruct",
+      "link": "https://build.nvidia.com/mistralai/mistral-small-24b-instruct",
+      "provider": "mistralai",
+      "description": "Latency-optimized language model excelling in code, math, general knowledge, and instruction-following.",
+      "tags": [
+        "code",
+        "chat",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "nvidia/llama-3_1-nemotron-nano-8b-v1",
+      "name": "llama-3.1-nemotron-nano-8b-v1",
+      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemotron-nano-8b-v1",
+      "provider": "nvidia",
+      "description": "Leading reasoning and agentic AI accuracy model for PC and edge.",
+      "tags": [
+        "chat",
+        "math",
+        "advanced reasoning"
+      ]
+    },
+    {
+      "id": "nvidia/parakeet-ctc-1_1b-asr",
+      "name": "parakeet-ctc-1.1b-asr",
+      "link": "https://build.nvidia.com/nvidia/parakeet-ctc-1_1b-asr",
+      "provider": "nvidia",
+      "description": "Record-setting accuracy and performance for English transcription.",
+      "tags": [
+        "ASR",
+        "Streaming",
+        "English"
+      ]
+    },
+    {
+      "id": "nvidia/magpie-tts-multilingual",
+      "name": "magpie-tts-multilingual",
+      "link": "https://build.nvidia.com/nvidia/magpie-tts-multilingual",
+      "provider": "nvidia",
+      "description": "Natural and expressive voices in multiple languages. For voice agents and brand ambassadors.",
+      "tags": [
+        "TTS",
+        "Text-to-Speech",
+        "NVIDIA NIM"
       ]
     },
     {
@@ -563,28 +997,6 @@
       ]
     },
     {
-      "id": "google/gemma-3n-e4b-it",
-      "name": "gemma-3n-e4b-it",
-      "link": "https://build.nvidia.com/google/gemma-3n-e4b-it",
-      "provider": "google",
-      "description": "An edge computing AI model which accepts text, audio and image input, ideal for resource-constrained environments",
-      "tags": [
-        "language generation",
-        "speech recognition"
-      ]
-    },
-    {
-      "id": "google/gemma-3n-e2b-it",
-      "name": "gemma-3n-e2b-it",
-      "link": "https://build.nvidia.com/google/gemma-3n-e2b-it",
-      "provider": "google",
-      "description": "An edge computing AI model which accepts text, audio and image input, ideal for resource-constrained environments",
-      "tags": [
-        "language generation",
-        "speech recognition"
-      ]
-    },
-    {
       "id": "nvidia/llama-3_2-nemoretriever-500m-rerank-v2",
       "name": "llama-3.2-nemoretriever-500m-rerank-v2",
       "link": "https://build.nvidia.com/nvidia/llama-3_2-nemoretriever-500m-rerank-v2",
@@ -595,13 +1007,74 @@
       ]
     },
     {
-      "id": "nvidia/cosmos-transfer1-7b",
-      "name": "cosmos-transfer1-7b",
-      "link": "https://build.nvidia.com/nvidia/cosmos-transfer1-7b",
+      "id": "nvidia/llama-3_2-nemoretriever-1b-vlm-embed-v1",
+      "name": "llama-3.2-nemoretriever-1b-vlm-embed-v1",
+      "link": "https://build.nvidia.com/nvidia/llama-3_2-nemoretriever-1b-vlm-embed-v1",
       "provider": "nvidia",
-      "description": "Generates physics-aware video world states for physical AI development using text prompts and multiple spatial control inputs derived from real-world data or simulation.",
+      "description": "Multimodal question-answer retrieval representing user queries as text and documents as images.",
       "tags": [
-        "Synthetic Data Generation"
+        "nemo retriever",
+        "embedding"
+      ]
+    },
+    {
+      "id": "qwen/qwq-32b",
+      "name": "qwq-32b",
+      "link": "https://build.nvidia.com/qwen/qwq-32b",
+      "provider": "qwen",
+      "description": "Powerful reasoning model capable of thinking and reasoning, can achieve significantly enhanced performance in downstream tasks, especially hard problems.",
+      "tags": [
+        "coding",
+        "chat",
+        "math",
+        "advanced reasoning"
+      ]
+    },
+    {
+      "id": "gotocompany/gemma-2-9b-cpt-sahabatai-instruct",
+      "name": "gemma-2-9b-cpt-sahabatai-instruct",
+      "link": "https://build.nvidia.com/gotocompany/gemma-2-9b-cpt-sahabatai-instruct",
+      "provider": "gotocompany",
+      "description": "SOTA LLM pre-trained for instruction following and proficiency in Indonesian language and its dialects.",
+      "tags": [
+        "Sovereign AI",
+        "chat",
+        "Indonesian"
+      ]
+    },
+    {
+      "id": "utter-project/eurollm-9b-instruct",
+      "name": "eurollm-9b-instruct",
+      "link": "https://build.nvidia.com/utter-project/eurollm-9b-instruct",
+      "provider": "utter-project",
+      "description": "State-of-the-art, multilingual model tailored to all 24 official European Union languages.",
+      "tags": [
+        "Sovereign AI",
+        "chat",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "colabfold/msa-search",
+      "name": "msa-search",
+      "link": "https://build.nvidia.com/colabfold/msa-search",
+      "provider": "colabfold",
+      "description": "Generates a multiple sequence alignment from a query sequence and a protein sequence database search.",
+      "tags": [
+        "nim",
+        "Bionemo",
+        "Biology"
+      ]
+    },
+    {
+      "id": "nvidia/audio2face-3d",
+      "name": "audio2face-3d",
+      "link": "https://build.nvidia.com/nvidia/audio2face-3d",
+      "provider": "nvidia",
+      "description": "Converts streamed audio to facial blendshapes for realtime lipsyncing and facial performances.",
+      "tags": [
+        "Speech-to-Animation",
+        "Digital Humans"
       ]
     },
     {
@@ -616,14 +1089,111 @@
       ]
     },
     {
-      "id": "nvidia/llama-3_2-nemoretriever-1b-vlm-embed-v1",
-      "name": "llama-3.2-nemoretriever-1b-vlm-embed-v1",
-      "link": "https://build.nvidia.com/nvidia/llama-3_2-nemoretriever-1b-vlm-embed-v1",
+      "id": "nvidia/nvclip",
+      "name": "nvclip",
+      "link": "https://build.nvidia.com/nvidia/nvclip",
       "provider": "nvidia",
-      "description": "Multimodal question-answer retrieval representing user queries as text and documents as images.",
+      "description": "NV-CLIP is a multimodal embeddings model for image and text.",
       "tags": [
-        "nemo retriever",
-        "embedding"
+        "Computer vision",
+        "multimodal embeddings"
+      ]
+    },
+    {
+      "id": "nvidia/parakeet-ctc-0_6b-asr",
+      "name": "parakeet-ctc-0.6b-asr",
+      "link": "https://build.nvidia.com/nvidia/parakeet-ctc-0_6b-asr",
+      "provider": "nvidia",
+      "description": "State-of-the-art accuracy and speed for English transcriptions.",
+      "tags": [
+        "ASR",
+        "Streaming",
+        "English",
+        "Batch"
+      ]
+    },
+    {
+      "id": "nvidia/studiovoice",
+      "name": "studiovoice",
+      "link": "https://build.nvidia.com/nvidia/studiovoice",
+      "provider": "nvidia",
+      "description": "Enhance speech by correcting common audio degradations to create studio quality speech output.",
+      "tags": [
+        "Nvidia Maxine",
+        "Speech-to-speech"
+      ]
+    },
+    {
+      "id": "black-forest-labs/flux_1-dev",
+      "name": "FLUX.1-dev",
+      "link": "https://build.nvidia.com/black-forest-labs/flux_1-dev",
+      "provider": "black-forest-labs",
+      "description": "FLUX.1 is a state-of-the-art suite of image generation models",
+      "tags": [
+        "Image Generation",
+        "Text-to-Image",
+        "Run-on-RTX"
+      ]
+    },
+    {
+      "id": "black-forest-labs/flux_1-schnell",
+      "name": "FLUX.1-schnell",
+      "link": "https://build.nvidia.com/black-forest-labs/flux_1-schnell",
+      "provider": "black-forest-labs",
+      "description": "FLUX.1-schnell is a distilled image generation model, producing high quality images at fast speeds",
+      "tags": [
+        "Image Generation",
+        "Text-to-Image",
+        "Run-on-RTX"
+      ]
+    },
+    {
+      "id": "meta/esmfold",
+      "name": "esmfold",
+      "link": "https://build.nvidia.com/meta/esmfold",
+      "provider": "meta",
+      "description": "Predicts the 3D structure of a protein from its amino acid sequence.",
+      "tags": [
+        "biology",
+        "nim",
+        "Bionemo"
+      ]
+    },
+    {
+      "id": "meta/llama-3_3-70b-instruct",
+      "name": "llama-3.3-70b-instruct",
+      "link": "https://build.nvidia.com/meta/llama-3_3-70b-instruct",
+      "provider": "meta",
+      "description": "Advanced LLM for reasoning, math, general knowledge, and function calling",
+      "tags": [
+        "Reasoning",
+        "chat",
+        "Code Generation"
+      ]
+    },
+    {
+      "id": "meta/llama-3_1-70b-instruct",
+      "name": "llama-3.1-70b-instruct",
+      "link": "https://build.nvidia.com/meta/llama-3_1-70b-instruct",
+      "provider": "meta",
+      "description": "Powers complex conversations with superior contextual understanding, reasoning and text generation.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "nvidia/magpie-tts-zeroshot",
+      "name": "magpie-tts-zeroshot",
+      "link": "https://build.nvidia.com/nvidia/magpie-tts-zeroshot",
+      "provider": "nvidia",
+      "description": "Expressive and engaging text-to-speech, generated from a short audio sample.",
+      "tags": [
+        "TTS",
+        "Text-to-Speech",
+        "NVIDIA NIM",
+        "NVIDIA Riva"
       ]
     },
     {
@@ -651,284 +1221,48 @@
       ]
     },
     {
-      "id": "mit/boltz2",
-      "name": "Boltz-2",
-      "link": "https://build.nvidia.com/mit/boltz2",
-      "provider": "mit",
-      "description": "Predict complex structures using Boltz-2.",
-      "tags": [
-        "nim",
-        "Bionemo",
-        "Biology"
-      ]
-    },
-    {
-      "id": "nvidia/llama-3.1-nemotron-nano-vl-8b-v1",
-      "name": "llama-3.1-nemotron-nano-vl-8b-v1",
-      "link": "https://build.nvidia.com/nvidia/llama-3.1-nemotron-nano-vl-8b-v1",
-      "provider": "nvidia",
-      "description": "Multi-modal vision-language model that understands text/img and creates informative responses",
-      "tags": [
-        "doc intelligence",
-        "chat"
-      ]
-    },
-    {
-      "id": "nvidia/llama-3_1-nemotron-nano-4b-v1_1",
-      "name": "llama-3.1-nemotron-nano-4b-v1.1",
-      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemotron-nano-4b-v1_1",
-      "provider": "nvidia",
-      "description": "State-of-the-art open model for reasoning, code, math, and tool calling - suitable for edge agents",
-      "tags": [
-        "edge",
-        "tool calling",
-        "chat",
-        "reasoning"
-      ]
-    },
-    {
-      "id": "marin/marin-8b-instruct",
-      "name": "marin-8b-instruct",
-      "link": "https://build.nvidia.com/marin/marin-8b-instruct",
-      "provider": "marin",
-      "description": "State-of-the-art open model trained on open datasets, excelling in reasoning, math, and science.",
-      "tags": [
-        "Reasoning",
-        "chat",
-        "Science"
-      ]
-    },
-    {
-      "id": "nvidia/magpie-tts-zeroshot",
-      "name": "magpie-tts-zeroshot",
-      "link": "https://build.nvidia.com/nvidia/magpie-tts-zeroshot",
-      "provider": "nvidia",
-      "description": "Expressive and engaging text-to-speech, generated from a short audio sample.",
-      "tags": [
-        "TTS",
-        "Text-to-Speech",
-        "NVIDIA NIM",
-        "NVIDIA Riva"
-      ]
-    },
-    {
-      "id": "ibm/granite-3_3-8b-instruct",
-      "name": "granite-3.3-8b-instruct",
-      "link": "https://build.nvidia.com/ibm/granite-3_3-8b-instruct",
-      "provider": "ibm",
-      "description": "Small language model fine-tuned for improved reasoning, coding, and instruction-following",
-      "tags": [
-        "coding",
-        "Reasoning",
-        "chat"
-      ]
-    },
-    {
-      "id": "qwen/qwen3-235b-a22b",
-      "name": "qwen3-235b-a22b",
-      "link": "https://build.nvidia.com/qwen/qwen3-235b-a22b",
-      "provider": "qwen",
-      "description": "Advanced reasoing MOE mode excelling at reasoning, multilingual tasks, and instruction following",
-      "tags": [
-        "chat",
-        "complex math"
-      ]
-    },
-    {
-      "id": "black-forest-labs/flux_1-schnell",
-      "name": "FLUX.1-schnell",
-      "link": "https://build.nvidia.com/black-forest-labs/flux_1-schnell",
-      "provider": "black-forest-labs",
-      "description": "FLUX.1-schnell is a distilled image generation model, producing high quality images at fast speeds",
-      "tags": [
-        "Image Generation",
-        "Text-to-Image",
-        "Run-on-RTX"
-      ]
-    },
-    {
-      "id": "utter-project/eurollm-9b-instruct",
-      "name": "eurollm-9b-instruct",
-      "link": "https://build.nvidia.com/utter-project/eurollm-9b-instruct",
-      "provider": "utter-project",
-      "description": "State-of-the-art, multilingual model tailored to all 24 official European Union languages.",
-      "tags": [
-        "Sovereign AI",
-        "chat",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "gotocompany/gemma-2-9b-cpt-sahabatai-instruct",
-      "name": "gemma-2-9b-cpt-sahabatai-instruct",
-      "link": "https://build.nvidia.com/gotocompany/gemma-2-9b-cpt-sahabatai-instruct",
-      "provider": "gotocompany",
-      "description": "SOTA LLM pre-trained for instruction following and proficiency in Indonesian language and its dialects.",
-      "tags": [
-        "Sovereign AI",
-        "chat",
-        "Indonesian"
-      ]
-    },
-    {
-      "id": "mistralai/mistral-small-3_1-24b-instruct-2503",
-      "name": "mistral-small-3.1-24b-instruct-2503",
-      "link": "https://build.nvidia.com/mistralai/mistral-small-3_1-24b-instruct-2503",
+      "id": "mistralai/mistral-7b-instruct-v03",
+      "name": "mistral-7b-instruct-v0.3",
+      "link": "https://build.nvidia.com/mistralai/mistral-7b-instruct-v03",
       "provider": "mistralai",
-      "description": "Efficient multimodal model excelling at multilingual tasks, image understanding, and fast-responses",
-      "tags": [
-        "language generation",
-        "chat"
-      ]
-    },
-    {
-      "id": "mistralai/mistral-medium-3-instruct",
-      "name": "mistral-medium-3-instruct",
-      "link": "https://build.nvidia.com/mistralai/mistral-medium-3-instruct",
-      "provider": "mistralai",
-      "description": "Powerful, multimodal language model designed for enterprise applications, including software development, data analysis, and reasoning.",
-      "tags": [
-        "language generation",
-        "chat"
-      ]
-    },
-    {
-      "id": "nvidia/parakeet-1_1b-rnnt-multilingual-asr",
-      "name": "parakeet-1.1b-rnnt-multilingual-asr",
-      "link": "https://build.nvidia.com/nvidia/parakeet-1_1b-rnnt-multilingual-asr",
-      "provider": "nvidia",
-      "description": "High accuracy and optimized performance for transcription in 25 languages",
-      "tags": [
-        "Automatic Speech Recognition"
-      ]
-    },
-    {
-      "id": "black-forest-labs/flux_1-dev",
-      "name": "FLUX.1-dev",
-      "link": "https://build.nvidia.com/black-forest-labs/flux_1-dev",
-      "provider": "black-forest-labs",
-      "description": "FLUX.1 is a state-of-the-art suite of image generation models",
-      "tags": [
-        "Image Generation",
-        "Text-to-Image",
-        "Run-on-RTX"
-      ]
-    },
-    {
-      "id": "nvidia/llama-3_1-nemotron-ultra-253b-v1",
-      "name": "llama-3.1-nemotron-ultra-253b-v1",
-      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemotron-ultra-253b-v1",
-      "provider": "nvidia",
-      "description": "Superior inference efficiency with highest accuracy for scientific and complex math reasoning, coding, tool calling, and instruction following.",
+      "description": "This LLM follows instructions, completes requests, and generates creative text.",
       "tags": [
         "chat",
-        "math",
-        "advanced reasoning"
+        "Text-to-Text",
+        "Language Generation"
       ]
     },
     {
-      "id": "meta/llama-4-maverick-17b-128e-instruct",
-      "name": "llama-4-maverick-17b-128e-instruct",
-      "link": "https://build.nvidia.com/meta/llama-4-maverick-17b-128e-instruct",
+      "id": "nvidia/nemoretriever-parse",
+      "name": "nemoretriever-parse",
+      "link": "https://build.nvidia.com/nvidia/nemoretriever-parse",
+      "provider": "nvidia",
+      "description": "Cutting-edge vision-language model exceling in retrieving text and metadata from images.",
+      "tags": [
+        "optical character recognition"
+      ]
+    },
+    {
+      "id": "meta/llama-3.2-90b-vision-instruct",
+      "name": "llama-3.2-90b-vision-instruct",
+      "link": "https://build.nvidia.com/meta/llama-3.2-90b-vision-instruct",
       "provider": "meta",
-      "description": "A general purpose multimodal, multilingual 128 MoE model with 17B parameters.",
+      "description": "Cutting-edge vision-Language model exceling in high-quality reasoning from images.",
       "tags": [
-        "language generation",
-        "chat"
+        "Image-Text Retrieval",
+        "Visual QA"
       ]
     },
     {
-      "id": "meta/llama-4-scout-17b-16e-instruct",
-      "name": "llama-4-scout-17b-16e-instruct",
-      "link": "https://build.nvidia.com/meta/llama-4-scout-17b-16e-instruct",
+      "id": "meta/llama-3.2-11b-vision-instruct",
+      "name": "llama-3.2-11b-vision-instruct",
+      "link": "https://build.nvidia.com/meta/llama-3.2-11b-vision-instruct",
       "provider": "meta",
-      "description": "A multimodal, multilingual 16 MoE model with 17B parameters.",
+      "description": "Cutting-edge vision-language model exceling in high-quality reasoning from images.",
       "tags": [
-        "language generation",
+        "Image-Text Retrieval",
+        "Visual QA",
         "chat"
-      ]
-    },
-    {
-      "id": "qwen/qwq-32b",
-      "name": "qwq-32b",
-      "link": "https://build.nvidia.com/qwen/qwq-32b",
-      "provider": "qwen",
-      "description": "Powerful reasoning model capable of thinking and reasoning, can achieve significantly enhanced performance in downstream tasks, especially hard problems.",
-      "tags": [
-        "coding",
-        "chat",
-        "math",
-        "advanced reasoning"
-      ]
-    },
-    {
-      "id": "nvidia/cosmos-predict1-5b",
-      "name": "cosmos-predict1-5b",
-      "link": "https://build.nvidia.com/nvidia/cosmos-predict1-5b",
-      "provider": "nvidia",
-      "description": "Generates future frames of a physics-aware world state based on simply an image or short video prompt for physical AI development.",
-      "tags": [
-        "Synthetic Data Generation",
-        "Physical AI"
-      ]
-    },
-    {
-      "id": "nvidia/sparsedrive",
-      "name": "sparsedrive",
-      "link": "https://build.nvidia.com/nvidia/sparsedrive",
-      "provider": "nvidia",
-      "description": "End-to-end autonomous driving stack integrating perception, prediction, and planning with sparse scene representations for efficiency and safety.",
-      "tags": [
-        "autonomous vehicles",
-        "bev",
-        "av stack"
-      ]
-    },
-    {
-      "id": "nvidia/bevformer",
-      "name": "bevformer",
-      "link": "https://build.nvidia.com/nvidia/bevformer",
-      "provider": "nvidia",
-      "description": "Advanced transformer for multi-frame bird's-eye-view 3D perception in autonomous driving.",
-      "tags": [
-        "autonomous vehicles",
-        "bev"
-      ]
-    },
-    {
-      "id": "nvidia/llama-3_3-nemotron-super-49b-v1",
-      "name": "llama-3.3-nemotron-super-49b-v1",
-      "link": "https://build.nvidia.com/nvidia/llama-3_3-nemotron-super-49b-v1",
-      "provider": "nvidia",
-      "description": "High efficiency model with leading accuracy for reasoning, tool calling, chat, and instruction following.",
-      "tags": [
-        "chat",
-        "math",
-        "advanced reasoning"
-      ]
-    },
-    {
-      "id": "nvidia/llama-3_1-nemotron-nano-8b-v1",
-      "name": "llama-3.1-nemotron-nano-8b-v1",
-      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemotron-nano-8b-v1",
-      "provider": "nvidia",
-      "description": "Leading reasoning and agentic AI accuracy model for PC and edge.",
-      "tags": [
-        "chat",
-        "math",
-        "advanced reasoning"
-      ]
-    },
-    {
-      "id": "nvidia/magpie-tts-multilingual",
-      "name": "magpie-tts-multilingual",
-      "link": "https://build.nvidia.com/nvidia/magpie-tts-multilingual",
-      "provider": "nvidia",
-      "description": "Natural and expressive voices in multiple languages. For voice agents and brand ambassadors.",
-      "tags": [
-        "TTS",
-        "Text-to-Speech",
-        "NVIDIA NIM"
       ]
     },
     {
@@ -940,63 +1274,6 @@
       "tags": [
         "nemo retriever",
         "Embedding"
-      ]
-    },
-    {
-      "id": "deepseek-ai/deepseek-r1-distill-llama-8b",
-      "name": "deepseek-r1-distill-llama-8b",
-      "link": "https://build.nvidia.com/deepseek-ai/deepseek-r1-distill-llama-8b",
-      "provider": "deepseek-ai",
-      "description": "Distilled version of Llama 3.1 8B using reasoning data generated by DeepSeek R1 for enhanced performance.",
-      "tags": [
-        "Distillation",
-        "coding",
-        "chat"
-      ]
-    },
-    {
-      "id": "nvidia/nemoretriever-table-structure-v1",
-      "name": "nemoretriever-table-structure-v1",
-      "link": "https://build.nvidia.com/nvidia/nemoretriever-table-structure-v1",
-      "provider": "nvidia",
-      "description": "Model for object detection, fine-tuned to detect charts, tables, and titles in documents.",
-      "tags": [
-        "Object Detection",
-        "Chart Detection"
-      ]
-    },
-    {
-      "id": "nvidia/nemoretriever-graphic-elements-v1",
-      "name": "nemoretriever-graphic-elements-v1",
-      "link": "https://build.nvidia.com/nvidia/nemoretriever-graphic-elements-v1",
-      "provider": "nvidia",
-      "description": "Model for object detection, fine-tuned to detect charts, tables, and titles in documents.",
-      "tags": [
-        "Object Detection",
-        "Chart Detection"
-      ]
-    },
-    {
-      "id": "nvidia/nemoretriever-page-elements-v2",
-      "name": "nemoretriever-page-elements-v2",
-      "link": "https://build.nvidia.com/nvidia/nemoretriever-page-elements-v2",
-      "provider": "nvidia",
-      "description": "Model for object detection, fine-tuned to detect charts, tables, and titles in documents.",
-      "tags": [
-        "Object Detection",
-        "Chart Detection"
-      ]
-    },
-    {
-      "id": "colabfold/msa-search",
-      "name": "msa-search",
-      "link": "https://build.nvidia.com/colabfold/msa-search",
-      "provider": "colabfold",
-      "description": "Generates a multiple sequence alignment from a query sequence and a protein sequence database search.",
-      "tags": [
-        "nim",
-        "Bionemo",
-        "Biology"
       ]
     },
     {
@@ -1012,6 +1289,30 @@
       ]
     },
     {
+      "id": "arc/evo2-40b",
+      "name": "evo2-40b",
+      "link": "https://build.nvidia.com/arc/evo2-40b",
+      "provider": "arc",
+      "description": "Evo 2 is a biological foundation model that is able to integrate information over long genomic sequences while retaining sensitivity to single-nucleotide changes.",
+      "tags": [
+        "DNA Generation",
+        "biology",
+        "nim"
+      ]
+    },
+    {
+      "id": "ipd/rfdiffusion",
+      "name": "rfdiffusion",
+      "link": "https://build.nvidia.com/ipd/rfdiffusion",
+      "provider": "ipd",
+      "description": "A generative model of protein backbones for protein binder design.",
+      "tags": [
+        "biology",
+        "nim",
+        "BioNemo"
+      ]
+    },
+    {
       "id": "google/gemma-3-27b-it",
       "name": "gemma-3-27b-it",
       "link": "https://build.nvidia.com/google/gemma-3-27b-it",
@@ -1023,36 +1324,97 @@
       ]
     },
     {
-      "id": "google/gemma-3-1b-it",
-      "name": "gemma-3-1b-it",
-      "link": "https://build.nvidia.com/google/gemma-3-1b-it",
-      "provider": "google",
-      "description": "A lightweight, multilingual, advanced SLM text model for edge computing, resource constraint applications",
+      "id": "microsoft/phi-4-multimodal-instruct",
+      "name": "phi-4-multimodal-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-4-multimodal-instruct",
+      "provider": "microsoft",
+      "description": "Cutting-edge open multimodal model exceling in high-quality reasoning from image and audio inputs.",
       "tags": [
-        "Translation",
+        "Speech Recognition",
+        "Visual QA",
+        "chat"
+      ]
+    },
+    {
+      "id": "microsoft/phi-3-mini",
+      "name": "phi-3-mini-128k-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-3-mini",
+      "provider": "microsoft",
+      "description": "Lightweight, state-of-the-art open LLM with strong math and logical reasoning skills.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "microsoft/phi-4-mini-instruct",
+      "name": "phi-4-mini-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-4-mini-instruct",
+      "provider": "microsoft",
+      "description": "Lightweight multilingual LLM powering AI applications in latency bound, memory/compute constrained environments",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "tiiuae/falcon3-7b-instruct",
+      "name": "falcon3-7b-instruct",
+      "link": "https://build.nvidia.com/tiiuae/falcon3-7b-instruct",
+      "provider": "tiiuae",
+      "description": "Instruction tuned LLM achieving SoTA performance on reasoning, math and general knowledge capabilities",
+      "tags": [
+        "Coding",
+        "chat",
+        "Code Generation"
+      ]
+    },
+    {
+      "id": "nvidia/chatqa-1-5-8b",
+      "name": "llama3-chatqa-1.5-8b",
+      "link": "https://build.nvidia.com/nvidia/chatqa-1-5-8b",
+      "provider": "nvidia",
+      "description": "Advanced LLM to generate high-quality, context-aware responses for chatbots and search engines.",
+      "tags": [
+        "text-to-text",
+        "chat",
+        "Non-Commercial Use Only"
+      ]
+    },
+    {
+      "id": "google/gemma-2-9b-it",
+      "name": "gemma-2-9b-it",
+      "link": "https://build.nvidia.com/google/gemma-2-9b-it",
+      "provider": "google",
+      "description": "Cutting-edge text generation model text understanding, transformation, and code generation.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "mediatek/breeze-7b-instruct",
+      "name": "breeze-7b-instruct",
+      "link": "https://build.nvidia.com/mediatek/breeze-7b-instruct",
+      "provider": "mediatek",
+      "description": "LLM for improved language comprehension and chatbot-oriented capabilities in Traditional Chinese.",
+      "tags": [
         "chat",
         "Text-to-Text"
       ]
     },
     {
-      "id": "nvidia/nemoretriever-parse",
-      "name": "nemoretriever-parse",
-      "link": "https://build.nvidia.com/nvidia/nemoretriever-parse",
-      "provider": "nvidia",
-      "description": "Cutting-edge vision-language model exceling in retrieving text and metadata from images.",
+      "id": "igenius/colosseum_355b_instruct_16k",
+      "name": "colosseum_355b_instruct_16k",
+      "link": "https://build.nvidia.com/igenius/colosseum_355b_instruct_16k",
+      "provider": "igenius",
+      "description": "NVIDIA DGX Cloud trained multilingual LLM designed for mission critical use cases in regulated industries including financial services, government, heavy industry",
       "tags": [
-        "optical character recognition"
-      ]
-    },
-    {
-      "id": "deepseek-ai/deepseek-r1-distill-qwen-32b",
-      "name": "deepseek-r1-distill-qwen-32b",
-      "link": "https://build.nvidia.com/deepseek-ai/deepseek-r1-distill-qwen-32b",
-      "provider": "deepseek-ai",
-      "description": "Distilled version of Qwen 2.5 32B using reasoning data generated by DeepSeek R1 for enhanced performance.",
-      "tags": [
-        "coding",
-        "distillation",
+        "Heavy industry",
+        "Government",
         "chat"
       ]
     },
@@ -1069,6 +1431,66 @@
       ]
     },
     {
+      "id": "google/gemma-2-27b-it",
+      "name": "gemma-2-27b-it",
+      "link": "https://build.nvidia.com/google/gemma-2-27b-it",
+      "provider": "google",
+      "description": "Cutting-edge text generation model text understanding, transformation, and code generation.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "igenius/italia_10b_instruct_16k",
+      "name": "italia_10b_instruct_16k",
+      "link": "https://build.nvidia.com/igenius/italia_10b_instruct_16k",
+      "provider": "igenius",
+      "description": "Multilingual LLM with emphasis on European languages supporting regulated use cases including financial services, government, heavy industry",
+      "tags": [
+        "Heavy industry",
+        "Government",
+        "chat"
+      ]
+    },
+    {
+      "id": "google/gemma-3-1b-it",
+      "name": "gemma-3-1b-it",
+      "link": "https://build.nvidia.com/google/gemma-3-1b-it",
+      "provider": "google",
+      "description": "A lightweight, multilingual, advanced SLM text model for edge computing, resource constraint applications",
+      "tags": [
+        "Translation",
+        "chat",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "deepseek-ai/deepseek-r1-distill-qwen-32b",
+      "name": "deepseek-r1-distill-qwen-32b",
+      "link": "https://build.nvidia.com/deepseek-ai/deepseek-r1-distill-qwen-32b",
+      "provider": "deepseek-ai",
+      "description": "Distilled version of Qwen 2.5 32B using reasoning data generated by DeepSeek R1 for enhanced performance.",
+      "tags": [
+        "coding",
+        "distillation",
+        "chat"
+      ]
+    },
+    {
+      "id": "google/gemma-2-2b-it",
+      "name": "gemma-2-2b-it",
+      "link": "https://build.nvidia.com/google/gemma-2-2b-it",
+      "provider": "google",
+      "description": "Advanced small language generative AI model for edge applications",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
       "id": "deepseek-ai/deepseek-r1-distill-qwen-7b",
       "name": "deepseek-r1-distill-qwen-7b",
       "link": "https://build.nvidia.com/deepseek-ai/deepseek-r1-distill-qwen-7b",
@@ -1082,11 +1504,21 @@
       ]
     },
     {
-      "id": "microsoft/phi-4-mini-instruct",
-      "name": "phi-4-mini-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-4-mini-instruct",
-      "provider": "microsoft",
-      "description": "Lightweight multilingual LLM powering AI applications in latency bound, memory/compute constrained environments",
+      "id": "baichuan-inc/baichuan2-13b-chat",
+      "name": "baichuan2-13b-chat",
+      "link": "https://build.nvidia.com/baichuan-inc/baichuan2-13b-chat",
+      "provider": "baichuan-inc",
+      "description": "Support Chinese and English chat, coding, math, instruction following, solving quizzes",
+      "tags": [
+        "Chinese Language Generation"
+      ]
+    },
+    {
+      "id": "abacusai/dracarys-llama-3_1-70b-instruct",
+      "name": "dracarys-llama-3.1-70b-instruct",
+      "link": "https://build.nvidia.com/abacusai/dracarys-llama-3_1-70b-instruct",
+      "provider": "abacusai",
+      "description": "Fine-tuned Llama 3.1 70B model for code generation, summarization, and multi-language tasks.",
       "tags": [
         "chat",
         "Code Generation",
@@ -1094,27 +1526,341 @@
       ]
     },
     {
-      "id": "microsoft/phi-4-multimodal-instruct",
-      "name": "phi-4-multimodal-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-4-multimodal-instruct",
-      "provider": "microsoft",
-      "description": "Cutting-edge open multimodal model exceling in high-quality reasoning from image and audio inputs.",
+      "id": "rakuten/rakutenai-7b-instruct",
+      "name": "rakutenai-7b-instruct",
+      "link": "https://build.nvidia.com/rakuten/rakutenai-7b-instruct",
+      "provider": "rakuten",
+      "description": "Advanced state-of-the-art LLM with language understanding, superior reasoning, and text generation.",
       "tags": [
-        "Speech Recognition",
-        "Visual QA",
+        "chat",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "microsoft/phi-3-small-128k-instruct",
+      "name": "phi-3-small-128k-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-3-small-128k-instruct",
+      "provider": "microsoft",
+      "description": "Long context cutting-edge lightweight open language model exceling in high-quality reasoning.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "rakuten/rakutenai-7b-chat",
+      "name": "rakutenai-7b-chat",
+      "link": "https://build.nvidia.com/rakuten/rakutenai-7b-chat",
+      "provider": "rakuten",
+      "description": "Advanced state-of-the-art LLM with language understanding, superior reasoning, and text generation.",
+      "tags": [
+        "chat",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "microsoft/phi-3-mini-4k",
+      "name": "phi-3-mini-4k-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-3-mini-4k",
+      "provider": "microsoft",
+      "description": "Lightweight, state-of-the-art open LLM with strong math and logical reasoning skills.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "qwen/qwen2-7b-instruct",
+      "name": "qwen2-7b-instruct",
+      "link": "https://build.nvidia.com/qwen/qwen2-7b-instruct",
+      "provider": "qwen",
+      "description": "Chinese and English LLM targeting for language, coding, mathematics, reasoning, etc.",
+      "tags": [
+        "Chinese Language Generation",
         "chat"
       ]
     },
     {
-      "id": "arc/evo2-40b",
-      "name": "evo2-40b",
-      "link": "https://build.nvidia.com/arc/evo2-40b",
-      "provider": "arc",
-      "description": "Evo 2 is a biological foundation model that is able to integrate information over long genomic sequences while retaining sensitivity to single-nucleotide changes.",
+      "id": "microsoft/phi-3-small-8k-instruct",
+      "name": "phi-3-small-8k-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-3-small-8k-instruct",
+      "provider": "microsoft",
+      "description": "Cutting-edge lightweight open language model exceling in high-quality reasoning.",
       "tags": [
-        "DNA Generation",
-        "biology",
-        "nim"
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "qwen/qwen2_5-7b-instruct",
+      "name": "qwen2.5-7b-instruct",
+      "link": "https://build.nvidia.com/qwen/qwen2_5-7b-instruct",
+      "provider": "qwen",
+      "description": "Chinese and English LLM targeting for language, coding, mathematics, reasoning, etc.",
+      "tags": [
+        "Chinese Language Generation",
+        "chat"
+      ]
+    },
+    {
+      "id": "microsoft/phi-3-medium-4k-instruct",
+      "name": "phi-3-medium-4k-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-3-medium-4k-instruct",
+      "provider": "microsoft",
+      "description": "Cutting-edge lightweight open language model exceling in high-quality reasoning.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "qwen/qwen2_5-coder-7b-instruct",
+      "name": "qwen2.5-coder-7b-instruct",
+      "link": "https://build.nvidia.com/qwen/qwen2_5-coder-7b-instruct",
+      "provider": "qwen",
+      "description": "Powerful mid-size code model with a 32K context length, excelling in coding in multiple languages.",
+      "tags": [
+        "code completion",
+        "code generation"
+      ]
+    },
+    {
+      "id": "microsoft/phi-3-medium-128k-instruct",
+      "name": "phi-3-medium-128k-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-3-medium-128k-instruct",
+      "provider": "microsoft",
+      "description": "Cutting-edge lightweight open language model exceling in high-quality reasoning.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "marin/marin-8b-instruct",
+      "name": "marin-8b-instruct",
+      "link": "https://build.nvidia.com/marin/marin-8b-instruct",
+      "provider": "marin",
+      "description": "State-of-the-art open model trained on open datasets, excelling in reasoning, math, and science.",
+      "tags": [
+        "Reasoning",
+        "chat",
+        "Science"
+      ]
+    },
+    {
+      "id": "meta/llama-3.2-3b-instruct",
+      "name": "llama-3.2-3b-instruct",
+      "link": "https://build.nvidia.com/meta/llama-3.2-3b-instruct",
+      "provider": "meta",
+      "description": "Advanced state-of-the-art small language model with language understanding, superior reasoning, and text generation.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "nvidia/nemotron-4-mini-hindi-4b-instruct",
+      "name": "nemotron-4-mini-hindi-4b-instruct",
+      "link": "https://build.nvidia.com/nvidia/nemotron-4-mini-hindi-4b-instruct",
+      "provider": "nvidia",
+      "description": "A bilingual Hindi-English SLM for on-device inference, tailored specifically for Hindi Language.",
+      "tags": [
+        "Indic",
+        "chat",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "mistralai/mistral-7b-instruct-v2",
+      "name": "mistral-7b-instruct-v0.2",
+      "link": "https://build.nvidia.com/mistralai/mistral-7b-instruct-v2",
+      "provider": "mistralai",
+      "description": "This LLM follows instructions, completes requests, and generates creative text.",
+      "tags": [
+        "chat",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "meta/llama3-8b",
+      "name": "llama3-8b-instruct",
+      "link": "https://build.nvidia.com/meta/llama3-8b",
+      "provider": "meta",
+      "description": "Advanced state-of-the-art LLM with language understanding, superior reasoning, and text generation.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "mistralai/mamba-codestral-7b-v01",
+      "name": "mamba-codestral-7b-v0.1",
+      "link": "https://build.nvidia.com/mistralai/mamba-codestral-7b-v01",
+      "provider": "mistralai",
+      "description": "Model for writing and interacting with code across a wide range of programming languages and tasks.",
+      "tags": [
+        "code completion",
+        "code generation",
+        "chat"
+      ]
+    },
+    {
+      "id": "meta/llama3-70b",
+      "name": "llama3-70b-instruct",
+      "link": "https://build.nvidia.com/meta/llama3-70b",
+      "provider": "meta",
+      "description": "Powers complex conversations with superior contextual understanding, reasoning and text generation.",
+      "tags": [
+        "chat",
+        "Large Language models"
+      ]
+    },
+    {
+      "id": "yentinglin/llama-3-taiwan-70b-instruct",
+      "name": "llama-3-taiwan-70b-instruct",
+      "link": "https://build.nvidia.com/yentinglin/llama-3-taiwan-70b-instruct",
+      "provider": "yentinglin",
+      "description": "Sovereign AI model finetuned on Traditional Mandarin and English data using the Llama-3 architecture.",
+      "tags": [
+        "regional language generation",
+        "chat"
+      ]
+    },
+    {
+      "id": "ai21labs/jamba-1_5-mini-instruct",
+      "name": "jamba-1.5-mini-instruct",
+      "link": "https://build.nvidia.com/ai21labs/jamba-1_5-mini-instruct",
+      "provider": "ai21labs",
+      "description": "Cutting-edge MOE based LLM designed to excel in a wide array of generative AI tasks.",
+      "tags": [
+        "chat",
+        "Language Generation",
+        "Text-to-text"
+      ]
+    },
+    {
+      "id": "nvidia/nvidia-cuopt",
+      "name": "cuopt",
+      "link": "https://build.nvidia.com/nvidia/nvidia-cuopt",
+      "provider": "nvidia",
+      "description": "World-record accuracy and performance for complex route optimization.",
+      "tags": [
+        "Route Optimization"
+      ]
+    },
+    {
+      "id": "institute-of-science-tokyo/llama-3-1-swallow-70b-instruct-v01",
+      "name": "llama-3.1-swallow-70b-instruct-v0.1",
+      "link": "https://build.nvidia.com/institute-of-science-tokyo/llama-3-1-swallow-70b-instruct-v01",
+      "provider": "institute-of-science-tokyo",
+      "description": "Sovereign AI model trained on Japanese language that understands regional nuances.",
+      "tags": [
+        "Sovereign AI",
+        "Large Language Model"
+      ]
+    },
+    {
+      "id": "tokyotech-llm/llama-3-swallow-70b-instruct-v01",
+      "name": "llama-3-swallow-70b-instruct-v0.1",
+      "link": "https://build.nvidia.com/tokyotech-llm/llama-3-swallow-70b-instruct-v01",
+      "provider": "tokyotech-llm",
+      "description": "Sovereign AI model trained on Japanese language that understands regional nuances.",
+      "tags": [
+        "Large Language Model",
+        "chat"
+      ]
+    },
+    {
+      "id": "institute-of-science-tokyo/llama-3-1-swallow-8b-instruct-v01",
+      "name": "llama-3.1-swallow-8b-instruct-v0.1",
+      "link": "https://build.nvidia.com/institute-of-science-tokyo/llama-3-1-swallow-8b-instruct-v01",
+      "provider": "institute-of-science-tokyo",
+      "description": "Sovereign AI model trained on Japanese language that understands regional nuances.",
+      "tags": [
+        "Sovereign AI",
+        "Large Language Model"
+      ]
+    },
+    {
+      "id": "meta/llama-3.2-1b-instruct",
+      "name": "llama-3.2-1b-instruct",
+      "link": "https://build.nvidia.com/meta/llama-3.2-1b-instruct",
+      "provider": "meta",
+      "description": "Advanced state-of-the-art small language model with language understanding, superior reasoning, and text generation.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "mistralai/mistral-small-3_1-24b-instruct-2503",
+      "name": "mistral-small-3.1-24b-instruct-2503",
+      "link": "https://build.nvidia.com/mistralai/mistral-small-3_1-24b-instruct-2503",
+      "provider": "mistralai",
+      "description": "Efficient multimodal model excelling at multilingual tasks, image understanding, and fast-responses",
+      "tags": [
+        "language generation",
+        "chat"
+      ]
+    },
+    {
+      "id": "google/gemma-7b",
+      "name": "gemma-7b",
+      "link": "https://build.nvidia.com/google/gemma-7b",
+      "provider": "google",
+      "description": "Cutting-edge text generation model text understanding, transformation, and code generation.",
+      "tags": [
+        "chat",
+        "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "nvidia/parakeet-1_1b-rnnt-multilingual-asr",
+      "name": "parakeet-1.1b-rnnt-multilingual-asr",
+      "link": "https://build.nvidia.com/nvidia/parakeet-1_1b-rnnt-multilingual-asr",
+      "provider": "nvidia",
+      "description": "High accuracy and optimized performance for transcription in 25 languages",
+      "tags": [
+        "Automatic Speech Recognition"
+      ]
+    },
+    {
+      "id": "nvidia/vista-3d",
+      "name": "vista-3d",
+      "link": "https://build.nvidia.com/nvidia/vista-3d",
+      "provider": "nvidia",
+      "description": "VISTA-3D is a specialized interactive foundation model for segmenting and anotating human anatomies.",
+      "tags": [
+        "Interactive Annotation"
+      ]
+    },
+    {
+      "id": "baai/bge-m3",
+      "name": "bge-m3",
+      "link": "https://build.nvidia.com/baai/bge-m3",
+      "provider": "baai",
+      "description": "Embedding model for text retrieval tasks, excelling in dense, multi-vector, and sparse retrieval.",
+      "tags": [
+        "Embeddings"
+      ]
+    },
+    {
+      "id": "nvidia/megatron-1b-nmt",
+      "name": "megatron-1b-nmt",
+      "link": "https://build.nvidia.com/nvidia/megatron-1b-nmt",
+      "provider": "nvidia",
+      "description": "Enable smooth global interactions in 36 languages.",
+      "tags": [
+        "Text Translation"
       ]
     },
     {
@@ -1141,50 +1887,36 @@
       ]
     },
     {
-      "id": "mistralai/mistral-small-24b-instruct",
-      "name": "mistral-small-24b-instruct",
-      "link": "https://build.nvidia.com/mistralai/mistral-small-24b-instruct",
-      "provider": "mistralai",
-      "description": "Latency-optimized language model excelling in code, math, general knowledge, and instruction-following.",
+      "id": "upstage/solar-10_7b-instruct",
+      "name": "solar-10.7b-instruct",
+      "link": "https://build.nvidia.com/upstage/solar-10_7b-instruct",
+      "provider": "upstage",
+      "description": "Excels in NLP tasks, particularly in instruction-following, reasoning, and mathematics.",
       "tags": [
-        "code",
-        "chat",
-        "reasoning"
+        "Non-Commercial Use Only",
+        "chat"
       ]
     },
     {
-      "id": "deepseek-ai/deepseek-r1",
-      "name": "deepseek-r1",
-      "link": "https://build.nvidia.com/deepseek-ai/deepseek-r1",
-      "provider": "deepseek-ai",
-      "description": "State-of-the-art, high-efficiency LLM excelling in reasoning, math, and coding.",
-      "tags": [
-        "chat",
-        "Math",
-        "advanced reasoning"
-      ]
-    },
-    {
-      "id": "nvidia/llama-3_1-nemoguard-8b-topic-control",
-      "name": "llama-3.1-nemoguard-8b-topic-control",
-      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemoguard-8b-topic-control",
+      "id": "nvidia/nv-grounding-dino",
+      "name": "nv-grounding-dino",
+      "link": "https://build.nvidia.com/nvidia/nv-grounding-dino",
       "provider": "nvidia",
-      "description": "Topic control model to keep conversations focused on approved topics, avoiding inappropriate content.",
+      "description": "Grounding dino is an open vocabulary zero-shot object detection model.",
       "tags": [
-        "nemo guardrails",
-        "LLM safety"
+        "Object Detection",
+        "computer vision"
       ]
     },
     {
-      "id": "nvidia/nemoguard-jailbreak-detect",
-      "name": "nemoguard-jailbreak-detect",
-      "link": "https://build.nvidia.com/nvidia/nemoguard-jailbreak-detect",
+      "id": "nvidia/nv-dinov2",
+      "name": "nv-dinov2",
+      "link": "https://build.nvidia.com/nvidia/nv-dinov2",
       "provider": "nvidia",
-      "description": "Industry leading jailbreak classification model for protection from adversarial attempts",
+      "description": "NV-DINOv2 is a visual foundation model that generates vector embeddings for the input image.",
       "tags": [
-        "nemo guardrails",
-        "llm security",
-        "NIM"
+        "Image-to-Embedding",
+        "computer vision"
       ]
     },
     {
@@ -1199,182 +1931,14 @@
       ]
     },
     {
-      "id": "igenius/colosseum_355b_instruct_16k",
-      "name": "colosseum_355b_instruct_16k",
-      "link": "https://build.nvidia.com/igenius/colosseum_355b_instruct_16k",
-      "provider": "igenius",
-      "description": "NVIDIA DGX Cloud trained multilingual LLM designed for mission critical use cases in regulated industries including financial services, government, heavy industry",
-      "tags": [
-        "Heavy industry",
-        "Government",
-        "chat"
-      ]
-    },
-    {
-      "id": "tiiuae/falcon3-7b-instruct",
-      "name": "falcon3-7b-instruct",
-      "link": "https://build.nvidia.com/tiiuae/falcon3-7b-instruct",
-      "provider": "tiiuae",
-      "description": "Instruction tuned LLM achieving SoTA performance on reasoning, math and general knowledge capabilities",
-      "tags": [
-        "Coding",
-        "chat",
-        "Code Generation"
-      ]
-    },
-    {
-      "id": "igenius/italia_10b_instruct_16k",
-      "name": "italia_10b_instruct_16k",
-      "link": "https://build.nvidia.com/igenius/italia_10b_instruct_16k",
-      "provider": "igenius",
-      "description": "Multilingual LLM with emphasis on European languages supporting regulated use cases including financial services, government, heavy industry",
-      "tags": [
-        "Heavy industry",
-        "Government",
-        "chat"
-      ]
-    },
-    {
-      "id": "qwen/qwen2_5-7b-instruct",
-      "name": "qwen2.5-7b-instruct",
-      "link": "https://build.nvidia.com/qwen/qwen2_5-7b-instruct",
-      "provider": "qwen",
-      "description": "Chinese and English LLM targeting for language, coding, mathematics, reasoning, etc.",
-      "tags": [
-        "Chinese Language Generation",
-        "chat"
-      ]
-    },
-    {
-      "id": "nvidia/genmol-generate",
-      "name": "genmol",
-      "link": "https://build.nvidia.com/nvidia/genmol-generate",
+      "id": "nvidia/llama-3_1-nemoguard-8b-topic-control",
+      "name": "llama-3.1-nemoguard-8b-topic-control",
+      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemoguard-8b-topic-control",
       "provider": "nvidia",
-      "description": "Fragment-Based Molecular Generation by Discrete Diffusion.",
+      "description": "Topic control model to keep conversations focused on approved topics, avoiding inappropriate content.",
       "tags": [
-        "Chemistry",
-        "nim",
-        "BioNemo"
-      ]
-    },
-    {
-      "id": "nvidia/cosmos-nemotron-34b",
-      "name": "cosmos-nemotron-34b",
-      "link": "https://build.nvidia.com/nvidia/cosmos-nemotron-34b",
-      "provider": "nvidia",
-      "description": "Multi-modal vision-language model that understands text/img/video and creates informative responses",
-      "tags": [
-        "VLM",
-        "Vision language model"
-      ]
-    },
-    {
-      "id": "qwen/qwen2_5-coder-32b-instruct",
-      "name": "qwen2.5-coder-32b-instruct",
-      "link": "https://build.nvidia.com/qwen/qwen2_5-coder-32b-instruct",
-      "provider": "qwen",
-      "description": "Advanced LLM for code generation, reasoning, and fixing across popular programming languages.",
-      "tags": [
-        "code completion",
-        "code generation"
-      ]
-    },
-    {
-      "id": "qwen/qwen2_5-coder-7b-instruct",
-      "name": "qwen2.5-coder-7b-instruct",
-      "link": "https://build.nvidia.com/qwen/qwen2_5-coder-7b-instruct",
-      "provider": "qwen",
-      "description": "Powerful mid-size code model with a 32K context length, excelling in coding in multiple languages.",
-      "tags": [
-        "code completion",
-        "code generation"
-      ]
-    },
-    {
-      "id": "nvidia/llama-3_2-nv-embedqa-1b-v2",
-      "name": "llama-3.2-nv-embedqa-1b-v2",
-      "link": "https://build.nvidia.com/nvidia/llama-3_2-nv-embedqa-1b-v2",
-      "provider": "nvidia",
-      "description": "Multilingual and cross-lingual text question-answering retrieval with long context support and optimized data storage efficiency.",
-      "tags": [
-        "nemo retriever",
-        "embedding"
-      ]
-    },
-    {
-      "id": "nvidia/llama-3_2-nv-rerankqa-1b-v2",
-      "name": "llama-3.2-nv-rerankqa-1b-v2",
-      "link": "https://build.nvidia.com/nvidia/llama-3_2-nv-rerankqa-1b-v2",
-      "provider": "nvidia",
-      "description": "Fine-tuned reranking model for multilingual, cross-lingual text question-answering retrieval, with long context support.",
-      "tags": [
-        "nemo retriever"
-      ]
-    },
-    {
-      "id": "nvidia/usdcode",
-      "name": "usdcode",
-      "link": "https://build.nvidia.com/nvidia/usdcode",
-      "provider": "nvidia",
-      "description": "State-of-the-art LLM that answers OpenUSD knowledge queries and generates USD-Python code.",
-      "tags": [
-        "OpenUSD",
-        "Synthetic Data Generation"
-      ]
-    },
-    {
-      "id": "meta/llama-3_3-70b-instruct",
-      "name": "llama-3.3-70b-instruct",
-      "link": "https://build.nvidia.com/meta/llama-3_3-70b-instruct",
-      "provider": "meta",
-      "description": "Advanced LLM for reasoning, math, general knowledge, and function calling",
-      "tags": [
-        "Reasoning",
-        "chat",
-        "Code Generation"
-      ]
-    },
-    {
-      "id": "university-at-buffalo/cached",
-      "name": "cached",
-      "link": "https://build.nvidia.com/university-at-buffalo/cached",
-      "provider": "university-at-buffalo",
-      "description": "Context-aware chart extraction that can detect 18 classes for chart basic elements, excluding plot elements.",
-      "tags": [
-        "nemo retriever",
-        "Chart Element Detection"
-      ]
-    },
-    {
-      "id": "nvidia/nv-yolox-page-elements-v1",
-      "name": "nv-yolox-page-elements-v1",
-      "link": "https://build.nvidia.com/nvidia/nv-yolox-page-elements-v1",
-      "provider": "nvidia",
-      "description": "Model for object detection, fine-tuned to detect charts, tables, and titles in documents.",
-      "tags": [
-        "Object Detection",
-        "Data ingestion"
-      ]
-    },
-    {
-      "id": "baidu/paddleocr",
-      "name": "paddleocr",
-      "link": "https://build.nvidia.com/baidu/paddleocr",
-      "provider": "baidu",
-      "description": "Model for table extraction that receives an image as input, runs OCR on the image, and returns the text within the image and its bounding boxes.",
-      "tags": [
-        "Optical Character Recognition"
-      ]
-    },
-    {
-      "id": "nvidia/audio2face-3d",
-      "name": "audio2face-3d",
-      "link": "https://build.nvidia.com/nvidia/audio2face-3d",
-      "provider": "nvidia",
-      "description": "Converts streamed audio to facial blendshapes for realtime lipsyncing and facial performances.",
-      "tags": [
-        "Speech-to-Animation",
-        "Digital Humans"
+        "nemo guardrails",
+        "LLM safety"
       ]
     },
     {
@@ -1411,156 +1975,6 @@
       ]
     },
     {
-      "id": "nvidia/nemotron-4-mini-hindi-4b-instruct",
-      "name": "nemotron-4-mini-hindi-4b-instruct",
-      "link": "https://build.nvidia.com/nvidia/nemotron-4-mini-hindi-4b-instruct",
-      "provider": "nvidia",
-      "description": "A bilingual Hindi-English SLM for on-device inference, tailored specifically for Hindi Language.",
-      "tags": [
-        "Indic",
-        "chat",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "ibm/granite-guardian-3_0-8b",
-      "name": "granite-guardian-3.0-8b",
-      "link": "https://build.nvidia.com/ibm/granite-guardian-3_0-8b",
-      "provider": "ibm",
-      "description": "Detects jailbreaking, bias, violence, profanity, sexual content, and unethical behavior",
-      "tags": [
-        "Guardrail",
-        "Text-to-text"
-      ]
-    },
-    {
-      "id": "institute-of-science-tokyo/llama-3-1-swallow-70b-instruct-v01",
-      "name": "llama-3.1-swallow-70b-instruct-v0.1",
-      "link": "https://build.nvidia.com/institute-of-science-tokyo/llama-3-1-swallow-70b-instruct-v01",
-      "provider": "institute-of-science-tokyo",
-      "description": "Sovereign AI model trained on Japanese language that understands regional nuances.",
-      "tags": [
-        "Sovereign AI",
-        "Large Language Model"
-      ]
-    },
-    {
-      "id": "institute-of-science-tokyo/llama-3-1-swallow-8b-instruct-v01",
-      "name": "llama-3.1-swallow-8b-instruct-v0.1",
-      "link": "https://build.nvidia.com/institute-of-science-tokyo/llama-3-1-swallow-8b-instruct-v01",
-      "provider": "institute-of-science-tokyo",
-      "description": "Sovereign AI model trained on Japanese language that understands regional nuances.",
-      "tags": [
-        "Sovereign AI",
-        "Large Language Model"
-      ]
-    },
-    {
-      "id": "nvidia/studiovoice",
-      "name": "studiovoice",
-      "link": "https://build.nvidia.com/nvidia/studiovoice",
-      "provider": "nvidia",
-      "description": "Enhance speech by correcting common audio degradations to create studio quality speech output.",
-      "tags": [
-        "Nvidia Maxine",
-        "Speech-to-speech"
-      ]
-    },
-    {
-      "id": "nvidia/llama-3_1-nemotron-70b-reward",
-      "name": "llama-3.1-nemotron-70b-reward",
-      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-reward",
-      "provider": "nvidia",
-      "description": "Leaderboard topping reward model supporting RLHF for better alignment with human preferences.",
-      "tags": [
-        "Text-to-text",
-        "Reward Model",
-        "RLHF"
-      ]
-    },
-    {
-      "id": "meta/llama-3.2-3b-instruct",
-      "name": "llama-3.2-3b-instruct",
-      "link": "https://build.nvidia.com/meta/llama-3.2-3b-instruct",
-      "provider": "meta",
-      "description": "Advanced state-of-the-art small language model with language understanding, superior reasoning, and text generation.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "meta/llama-3.2-11b-vision-instruct",
-      "name": "llama-3.2-11b-vision-instruct",
-      "link": "https://build.nvidia.com/meta/llama-3.2-11b-vision-instruct",
-      "provider": "meta",
-      "description": "Cutting-edge vision-language model exceling in high-quality reasoning from images.",
-      "tags": [
-        "Image-Text Retrieval",
-        "Visual QA",
-        "chat"
-      ]
-    },
-    {
-      "id": "meta/llama-3.2-90b-vision-instruct",
-      "name": "llama-3.2-90b-vision-instruct",
-      "link": "https://build.nvidia.com/meta/llama-3.2-90b-vision-instruct",
-      "provider": "meta",
-      "description": "Cutting-edge vision-Language model exceling in high-quality reasoning from images.",
-      "tags": [
-        "Image-Text Retrieval",
-        "Visual QA"
-      ]
-    },
-    {
-      "id": "meta/llama-3.2-1b-instruct",
-      "name": "llama-3.2-1b-instruct",
-      "link": "https://build.nvidia.com/meta/llama-3.2-1b-instruct",
-      "provider": "meta",
-      "description": "Advanced state-of-the-art small language model with language understanding, superior reasoning, and text generation.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "qwen/qwen2-7b-instruct",
-      "name": "qwen2-7b-instruct",
-      "link": "https://build.nvidia.com/qwen/qwen2-7b-instruct",
-      "provider": "qwen",
-      "description": "Chinese and English LLM targeting for language, coding, mathematics, reasoning, etc.",
-      "tags": [
-        "Chinese Language Generation",
-        "chat"
-      ]
-    },
-    {
-      "id": "abacusai/dracarys-llama-3_1-70b-instruct",
-      "name": "dracarys-llama-3.1-70b-instruct",
-      "link": "https://build.nvidia.com/abacusai/dracarys-llama-3_1-70b-instruct",
-      "provider": "abacusai",
-      "description": "Fine-tuned Llama 3.1 70B model for code generation, summarization, and multi-language tasks.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "deepmind/alphafold2-multimer",
-      "name": "alphafold2-multimer",
-      "link": "https://build.nvidia.com/deepmind/alphafold2-multimer",
-      "provider": "deepmind",
-      "description": "Predicts the 3D structure of a protein from its amino acid sequence.",
-      "tags": [
-        "nim",
-        "Bionemo",
-        "Biology"
-      ]
-    },
-    {
       "id": "hive/ai-generated-image-detection",
       "name": "ai-generated-image-detection",
       "link": "https://build.nvidia.com/hive/ai-generated-image-detection",
@@ -1569,18 +1983,6 @@
       "tags": [
         "image classification",
         "computer vision"
-      ]
-    },
-    {
-      "id": "meta/esm2-650m",
-      "name": "esm2-650m",
-      "link": "https://build.nvidia.com/meta/esm2-650m",
-      "provider": "meta",
-      "description": "Generates embeddings of proteins from their amino acid sequences.",
-      "tags": [
-        "nim",
-        "Protein Embedding",
-        "BioNemo"
       ]
     },
     {
@@ -1596,207 +1998,15 @@
       ]
     },
     {
-      "id": "yentinglin/llama-3-taiwan-70b-instruct",
-      "name": "llama-3-taiwan-70b-instruct",
-      "link": "https://build.nvidia.com/yentinglin/llama-3-taiwan-70b-instruct",
-      "provider": "yentinglin",
-      "description": "Sovereign AI model finetuned on Traditional Mandarin and English data using the Llama-3 architecture.",
+      "id": "deepmind/alphafold2-multimer",
+      "name": "alphafold2-multimer",
+      "link": "https://build.nvidia.com/deepmind/alphafold2-multimer",
+      "provider": "deepmind",
+      "description": "Predicts the 3D structure of a protein from its amino acid sequence.",
       "tags": [
-        "regional language generation",
-        "chat"
-      ]
-    },
-    {
-      "id": "tokyotech-llm/llama-3-swallow-70b-instruct-v01",
-      "name": "llama-3-swallow-70b-instruct-v0.1",
-      "link": "https://build.nvidia.com/tokyotech-llm/llama-3-swallow-70b-instruct-v01",
-      "provider": "tokyotech-llm",
-      "description": "Sovereign AI model trained on Japanese language that understands regional nuances.",
-      "tags": [
-        "Large Language Model",
-        "chat"
-      ]
-    },
-    {
-      "id": "microsoft/phi-3_5-vision-instruct",
-      "name": "phi-3.5-vision-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-3_5-vision-instruct",
-      "provider": "microsoft",
-      "description": "Cutting-edge open multimodal model exceling in high-quality reasoning from images.",
-      "tags": [
-        "Vision Assistant"
-      ]
-    },
-    {
-      "id": "ai21labs/jamba-1_5-mini-instruct",
-      "name": "jamba-1.5-mini-instruct",
-      "link": "https://build.nvidia.com/ai21labs/jamba-1_5-mini-instruct",
-      "provider": "ai21labs",
-      "description": "Cutting-edge MOE based LLM designed to excel in a wide array of generative AI tasks.",
-      "tags": [
-        "chat",
-        "Language Generation",
-        "Text-to-text"
-      ]
-    },
-    {
-      "id": "nvidia/nemotron-mini-4b-instruct",
-      "name": "nemotron-mini-4b-instruct",
-      "link": "https://build.nvidia.com/nvidia/nemotron-mini-4b-instruct",
-      "provider": "nvidia",
-      "description": "Optimized SLM for on-device inference and fine-tuned for roleplay, RAG and function calling",
-      "tags": [
-        "chat",
-        "Text-to-Text",
-        "Language Generation"
-      ]
-    },
-    {
-      "id": "nvidia/mistral-nemo-minitron-8b-base",
-      "name": "mistral-nemo-minitron-8b-base",
-      "link": "https://build.nvidia.com/nvidia/mistral-nemo-minitron-8b-base",
-      "provider": "nvidia",
-      "description": "State-of-the-art small language model delivering superior accuracy for chatbot, virtual assistants, and content generation.",
-      "tags": [
-        "language generation",
-        "text-to-text"
-      ]
-    },
-    {
-      "id": "microsoft/phi-3_5-mini",
-      "name": "phi-3.5-mini-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-3_5-mini",
-      "provider": "microsoft",
-      "description": "Lightweight multilingual LLM powering AI applications in latency bound, memory/compute constrained environments",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "nvidia/nv-dinov2",
-      "name": "nv-dinov2",
-      "link": "https://build.nvidia.com/nvidia/nv-dinov2",
-      "provider": "nvidia",
-      "description": "NV-DINOv2 is a visual foundation model that generates vector embeddings for the input image.",
-      "tags": [
-        "Image-to-Embedding",
-        "computer vision"
-      ]
-    },
-    {
-      "id": "rakuten/rakutenai-7b-instruct",
-      "name": "rakutenai-7b-instruct",
-      "link": "https://build.nvidia.com/rakuten/rakutenai-7b-instruct",
-      "provider": "rakuten",
-      "description": "Advanced state-of-the-art LLM with language understanding, superior reasoning, and text generation.",
-      "tags": [
-        "chat",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "rakuten/rakutenai-7b-chat",
-      "name": "rakutenai-7b-chat",
-      "link": "https://build.nvidia.com/rakuten/rakutenai-7b-chat",
-      "provider": "rakuten",
-      "description": "Advanced state-of-the-art LLM with language understanding, superior reasoning, and text generation.",
-      "tags": [
-        "chat",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "nvidia/nv-grounding-dino",
-      "name": "nv-grounding-dino",
-      "link": "https://build.nvidia.com/nvidia/nv-grounding-dino",
-      "provider": "nvidia",
-      "description": "Grounding dino is an open vocabulary zero-shot object detection model.",
-      "tags": [
-        "Object Detection",
-        "computer vision"
-      ]
-    },
-    {
-      "id": "nvidia/megatron-1b-nmt",
-      "name": "megatron-1b-nmt",
-      "link": "https://build.nvidia.com/nvidia/megatron-1b-nmt",
-      "provider": "nvidia",
-      "description": "Enable smooth global interactions in 36 languages.",
-      "tags": [
-        "Text Translation"
-      ]
-    },
-    {
-      "id": "nvidia/parakeet-ctc-1_1b-asr",
-      "name": "parakeet-ctc-1.1b-asr",
-      "link": "https://build.nvidia.com/nvidia/parakeet-ctc-1_1b-asr",
-      "provider": "nvidia",
-      "description": "Record-setting accuracy and performance for English transcription.",
-      "tags": [
-        "ASR",
-        "Streaming",
-        "English"
-      ]
-    },
-    {
-      "id": "nvidia/parakeet-ctc-0_6b-asr",
-      "name": "parakeet-ctc-0.6b-asr",
-      "link": "https://build.nvidia.com/nvidia/parakeet-ctc-0_6b-asr",
-      "provider": "nvidia",
-      "description": "State-of-the-art accuracy and speed for English transcriptions.",
-      "tags": [
-        "ASR",
-        "Streaming",
-        "English",
-        "Batch"
-      ]
-    },
-    {
-      "id": "ipd/proteinmpnn",
-      "name": "proteinmpnn",
-      "link": "https://build.nvidia.com/ipd/proteinmpnn",
-      "provider": "ipd",
-      "description": "ProteinMPNN is a deep learning model for predicting amino acid sequences for protein backbones.",
-      "tags": [
-        "biology",
         "nim",
-        "BioNemo"
-      ]
-    },
-    {
-      "id": "google/shieldgemma-9b",
-      "name": "shieldgemma-9b",
-      "link": "https://build.nvidia.com/google/shieldgemma-9b",
-      "provider": "google",
-      "description": "Guardrail model to ensure that responses from LLMs are appropriate and safe",
-      "tags": [
-        "Guardrail",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "google/gemma-2-2b-it",
-      "name": "gemma-2-2b-it",
-      "link": "https://build.nvidia.com/google/gemma-2-2b-it",
-      "provider": "google",
-      "description": "Advanced small language generative AI model for edge applications",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "nvidia/usdsearch",
-      "name": "usdsearch",
-      "link": "https://build.nvidia.com/nvidia/usdsearch",
-      "provider": "nvidia",
-      "description": "AI-powered search for OpenUSD data, 3D models, images, and assets using text or image-based inputs.",
-      "tags": [
-        "OpenUSD",
-        "Synthetic Data Generation"
+        "Bionemo",
+        "Biology"
       ]
     },
     {
@@ -1812,47 +2022,58 @@
       ]
     },
     {
-      "id": "nvidia/usdvalidate",
-      "name": "usdvalidate",
-      "link": "https://build.nvidia.com/nvidia/usdvalidate",
+      "id": "nvidia/maisi",
+      "name": "maisi",
+      "link": "https://build.nvidia.com/nvidia/maisi",
       "provider": "nvidia",
-      "description": "Verify compatibility of OpenUSD assets with instant RTX render and rule-based validation.",
+      "description": "MAISI is a pre-trained volumetric (3D) CT Latent Diffusion Generative Model.",
       "tags": [
-        "Validation",
-        "OpenUSD"
+        "Image Generation",
+        "Medical Imaging"
       ]
     },
     {
-      "id": "thudm/chatglm3-6b",
-      "name": "chatglm3-6b",
-      "link": "https://build.nvidia.com/thudm/chatglm3-6b",
-      "provider": "thudm",
-      "description": "Supports Chinese and English languages to handle tasks including chatbot, content generation, coding, and translation.",
+      "id": "nvidia/cosmos-predict1-5b",
+      "name": "cosmos-predict1-5b",
+      "link": "https://build.nvidia.com/nvidia/cosmos-predict1-5b",
+      "provider": "nvidia",
+      "description": "Generates future frames of a physics-aware world state based on simply an image or short video prompt for physical AI development.",
       "tags": [
-        "Text Translation",
-        "chat"
+        "Synthetic Data Generation",
+        "Physical AI"
       ]
     },
     {
-      "id": "mistralai/mamba-codestral-7b-v01",
-      "name": "mamba-codestral-7b-v0.1",
-      "link": "https://build.nvidia.com/mistralai/mamba-codestral-7b-v01",
-      "provider": "mistralai",
-      "description": "Model for writing and interacting with code across a wide range of programming languages and tasks.",
+      "id": "nvidia/nemoretriever-graphic-elements-v1",
+      "name": "nemoretriever-graphic-elements-v1",
+      "link": "https://build.nvidia.com/nvidia/nemoretriever-graphic-elements-v1",
+      "provider": "nvidia",
+      "description": "Model for object detection, fine-tuned to detect charts, tables, and titles in documents.",
       "tags": [
-        "code completion",
-        "code generation",
-        "chat"
+        "Object Detection",
+        "Chart Detection"
       ]
     },
     {
-      "id": "baichuan-inc/baichuan2-13b-chat",
-      "name": "baichuan2-13b-chat",
-      "link": "https://build.nvidia.com/baichuan-inc/baichuan2-13b-chat",
-      "provider": "baichuan-inc",
-      "description": "Support Chinese and English chat, coding, math, instruction following, solving quizzes",
+      "id": "nvidia/nemoretriever-table-structure-v1",
+      "name": "nemoretriever-table-structure-v1",
+      "link": "https://build.nvidia.com/nvidia/nemoretriever-table-structure-v1",
+      "provider": "nvidia",
+      "description": "Model for object detection, fine-tuned to detect charts, tables, and titles in documents.",
       "tags": [
-        "Chinese Language Generation"
+        "Object Detection",
+        "Chart Detection"
+      ]
+    },
+    {
+      "id": "nvidia/nemoretriever-page-elements-v2",
+      "name": "nemoretriever-page-elements-v2",
+      "link": "https://build.nvidia.com/nvidia/nemoretriever-page-elements-v2",
+      "provider": "nvidia",
+      "description": "Model for object detection, fine-tuned to detect charts, tables, and titles in documents.",
+      "tags": [
+        "Object Detection",
+        "Chart Detection"
       ]
     },
     {
@@ -1867,60 +2088,80 @@
       ]
     },
     {
-      "id": "meta/llama-3_1-70b-instruct",
-      "name": "llama-3.1-70b-instruct",
-      "link": "https://build.nvidia.com/meta/llama-3_1-70b-instruct",
+      "id": "meta/esm2-650m",
+      "name": "esm2-650m",
+      "link": "https://build.nvidia.com/meta/esm2-650m",
       "provider": "meta",
-      "description": "Powers complex conversations with superior contextual understanding, reasoning and text generation.",
+      "description": "Generates embeddings of proteins from their amino acid sequences.",
       "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
+        "nim",
+        "Protein Embedding",
+        "BioNemo"
       ]
     },
     {
-      "id": "meta/llama-3_1-8b-instruct",
-      "name": "llama-3.1-8b-instruct",
-      "link": "https://build.nvidia.com/meta/llama-3_1-8b-instruct",
-      "provider": "meta",
-      "description": "Advanced state-of-the-art model with language understanding, superior reasoning, and text generation.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "nvidia/nv-embedqa-e5-v5",
-      "name": "nv-embedqa-e5-v5",
-      "link": "https://build.nvidia.com/nvidia/nv-embedqa-e5-v5",
+      "id": "nvidia/cosmos-nemotron-34b",
+      "name": "cosmos-nemotron-34b",
+      "link": "https://build.nvidia.com/nvidia/cosmos-nemotron-34b",
       "provider": "nvidia",
-      "description": "English text embedding model for question-answering retrieval.",
+      "description": "Multi-modal vision-language model that understands text/img/video and creates informative responses",
       "tags": [
-        "Embedding",
-        "run-on-rtx"
+        "VLM",
+        "Vision language model"
       ]
     },
     {
-      "id": "nvidia/maisi",
-      "name": "maisi",
-      "link": "https://build.nvidia.com/nvidia/maisi",
-      "provider": "nvidia",
-      "description": "MAISI is a pre-trained volumetric (3D) CT Latent Diffusion Generative Model.",
-      "tags": [
-        "Image Generation",
-        "Medical Imaging"
-      ]
-    },
-    {
-      "id": "microsoft/phi-3-medium-128k-instruct",
-      "name": "phi-3-medium-128k-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-3-medium-128k-instruct",
+      "id": "microsoft/phi-3_5-vision-instruct",
+      "name": "phi-3.5-vision-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-3_5-vision-instruct",
       "provider": "microsoft",
-      "description": "Cutting-edge lightweight open language model exceling in high-quality reasoning.",
+      "description": "Cutting-edge open multimodal model exceling in high-quality reasoning from images.",
+      "tags": [
+        "Vision Assistant"
+      ]
+    },
+    {
+      "id": "microsoft/phi-3_5-mini",
+      "name": "phi-3.5-mini-instruct",
+      "link": "https://build.nvidia.com/microsoft/phi-3_5-mini",
+      "provider": "microsoft",
+      "description": "Lightweight multilingual LLM powering AI applications in latency bound, memory/compute constrained environments",
       "tags": [
         "chat",
         "Code Generation",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "ibm/granite-guardian-3_0-8b",
+      "name": "granite-guardian-3.0-8b",
+      "link": "https://build.nvidia.com/ibm/granite-guardian-3_0-8b",
+      "provider": "ibm",
+      "description": "Detects jailbreaking, bias, violence, profanity, sexual content, and unethical behavior",
+      "tags": [
+        "Guardrail",
+        "Text-to-text"
+      ]
+    },
+    {
+      "id": "google/shieldgemma-9b",
+      "name": "shieldgemma-9b",
+      "link": "https://build.nvidia.com/google/shieldgemma-9b",
+      "provider": "google",
+      "description": "Guardrail model to ensure that responses from LLMs are appropriate and safe",
+      "tags": [
+        "Guardrail",
+        "Text-to-Text"
+      ]
+    },
+    {
+      "id": "aisingapore/sea-lion-7b-instruct",
+      "name": "sea-lion-7b-instruct",
+      "link": "https://build.nvidia.com/aisingapore/sea-lion-7b-instruct",
+      "provider": "aisingapore",
+      "description": "LLM to represent and serve the linguistic and cultural diversity of Southeast Asia",
+      "tags": [
+        "Chat",
         "Text-to-Text"
       ]
     },
@@ -1936,62 +2177,48 @@
       ]
     },
     {
-      "id": "google/gemma-2-27b-it",
-      "name": "gemma-2-27b-it",
-      "link": "https://build.nvidia.com/google/gemma-2-27b-it",
-      "provider": "google",
-      "description": "Cutting-edge text generation model text understanding, transformation, and code generation.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "google/gemma-2-9b-it",
-      "name": "gemma-2-9b-it",
-      "link": "https://build.nvidia.com/google/gemma-2-9b-it",
-      "provider": "google",
-      "description": "Cutting-edge text generation model text understanding, transformation, and code generation.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "nvidia/chatqa-1-5-8b",
-      "name": "llama3-chatqa-1.5-8b",
-      "link": "https://build.nvidia.com/nvidia/chatqa-1-5-8b",
+      "id": "nvidia/rerank-qa-mistral-4b",
+      "name": "rerank-qa-mistral-4b",
+      "link": "https://build.nvidia.com/nvidia/rerank-qa-mistral-4b",
       "provider": "nvidia",
-      "description": "Advanced LLM to generate high-quality, context-aware responses for chatbots and search engines.",
+      "description": "GPU-accelerated model optimized for providing a probability score that a given passage contains the information to answer a question.",
       "tags": [
-        "text-to-text",
-        "chat",
-        "Non-Commercial Use Only"
+        "Ranking",
+        "Retrieval Augmented Generation"
       ]
     },
     {
-      "id": "mistralai/mistral-7b-instruct-v03",
-      "name": "mistral-7b-instruct-v0.3",
-      "link": "https://build.nvidia.com/mistralai/mistral-7b-instruct-v03",
-      "provider": "mistralai",
-      "description": "This LLM follows instructions, completes requests, and generates creative text.",
+      "id": "university-at-buffalo/cached",
+      "name": "cached",
+      "link": "https://build.nvidia.com/university-at-buffalo/cached",
+      "provider": "university-at-buffalo",
+      "description": "Context-aware chart extraction that can detect 18 classes for chart basic elements, excluding plot elements.",
       "tags": [
-        "chat",
-        "Text-to-Text",
-        "Language Generation"
+        "nemo retriever",
+        "Chart Element Detection"
       ]
     },
     {
-      "id": "nvidia/nvclip",
-      "name": "nvclip",
-      "link": "https://build.nvidia.com/nvidia/nvclip",
+      "id": "nvidia/usdvalidate",
+      "name": "usdvalidate",
+      "link": "https://build.nvidia.com/nvidia/usdvalidate",
       "provider": "nvidia",
-      "description": "NV-CLIP is a multimodal embeddings model for image and text.",
+      "description": "Verify compatibility of OpenUSD assets with instant RTX render and rule-based validation.",
       "tags": [
-        "Computer vision",
-        "multimodal embeddings"
+        "Validation",
+        "OpenUSD"
+      ]
+    },
+    {
+      "id": "nvidia/llama-3_1-nemotron-70b-reward",
+      "name": "llama-3.1-nemotron-70b-reward",
+      "link": "https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-reward",
+      "provider": "nvidia",
+      "description": "Leaderboard topping reward model supporting RLHF for better alignment with human preferences.",
+      "tags": [
+        "Text-to-text",
+        "Reward Model",
+        "RLHF"
       ]
     },
     {
@@ -2006,56 +2233,14 @@
       ]
     },
     {
-      "id": "nvidia/ocdrnet",
-      "name": "ocdrnet",
-      "link": "https://build.nvidia.com/nvidia/ocdrnet",
+      "id": "nvidia/usdsearch",
+      "name": "usdsearch",
+      "link": "https://build.nvidia.com/nvidia/usdsearch",
       "provider": "nvidia",
-      "description": "OCDNet and OCRNet are pre-trained models designed for optical character detection and recognition respectively.",
+      "description": "AI-powered search for OpenUSD data, 3D models, images, and assets using text or image-based inputs.",
       "tags": [
-        "Optical Character Recognition",
-        "image"
-      ]
-    },
-    {
-      "id": "nvidia/nv-embed-v1",
-      "name": "nv-embed-v1",
-      "link": "https://build.nvidia.com/nvidia/nv-embed-v1",
-      "provider": "nvidia",
-      "description": "Generates high-quality numerical embeddings from text inputs.",
-      "tags": [
-        "Non-Commercial Use Only"
-      ]
-    },
-    {
-      "id": "upstage/solar-10_7b-instruct",
-      "name": "solar-10.7b-instruct",
-      "link": "https://build.nvidia.com/upstage/solar-10_7b-instruct",
-      "provider": "upstage",
-      "description": "Excels in NLP tasks, particularly in instruction-following, reasoning, and mathematics.",
-      "tags": [
-        "Non-Commercial Use Only",
-        "chat"
-      ]
-    },
-    {
-      "id": "baai/bge-m3",
-      "name": "bge-m3",
-      "link": "https://build.nvidia.com/baai/bge-m3",
-      "provider": "baai",
-      "description": "Embedding model for text retrieval tasks, excelling in dense, multi-vector, and sparse retrieval.",
-      "tags": [
-        "Embeddings"
-      ]
-    },
-    {
-      "id": "mediatek/breeze-7b-instruct",
-      "name": "breeze-7b-instruct",
-      "link": "https://build.nvidia.com/mediatek/breeze-7b-instruct",
-      "provider": "mediatek",
-      "description": "LLM for improved language comprehension and chatbot-oriented capabilities in Traditional Chinese.",
-      "tags": [
-        "chat",
-        "Text-to-Text"
+        "OpenUSD",
+        "Synthetic Data Generation"
       ]
     },
     {
@@ -2084,225 +2269,37 @@
       ]
     },
     {
-      "id": "ipd/rfdiffusion",
-      "name": "rfdiffusion",
-      "link": "https://build.nvidia.com/ipd/rfdiffusion",
-      "provider": "ipd",
-      "description": "A generative model of protein backbones for protein binder design.",
-      "tags": [
-        "biology",
-        "nim",
-        "BioNemo"
-      ]
-    },
-    {
-      "id": "microsoft/phi-3-small-8k-instruct",
-      "name": "phi-3-small-8k-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-3-small-8k-instruct",
-      "provider": "microsoft",
-      "description": "Cutting-edge lightweight open language model exceling in high-quality reasoning.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "microsoft/phi-3-small-128k-instruct",
-      "name": "phi-3-small-128k-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-3-small-128k-instruct",
-      "provider": "microsoft",
-      "description": "Long context cutting-edge lightweight open language model exceling in high-quality reasoning.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "microsoft/phi-3-medium-4k-instruct",
-      "name": "phi-3-medium-4k-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-3-medium-4k-instruct",
-      "provider": "microsoft",
-      "description": "Cutting-edge lightweight open language model exceling in high-quality reasoning.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "google/google-paligemma",
-      "name": "paligemma",
-      "link": "https://build.nvidia.com/google/google-paligemma",
-      "provider": "google",
-      "description": "Vision language model adept at comprehending text and visual inputs to produce informative responses",
-      "tags": [
-        "image",
-        "cv",
-        "Vision Assistant",
-        "vlm"
-      ]
-    },
-    {
-      "id": "aisingapore/sea-lion-7b-instruct",
-      "name": "sea-lion-7b-instruct",
-      "link": "https://build.nvidia.com/aisingapore/sea-lion-7b-instruct",
-      "provider": "aisingapore",
-      "description": "LLM to represent and serve the linguistic and cultural diversity of Southeast Asia",
-      "tags": [
-        "Chat",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "microsoft/phi-3-mini-4k",
-      "name": "phi-3-mini-4k-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-3-mini-4k",
-      "provider": "microsoft",
-      "description": "Lightweight, state-of-the-art open LLM with strong math and logical reasoning skills.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "microsoft/phi-3-mini",
-      "name": "phi-3-mini-128k-instruct",
-      "link": "https://build.nvidia.com/microsoft/phi-3-mini",
-      "provider": "microsoft",
-      "description": "Lightweight, state-of-the-art open LLM with strong math and logical reasoning skills.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "mistralai/mixtral-8x22b-instruct",
-      "name": "mixtral-8x22b-instruct-v0.1",
-      "link": "https://build.nvidia.com/mistralai/mixtral-8x22b-instruct",
-      "provider": "mistralai",
-      "description": "An MOE LLM that follows instructions, completes requests, and generates creative text.",
-      "tags": [
-        "Advanced Reasoning",
-        "chat"
-      ]
-    },
-    {
-      "id": "meta/llama3-70b",
-      "name": "llama3-70b-instruct",
-      "link": "https://build.nvidia.com/meta/llama3-70b",
-      "provider": "meta",
-      "description": "Powers complex conversations with superior contextual understanding, reasoning and text generation.",
-      "tags": [
-        "chat",
-        "Large Language models"
-      ]
-    },
-    {
-      "id": "meta/llama3-8b",
-      "name": "llama3-8b-instruct",
-      "link": "https://build.nvidia.com/meta/llama3-8b",
-      "provider": "meta",
-      "description": "Advanced state-of-the-art LLM with language understanding, superior reasoning, and text generation.",
-      "tags": [
-        "chat",
-        "Code Generation",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "nvidia/rerank-qa-mistral-4b",
-      "name": "rerank-qa-mistral-4b",
-      "link": "https://build.nvidia.com/nvidia/rerank-qa-mistral-4b",
+      "id": "nvidia/ocdrnet",
+      "name": "ocdrnet",
+      "link": "https://build.nvidia.com/nvidia/ocdrnet",
       "provider": "nvidia",
-      "description": "GPU-accelerated model optimized for providing a probability score that a given passage contains the information to answer a question.",
+      "description": "OCDNet and OCRNet are pre-trained models designed for optical character detection and recognition respectively.",
       "tags": [
-        "Ranking",
-        "Retrieval Augmented Generation"
+        "Optical Character Recognition",
+        "image"
       ]
     },
     {
-      "id": "nvidia/vista-3d",
-      "name": "vista-3d",
-      "link": "https://build.nvidia.com/nvidia/vista-3d",
+      "id": "nvidia/nemotron-mini-4b-instruct",
+      "name": "nemotron-mini-4b-instruct",
+      "link": "https://build.nvidia.com/nvidia/nemotron-mini-4b-instruct",
       "provider": "nvidia",
-      "description": "VISTA-3D is a specialized interactive foundation model for segmenting and anotating human anatomies.",
-      "tags": [
-        "Interactive Annotation"
-      ]
-    },
-    {
-      "id": "google/gemma-7b",
-      "name": "gemma-7b",
-      "link": "https://build.nvidia.com/google/gemma-7b",
-      "provider": "google",
-      "description": "Cutting-edge text generation model text understanding, transformation, and code generation.",
+      "description": "Optimized SLM for on-device inference and fine-tuned for roleplay, RAG and function calling",
       "tags": [
         "chat",
-        "Code Generation",
-        "Text-to-Text"
+        "Text-to-Text",
+        "Language Generation"
       ]
     },
     {
-      "id": "mistralai/mistral-7b-instruct-v2",
-      "name": "mistral-7b-instruct-v0.2",
-      "link": "https://build.nvidia.com/mistralai/mistral-7b-instruct-v2",
-      "provider": "mistralai",
-      "description": "This LLM follows instructions, completes requests, and generates creative text.",
-      "tags": [
-        "chat",
-        "Text-to-Text"
-      ]
-    },
-    {
-      "id": "nvidia/molmim-generate",
-      "name": "molmim",
-      "link": "https://build.nvidia.com/nvidia/molmim-generate",
+      "id": "nvidia/mistral-nemo-minitron-8b-base",
+      "name": "mistral-nemo-minitron-8b-base",
+      "link": "https://build.nvidia.com/nvidia/mistral-nemo-minitron-8b-base",
       "provider": "nvidia",
-      "description": "MolMIM performs controlled generation, finding molecules with the right properties.",
+      "description": "State-of-the-art small language model delivering superior accuracy for chatbot, virtual assistants, and content generation.",
       "tags": [
-        "Chemistry",
-        "nim",
-        "BioNemo"
-      ]
-    },
-    {
-      "id": "meta/esmfold",
-      "name": "esmfold",
-      "link": "https://build.nvidia.com/meta/esmfold",
-      "provider": "meta",
-      "description": "Predicts the 3D structure of a protein from its amino acid sequence.",
-      "tags": [
-        "biology",
-        "nim",
-        "Bionemo"
-      ]
-    },
-    {
-      "id": "mit/diffdock",
-      "name": "diffdock",
-      "link": "https://build.nvidia.com/mit/diffdock",
-      "provider": "mit",
-      "description": "Predicts the 3D structure of how a molecule interacts with a protein.",
-      "tags": [
-        "Chemistry",
-        "nim",
-        "BioNemo",
-        "Docking"
-      ]
-    },
-    {
-      "id": "mistralai/mixtral-8x7b-instruct",
-      "name": "mixtral-8x7b-instruct-v0.1",
-      "link": "https://build.nvidia.com/mistralai/mixtral-8x7b-instruct",
-      "provider": "mistralai",
-      "description": "An MOE LLM that follows instructions, completes requests, and generates creative text.",
-      "tags": [
-        "Advanced Reasoning",
-        "chat"
+        "language generation",
+        "text-to-text"
       ]
     }
   ]

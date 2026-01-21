@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 984200,
+      "downloads": 984300,
       "stars": 222,
       "task_types": "视觉多模态理解"
     },
@@ -217,7 +217,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 733800,
+      "downloads": 733900,
       "stars": 400,
       "task_types": "文本生成"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 714000,
+      "downloads": 714300,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 481000,
+      "downloads": 481200,
       "stars": 105,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 380700,
+      "downloads": 380800,
       "stars": 174
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 315500,
+      "downloads": 315600,
       "stars": 33
     },
     {
@@ -367,16 +367,6 @@
       "time": "2025.12.04",
       "downloads": 230600,
       "stars": 118,
-      "task_types": "文本生成"
-    },
-    {
-      "link": "https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B",
-      "id": "iic/Tongyi-DeepResearch-30B-A3B",
-      "organization": "iic",
-      "name": "通义-DeepResearch-30B-A3B",
-      "time": "2025.10.11",
-      "downloads": 189800,
-      "stars": 108,
       "task_types": "文本生成"
     },
     {
@@ -415,7 +405,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 170000,
+      "downloads": 170100,
       "stars": 1500,
       "task_types": "文本生成图片"
     },
@@ -1084,6 +1074,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7-Flash",
+      "id": "ZhipuAI/GLM-4.7-Flash",
+      "organization": "ZhipuAI",
+      "name": "GLM-4.7-Flash",
+      "time": "2026.01.21",
+      "downloads": 7400,
+      "stars": 34,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/djyzcp123/gjerc",
       "id": "djyzcp123/gjerc",
       "organization": "djyzcp123",
@@ -1092,16 +1092,6 @@
       "downloads": 7300,
       "stars": 43,
       "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7-Flash",
-      "id": "ZhipuAI/GLM-4.7-Flash",
-      "organization": "ZhipuAI",
-      "name": "GLM-4.7-Flash",
-      "time": "2026.01.21",
-      "downloads": 7300,
-      "stars": 34,
-      "task_types": "文本生成"
     },
     {
       "link": "https://modelscope.cn/models/smalltotal/Flux_wx_dust",
@@ -1194,12 +1184,14 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/mistralai/Mistral-Small-Instruct-2409",
-      "id": "mistralai/Mistral-Small-Instruct-2409",
-      "organization": "mistralai",
-      "name": "mistralai/Mistral-Small-Instruct-2409",
-      "time": "2025.07.30",
-      "downloads": 6600
+      "link": "https://modelscope.cn/models/VoidOc/home_background",
+      "id": "VoidOc/home_background",
+      "organization": "VoidOc",
+      "name": "家具类家居产品（沙发桌椅等）空房间背景场景图",
+      "time": "2025.03.07",
+      "downloads": 6600,
+      "stars": 2,
+      "task_types": "文本生成图片"
     },
     {
       "link": "https://modelscope.cn/models/mysun2023/MEXX_ANIME",
@@ -1483,6 +1475,16 @@
       "downloads": 3600,
       "stars": 21,
       "task_types": "视觉多模态理解"
+    },
+    {
+      "link": "https://modelscope.cn/models/AImissyou/DSDJ",
+      "id": "AImissyou/DSDJ",
+      "organization": "AImissyou",
+      "name": "DSDJ扁平插画（一丹一世界）",
+      "time": "2025.06.18",
+      "downloads": 3600,
+      "stars": 6,
+      "task_types": "文本生成图片"
     }
   ]
 }
