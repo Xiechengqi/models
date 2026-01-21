@@ -388,6 +388,16 @@
       ]
     },
     {
+      "id": "nvidia/cosmos-reason1-7b",
+      "name": "cosmos-reason1-7b",
+      "link": "https://build.nvidia.com/nvidia/cosmos-reason1-7b",
+      "provider": "nvidia",
+      "description": "Reasoning vision language model (VLM) for physical AI and robotics.",
+      "tags": [
+        "video understanding"
+      ]
+    },
+    {
       "id": "nvidia/nemoretriever-ocr-v1",
       "name": "nemoretriever-ocr-v1",
       "link": "https://build.nvidia.com/nvidia/nemoretriever-ocr-v1",
