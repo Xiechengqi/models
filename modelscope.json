@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 982600,
+      "downloads": 983100,
       "stars": 221,
       "task_types": "视觉多模态理解"
     },
@@ -217,7 +217,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 733400,
+      "downloads": 733500,
       "stars": 400,
       "task_types": "文本生成"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 712100,
+      "downloads": 712400,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 479700,
+      "downloads": 480000,
       "stars": 105,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 379700,
+      "downloads": 379900,
       "stars": 174
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 314900,
+      "downloads": 315000,
       "stars": 33
     },
     {
@@ -380,16 +380,6 @@
       "task_types": "文本生成"
     },
     {
-      "link": "https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B",
-      "id": "iic/Tongyi-DeepResearch-30B-A3B",
-      "organization": "iic",
-      "name": "通义-DeepResearch-30B-A3B",
-      "time": "2025.10.11",
-      "downloads": 189500,
-      "stars": 108,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/MiniMax/MiniMax-M1-80k",
       "id": "MiniMax/MiniMax-M1-80k",
       "organization": "MiniMax",
@@ -415,7 +405,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 169400,
+      "downloads": 169600,
       "stars": 1500,
       "task_types": "文本生成图片"
     },
@@ -425,7 +415,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 155200,
+      "downloads": 155300,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -525,7 +515,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 53800,
+      "downloads": 53900,
       "stars": 209,
       "task_types": "文本生成图片"
     },
@@ -1174,6 +1164,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7-Flash",
+      "id": "ZhipuAI/GLM-4.7-Flash",
+      "organization": "ZhipuAI",
+      "name": "GLM-4.7-Flash",
+      "time": "2026.01.20",
+      "downloads": 6800,
+      "stars": 32,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/HoweTsui/V3Dstyle",
       "id": "HoweTsui/V3Dstyle",
       "organization": "HoweTsui",
@@ -1184,14 +1184,14 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7-Flash",
-      "id": "ZhipuAI/GLM-4.7-Flash",
-      "organization": "ZhipuAI",
-      "name": "GLM-4.7-Flash",
-      "time": "2026.01.20",
+      "link": "https://modelscope.cn/models/VoidOc/home_background",
+      "id": "VoidOc/home_background",
+      "organization": "VoidOc",
+      "name": "家具类家居产品（沙发桌椅等）空房间背景场景图",
+      "time": "2025.03.07",
       "downloads": 6600,
-      "stars": 30,
-      "task_types": "文本生成"
+      "stars": 2,
+      "task_types": "文本生成图片"
     },
     {
       "link": "https://modelscope.cn/models/mistralai/Mistral-Small-Instruct-2409",
@@ -1473,16 +1473,6 @@
       "downloads": 4100,
       "stars": 84,
       "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/Shanghai_AI_Laboratory/Intern-S1",
-      "id": "Shanghai_AI_Laboratory/Intern-S1",
-      "organization": "Shanghai_AI_Laboratory",
-      "name": "Shanghai_AI_Laboratory/Intern-S1",
-      "time": "2025.11.01",
-      "downloads": 3600,
-      "stars": 21,
-      "task_types": "视觉多模态理解"
     }
   ]
 }
