@@ -197,7 +197,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Instruct",
       "time": "2025.10.15",
-      "downloads": 984000,
+      "downloads": 984200,
       "stars": 222,
       "task_types": "视觉多模态理解"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 713800,
+      "downloads": 714000,
       "stars": 54,
       "task_types": "文本生成"
     },
@@ -267,7 +267,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 517799,
+      "downloads": 517900,
       "stars": 282,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 480900,
+      "downloads": 481000,
       "stars": 105,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 380600,
+      "downloads": 380700,
       "stars": 174
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 315400,
+      "downloads": 315500,
       "stars": 33
     },
     {
@@ -425,7 +425,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 155500,
+      "downloads": 155600,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -1094,6 +1094,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7-Flash",
+      "id": "ZhipuAI/GLM-4.7-Flash",
+      "organization": "ZhipuAI",
+      "name": "GLM-4.7-Flash",
+      "time": "2026.01.21",
+      "downloads": 7300,
+      "stars": 34,
+      "task_types": "文本生成"
+    },
+    {
       "link": "https://modelscope.cn/models/smalltotal/Flux_wx_dust",
       "id": "smalltotal/Flux_wx_dust",
       "organization": "smalltotal",
@@ -1112,16 +1122,6 @@
       "downloads": 8300,
       "stars": 57,
       "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/ZhipuAI/GLM-4.7-Flash",
-      "id": "ZhipuAI/GLM-4.7-Flash",
-      "organization": "ZhipuAI",
-      "name": "GLM-4.7-Flash",
-      "time": "2026.01.21",
-      "downloads": 7300,
-      "stars": 34,
-      "task_types": "文本生成"
     },
     {
       "link": "https://modelscope.cn/models/aeetes/dm",
