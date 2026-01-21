@@ -3,6 +3,14 @@
   "api_key_page": "https://openrouter.ai/settings/keys",
   "models": [
     {
+      "id": "writer/palmyra-x5",
+      "name": "Palmyra X5",
+      "provider": "Writer",
+      "description": "Palmyra X5 is Writer's most advanced model, purpose-built for building and scaling AI agents across the enterprise. It delivers industry-leading speed and efficiency on context windows up to 1 million tokens, powered by a novel transformer architecture and hybrid attention mechanisms. This enables faster inference and expanded memory for processing large volumes of enterprise data, critical for scaling AI agents.",
+      "link": "https://openrouter.ai/writer/palmyra-x5",
+      "pub_date": "Wed, 21 Jan 2026 13:57:03 GMT"
+    },
+    {
       "id": "liquid/lfm-2.5-1.2b-thinking",
       "name": "LFM2.5-1.2B-Thinking (free)",
       "provider": "LiquidAI",
