@@ -2,6 +2,18 @@
   "models_page": "https://build.nvidia.com/models",
   "models": [
     {
+      "id": "nvidia/nemotron-content-safety-reasoning-4b",
+      "name": "nemotron-content-safety-reasoning-4b",
+      "link": "https://build.nvidia.com/nvidia/nemotron-content-safety-reasoning-4b",
+      "provider": "nvidia",
+      "description": "A context‑aware safety model that applies reasoning to enforce domain‑specific policies.",
+      "tags": [
+        "NeMo Guardrails",
+        "Nemotron",
+        "reasoning"
+      ]
+    },
+    {
       "id": "nvidia/cosmos-reason2-8b",
       "name": "cosmos-reason2-8b",
       "link": "https://build.nvidia.com/nvidia/cosmos-reason2-8b",
