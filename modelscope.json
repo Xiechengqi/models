@@ -217,7 +217,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 742300,
+      "downloads": 742400,
       "stars": 72,
       "task_types": "文本生成"
     },
@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 737800,
+      "downloads": 737900,
       "stars": 401,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 493100,
+      "downloads": 493300,
       "stars": 106,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 389400,
+      "downloads": 389500,
       "stars": 176
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 322400,
+      "downloads": 322500,
       "stars": 34
     },
     {
@@ -415,7 +415,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 158900,
+      "downloads": 159000,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -430,16 +430,6 @@
       "task_types": "文本生成"
     },
     {
-      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-Coder-14B-Instruct",
-      "id": "Qwen/Qwen2.5-Coder-14B-Instruct",
-      "organization": "Qwen",
-      "name": "通义千问2.5-代码-14B-Instruct",
-      "time": "2025.03.07",
-      "downloads": 95600,
-      "stars": 26,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/deepseek-ai/DeepSeek-V3.2",
       "id": "deepseek-ai/DeepSeek-V3.2",
       "organization": "deepseek-ai",
@@ -447,6 +437,16 @@
       "time": "2025.12.01",
       "downloads": 96000,
       "stars": 281,
+      "task_types": "文本生成"
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/Qwen2.5-Coder-14B-Instruct",
+      "id": "Qwen/Qwen2.5-Coder-14B-Instruct",
+      "organization": "Qwen",
+      "name": "通义千问2.5-代码-14B-Instruct",
+      "time": "2025.03.07",
+      "downloads": 95600,
+      "stars": 26,
       "task_types": "文本生成"
     },
     {
@@ -525,8 +525,8 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 52700,
-      "stars": 41,
+      "downloads": 52900,
+      "stars": 42,
       "task_types": "文本生成"
     },
     {
@@ -565,7 +565,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.7",
       "time": "2026.01.20",
-      "downloads": 45000,
+      "downloads": 45100,
       "stars": 151,
       "task_types": "文本生成"
     },
