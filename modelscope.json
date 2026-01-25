@@ -207,7 +207,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B",
       "time": "2025.07.27",
-      "downloads": 767200,
+      "downloads": 767300,
       "stars": 214,
       "task_types": "文本生成"
     },
@@ -217,7 +217,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 743600,
+      "downloads": 743700,
       "stars": 72,
       "task_types": "文本生成"
     },
@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 739500,
+      "downloads": 739600,
       "stars": 401,
       "task_types": "文本生成"
     },
@@ -267,7 +267,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 520100,
+      "downloads": 520200,
       "stars": 285,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 497300,
+      "downloads": 497500,
       "stars": 106,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 392800,
+      "downloads": 392900,
       "stars": 176
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 324800,
+      "downloads": 324900,
       "stars": 34
     },
     {
@@ -385,7 +385,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 176500,
+      "downloads": 176600,
       "stars": 1500,
       "task_types": "文本生成图片"
     },
@@ -435,7 +435,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 97200,
+      "downloads": 97300,
       "stars": 283,
       "task_types": "文本生成"
     },
@@ -466,7 +466,7 @@
       "name": "通义千问2.5-代码-7B-Instruct",
       "time": "2025.03.07",
       "downloads": 85400,
-      "stars": 60,
+      "stars": 61,
       "task_types": "文本生成"
     },
     {
@@ -495,7 +495,7 @@
       "organization": "yiwanji",
       "name": "苏-FLUX抖音小红书极致真实_苏-FLUX小红书极致真实V2",
       "time": "2025.03.07",
-      "downloads": 61700,
+      "downloads": 61900,
       "stars": 246,
       "task_types": "文本生成图片"
     },
@@ -505,7 +505,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 58400,
+      "downloads": 58600,
       "stars": 48,
       "task_types": "文本生成"
     },
@@ -565,8 +565,8 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.7",
       "time": "2026.01.20",
-      "downloads": 46500,
-      "stars": 152,
+      "downloads": 46600,
+      "stars": 153,
       "task_types": "文本生成"
     },
     {
@@ -823,7 +823,7 @@
       "name": "Qwen Image FP8【仅供本地使用】",
       "time": "2025.08.08",
       "downloads": 16500,
-      "stars": 48,
+      "stars": 49,
       "task_types": "文本生成图片"
     },
     {
@@ -877,6 +877,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/black-forest-labs/FLUX.1-Krea-dev",
+      "id": "black-forest-labs/FLUX.1-Krea-dev",
+      "organization": "black-forest-labs",
+      "name": "black-forest-labs/FLUX.1-Krea-dev",
+      "time": "2025.08.01",
+      "downloads": 16500,
+      "stars": 62,
+      "task_types": "文本生成图片"
+    },
+    {
       "link": "https://modelscope.cn/models/MusePublic/332_ckpt_SD_XL",
       "id": "MusePublic/332_ckpt_SD_XL",
       "organization": "MusePublic",
@@ -884,16 +894,6 @@
       "time": "2025.03.07",
       "downloads": 14000,
       "stars": 20,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/black-forest-labs/FLUX.1-Krea-dev",
-      "id": "black-forest-labs/FLUX.1-Krea-dev",
-      "organization": "black-forest-labs",
-      "name": "black-forest-labs/FLUX.1-Krea-dev",
-      "time": "2025.08.01",
-      "downloads": 16200,
-      "stars": 62,
       "task_types": "文本生成图片"
     },
     {
