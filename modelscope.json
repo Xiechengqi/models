@@ -139,7 +139,7 @@
       "name": "通义千问3-Embedding-0.6B-向量化模型",
       "time": "2025.06.23",
       "downloads": 1600000,
-      "stars": 75
+      "stars": 76
     },
     {
       "link": "https://modelscope.cn/models/Qwen/Qwen3-30B-A3B-Instruct-2507",
@@ -207,7 +207,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B",
       "time": "2025.07.27",
-      "downloads": 767300,
+      "downloads": 767400,
       "stars": 214,
       "task_types": "文本生成"
     },
@@ -217,7 +217,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 743700,
+      "downloads": 743900,
       "stars": 72,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 497500,
+      "downloads": 497700,
       "stars": 106,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 392900,
+      "downloads": 393100,
       "stars": 176
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 324900,
+      "downloads": 325000,
       "stars": 34
     },
     {
@@ -495,7 +495,7 @@
       "organization": "yiwanji",
       "name": "苏-FLUX抖音小红书极致真实_苏-FLUX小红书极致真实V2",
       "time": "2025.03.07",
-      "downloads": 61900,
+      "downloads": 62100,
       "stars": 246,
       "task_types": "文本生成图片"
     },
@@ -505,7 +505,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 58600,
+      "downloads": 58900,
       "stars": 48,
       "task_types": "文本生成"
     },
@@ -565,7 +565,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.7",
       "time": "2026.01.20",
-      "downloads": 46600,
+      "downloads": 46700,
       "stars": 153,
       "task_types": "文本生成"
     },
@@ -867,6 +867,16 @@
       "task_types": "文本生成图片"
     },
     {
+      "link": "https://modelscope.cn/models/black-forest-labs/FLUX.1-Krea-dev",
+      "id": "black-forest-labs/FLUX.1-Krea-dev",
+      "organization": "black-forest-labs",
+      "name": "black-forest-labs/FLUX.1-Krea-dev",
+      "time": "2025.08.01",
+      "downloads": 16600,
+      "stars": 62,
+      "task_types": "文本生成图片"
+    },
+    {
       "link": "https://modelscope.cn/models/mysun2023/MEXX_WANGHONG",
       "id": "mysun2023/MEXX_WANGHONG",
       "organization": "mysun2023",
@@ -874,16 +884,6 @@
       "time": "2025.03.07",
       "downloads": 14300,
       "stars": 8,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/black-forest-labs/FLUX.1-Krea-dev",
-      "id": "black-forest-labs/FLUX.1-Krea-dev",
-      "organization": "black-forest-labs",
-      "name": "black-forest-labs/FLUX.1-Krea-dev",
-      "time": "2025.08.01",
-      "downloads": 16500,
-      "stars": 62,
       "task_types": "文本生成图片"
     },
     {
@@ -1473,16 +1473,6 @@
       "downloads": 4100,
       "stars": 84,
       "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/Shanghai_AI_Laboratory/Intern-S1",
-      "id": "Shanghai_AI_Laboratory/Intern-S1",
-      "organization": "Shanghai_AI_Laboratory",
-      "name": "Shanghai_AI_Laboratory/Intern-S1",
-      "time": "2025.11.01",
-      "downloads": 3700,
-      "stars": 21,
-      "task_types": "视觉多模态理解"
     }
   ]
 }
