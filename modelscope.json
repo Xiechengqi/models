@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 740100,
+      "downloads": 740200,
       "stars": 401,
       "task_types": "文本生成"
     },
@@ -267,7 +267,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 520299,
+      "downloads": 520400,
       "stars": 285,
       "task_types": "文本生成"
     },
@@ -277,8 +277,8 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 499000,
-      "stars": 106,
+      "downloads": 499200,
+      "stars": 107,
       "task_types": "视觉多模态理解"
     },
     {
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 394200,
+      "downloads": 394300,
       "stars": 176
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 325800,
+      "downloads": 325900,
       "stars": 34
     },
     {
@@ -406,7 +406,7 @@
       "name": "通义千问3-VL-235B-A22B-Instruct",
       "time": "2025.11.27",
       "downloads": 167600,
-      "stars": 164,
+      "stars": 165,
       "task_types": "视觉多模态理解"
     },
     {
@@ -435,7 +435,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 98000,
+      "downloads": 98100,
       "stars": 283,
       "task_types": "文本生成"
     },
@@ -495,7 +495,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 61100,
+      "downloads": 61400,
       "stars": 48,
       "task_types": "文本生成"
     },
@@ -626,7 +626,7 @@
       "name": "通义千问3-VL-30B-A3B-Thinking",
       "time": "2025.11.27",
       "downloads": 31700,
-      "stars": 8,
+      "stars": 9,
       "task_types": "视觉多模态理解"
     },
     {
