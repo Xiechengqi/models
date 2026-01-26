@@ -2,6 +2,18 @@
   "models_page": "https://build.nvidia.com/models",
   "models": [
     {
+      "id": "z-ai/glm4_7",
+      "name": "glm4.7",
+      "link": "https://build.nvidia.com/z-ai/glm4_7",
+      "provider": "z-ai",
+      "description": "GLM-4.7 is a multilingual agentic coding partner with stronger reasoning, tool use, and UI skills.",
+      "tags": [
+        "Tool Calling",
+        "Coding",
+        "Reasoning"
+      ]
+    },
+    {
       "id": "nvidia/nemotron-content-safety-reasoning-4b",
       "name": "nemotron-content-safety-reasoning-4b",
       "link": "https://build.nvidia.com/nvidia/nemotron-content-safety-reasoning-4b",
