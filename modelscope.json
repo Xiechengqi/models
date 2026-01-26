@@ -207,7 +207,7 @@
       "organization": "Qwen",
       "name": "通义千问3-235B-A22B",
       "time": "2025.07.27",
-      "downloads": 768600,
+      "downloads": 768700,
       "stars": 214,
       "task_types": "文本生成"
     },
@@ -217,7 +217,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 745800,
+      "downloads": 746000,
       "stars": 72,
       "task_types": "文本生成"
     },
@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 740900,
+      "downloads": 741000,
       "stars": 401,
       "task_types": "文本生成"
     },
@@ -247,7 +247,7 @@
       "organization": "Qwen",
       "name": "通义千问3-14B",
       "time": "2025.07.27",
-      "downloads": 726200,
+      "downloads": 726300,
       "stars": 55,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 501300,
+      "downloads": 501500,
       "stars": 108,
       "task_types": "视觉多模态理解"
     },
@@ -287,7 +287,7 @@
       "organization": "Qwen",
       "name": "通义千问3-1.7B",
       "time": "2025.07.27",
-      "downloads": 468500,
+      "downloads": 468600,
       "stars": 50,
       "task_types": "文本生成"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 396000,
+      "downloads": 396100,
       "stars": 177
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 327200,
+      "downloads": 327400,
       "stars": 34
     },
     {
@@ -395,7 +395,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 177900,
+      "downloads": 178200,
       "stars": 1500,
       "task_types": "文本生成图片"
     },
@@ -425,7 +425,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 161000,
+      "downloads": 161100,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -445,7 +445,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 99100,
+      "downloads": 99200,
       "stars": 283,
       "task_types": "文本生成"
     },
@@ -505,7 +505,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 65200,
+      "downloads": 65600,
       "stars": 50,
       "task_types": "文本生成"
     },
@@ -525,8 +525,8 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 56300,
-      "stars": 235,
+      "downloads": 56400,
+      "stars": 236,
       "task_types": "文本生成图片"
     },
     {
@@ -575,7 +575,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.7",
       "time": "2026.01.20",
-      "downloads": 48400,
+      "downloads": 48500,
       "stars": 154,
       "task_types": "文本生成"
     },
@@ -600,22 +600,12 @@
       "task_types": "文本生成"
     },
     {
-      "link": "https://modelscope.cn/models/MusePublic/Qwen-image",
-      "id": "MusePublic/Qwen-image",
-      "organization": "MusePublic",
-      "name": "Qwen Image",
-      "time": "2025.08.04",
-      "downloads": 34400,
-      "stars": 132,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/Qwen/Qwen3-VL-8B-Thinking",
       "id": "Qwen/Qwen3-VL-8B-Thinking",
       "organization": "Qwen",
       "name": "通义千问3-VL-8B-Thinking",
       "time": "2025.10.15",
-      "downloads": 32900,
+      "downloads": 33000,
       "stars": 11,
       "task_types": "视觉多模态理解"
     },
@@ -1483,6 +1473,16 @@
       "downloads": 4100,
       "stars": 84,
       "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/Shanghai_AI_Laboratory/Intern-S1",
+      "id": "Shanghai_AI_Laboratory/Intern-S1",
+      "organization": "Shanghai_AI_Laboratory",
+      "name": "Shanghai_AI_Laboratory/Intern-S1",
+      "time": "2025.11.01",
+      "downloads": 3700,
+      "stars": 21,
+      "task_types": "视觉多模态理解"
     }
   ]
 }
