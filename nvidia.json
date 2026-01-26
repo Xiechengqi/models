@@ -708,18 +708,6 @@
       ]
     },
     {
-      "id": "deepseek-ai/deepseek-r1",
-      "name": "deepseek-r1",
-      "link": "https://build.nvidia.com/deepseek-ai/deepseek-r1",
-      "provider": "deepseek-ai",
-      "description": "State-of-the-art, high-efficiency LLM excelling in reasoning, math, and coding.",
-      "tags": [
-        "chat",
-        "Math",
-        "advanced reasoning"
-      ]
-    },
-    {
       "id": "meta/llama-4-scout-17b-16e-instruct",
       "name": "llama-4-scout-17b-16e-instruct",
       "link": "https://build.nvidia.com/meta/llama-4-scout-17b-16e-instruct",
@@ -1239,19 +1227,6 @@
       "tags": [
         "language generation",
         "chat"
-      ]
-    },
-    {
-      "id": "deepseek-ai/deepseek-r1-0528",
-      "name": "deepseek-r1-0528",
-      "link": "https://build.nvidia.com/deepseek-ai/deepseek-r1-0528",
-      "provider": "deepseek-ai",
-      "description": "Updated version of DeepSeek-R1 with enhanced reasoning, coding, math, and reduced hallucination.",
-      "tags": [
-        "coding",
-        "chat",
-        "math",
-        "advanced reasoning"
       ]
     },
     {
