@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 741900,
+      "downloads": 742300,
       "stars": 401,
       "task_types": "文本生成"
     },
@@ -267,7 +267,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 520799,
+      "downloads": 520900,
       "stars": 286,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 503200,
+      "downloads": 503300,
       "stars": 108,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 397400,
+      "downloads": 397500,
       "stars": 177
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 328100,
+      "downloads": 328200,
       "stars": 34
     },
     {
@@ -370,22 +370,12 @@
       "task_types": "文本生成"
     },
     {
-      "link": "https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B",
-      "id": "iic/Tongyi-DeepResearch-30B-A3B",
-      "organization": "iic",
-      "name": "通义-DeepResearch-30B-A3B",
-      "time": "2025.10.11",
-      "downloads": 194500,
-      "stars": 108,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/Qwen/QwQ-32B-Preview",
       "id": "Qwen/QwQ-32B-Preview",
       "organization": "Qwen",
       "name": "Qwen/QwQ-32B-Preview",
       "time": "2025.03.07",
-      "downloads": 177800,
+      "downloads": 177900,
       "stars": 98,
       "task_types": "文本生成"
     },
@@ -395,7 +385,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 179500,
+      "downloads": 179600,
       "stars": 1500,
       "task_types": "文本生成图片"
     },
@@ -425,7 +415,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 161400,
+      "downloads": 161500,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -445,7 +435,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 100100,
+      "downloads": 100200,
       "stars": 285,
       "task_types": "文本生成"
     },
@@ -475,7 +465,7 @@
       "organization": "Qwen",
       "name": "通义千问2.5-代码-7B-Instruct",
       "time": "2025.03.07",
-      "downloads": 85500,
+      "downloads": 85600,
       "stars": 61,
       "task_types": "文本生成"
     },
@@ -505,7 +495,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 67800,
+      "downloads": 68100,
       "stars": 53,
       "task_types": "文本生成"
     },
@@ -565,7 +555,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.7",
       "time": "2026.01.20",
-      "downloads": 49200,
+      "downloads": 49300,
       "stars": 158,
       "task_types": "文本生成"
     },
@@ -902,7 +892,7 @@
       "organization": "MusePublic",
       "name": "快速生图之水墨风",
       "time": "2025.03.07",
-      "downloads": 14000,
+      "downloads": 14100,
       "stars": 20,
       "task_types": "文本生成图片"
     },
