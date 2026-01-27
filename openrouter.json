@@ -3,6 +3,14 @@
   "api_key_page": "https://openrouter.ai/settings/keys",
   "models": [
     {
+      "id": "upstage/solar-pro-3",
+      "name": "Solar Pro 3 (free)",
+      "provider": "Upstage",
+      "description": "Solar Pro 3 is Upstage's powerful Mixture-of-Experts (MoE) language model. With 102B total parameters and 12B active parameters per forward pass, it delivers exceptional performance while maintaining computational efficiency. Optimized for Korean with English and Japanese support.",
+      "link": "https://openrouter.ai/upstage/solar-pro-3",
+      "pub_date": "Tue, 27 Jan 2026 02:33:20 GMT"
+    },
+    {
       "id": "minimax/minimax-m2-her",
       "name": "MiniMax M2-her",
       "provider": "MiniMax",
