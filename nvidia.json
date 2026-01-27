@@ -2,9 +2,9 @@
   "models_page": "https://build.nvidia.com/models",
   "models": [
     {
-      "id": "moonshotai/kimi-k2_5",
+      "id": "moonshotai/kimi-k2.5",
       "name": "kimi-k2.5",
-      "link": "https://build.nvidia.com/moonshotai/kimi-k2_5",
+      "link": "https://build.nvidia.com/moonshotai/kimi-k2.5",
       "provider": "moonshotai",
       "description": "1T multimodal MoE for high‑capacity video and image understanding with efficient inference.",
       "tags": [
