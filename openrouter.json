@@ -220,7 +220,7 @@
     },
     {
       "id": "mistralai/devstral-2512",
-      "name": "Devstral 2 2512 (free)",
+      "name": "Devstral 2 2512",
       "provider": "Mistral",
       "description": "Devstral 2 is a state-of-the-art open-source model by Mistral AI specializing in agentic coding. It is a 123B-parameter dense transformer model supporting a 256K context window.\n\nDevstral 2 supports exploring codebases and orchestrating changes across multiple files while maintaining architecture-level context. It tracks framework dependencies, detects failures, and retries with corrections—solving challenges like bug fixing and modernizing legacy systems. The model can be fine-tuned to prioritize specific languages or optimize for large enterprise codebases. It is available under a modified MIT license.",
       "link": "https://openrouter.ai/mistralai/devstral-2512",
