@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 745600,
+      "downloads": 745700,
       "stars": 402,
       "task_types": "文本生成"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 400800,
+      "downloads": 400900,
       "stars": 178
     },
     {
@@ -375,7 +375,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 181900,
+      "downloads": 182000,
       "stars": 1500,
       "task_types": "文本生成图片"
     },
@@ -435,7 +435,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 102400,
+      "downloads": 102500,
       "stars": 287,
       "task_types": "文本生成"
     },
@@ -485,7 +485,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 81600,
+      "downloads": 81700,
       "stars": 56,
       "task_types": "文本生成"
     },
@@ -545,7 +545,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.7",
       "time": "2026.01.20",
-      "downloads": 51400,
+      "downloads": 51500,
       "stars": 161,
       "task_types": "文本生成"
     },
@@ -1084,16 +1084,6 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/djyzcp123/gjerc",
-      "id": "djyzcp123/gjerc",
-      "organization": "djyzcp123",
-      "name": "TPSZ_矢量艺术插画风格-童趣的小世界_majiuFlux版本（一丹一世界）",
-      "time": "2025.05.31",
-      "downloads": 7300,
-      "stars": 43,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/MusePublic/majicMIX_realistic_maijuxieshi_SD_1_5",
       "id": "MusePublic/majicMIX_realistic_maijuxieshi_SD_1_5",
       "organization": "MusePublic",
@@ -1101,6 +1091,16 @@
       "time": "2025.03.07",
       "downloads": 8300,
       "stars": 57,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/djyzcp123/gjerc",
+      "id": "djyzcp123/gjerc",
+      "organization": "djyzcp123",
+      "name": "TPSZ_矢量艺术插画风格-童趣的小世界_majiuFlux版本（一丹一世界）",
+      "time": "2025.05.31",
+      "downloads": 7300,
+      "stars": 43,
       "task_types": "文本生成图片"
     },
     {
