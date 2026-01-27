@@ -148,7 +148,7 @@
       "name": "通义千问3-30B-A3B-Instruct-2507",
       "time": "2025.09.17",
       "downloads": 1500000,
-      "stars": 104,
+      "stars": 105,
       "task_types": "文本生成"
     },
     {
@@ -258,7 +258,7 @@
       "name": "麦橘超然",
       "time": "2025.03.13",
       "downloads": 544000,
-      "stars": 473,
+      "stars": 474,
       "task_types": "文本生成图片"
     },
     {
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 399000,
+      "downloads": 399100,
       "stars": 177
     },
     {
@@ -406,7 +406,7 @@
       "name": "通义千问3-VL-235B-A22B-Instruct",
       "time": "2025.11.27",
       "downloads": 167700,
-      "stars": 165,
+      "stars": 166,
       "task_types": "视觉多模态理解"
     },
     {
@@ -485,7 +485,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 77800,
+      "downloads": 78100,
       "stars": 54,
       "task_types": "文本生成"
     },
