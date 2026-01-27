@@ -217,7 +217,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 748700,
+      "downloads": 748800,
       "stars": 72,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 506200,
+      "downloads": 506300,
       "stars": 108,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 401300,
+      "downloads": 401400,
       "stars": 178
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 330900,
+      "downloads": 331000,
       "stars": 35
     },
     {
@@ -415,7 +415,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B-Thinking-2507",
       "time": "2025.08.20",
-      "downloads": 162500,
+      "downloads": 162600,
       "stars": 42,
       "task_types": "文本生成"
     },
@@ -435,7 +435,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 102700,
+      "downloads": 102800,
       "stars": 287,
       "task_types": "文本生成"
     },
@@ -445,7 +445,7 @@
       "organization": "Qwen",
       "name": "通义千问2.5-代码-14B-Instruct",
       "time": "2025.03.07",
-      "downloads": 95800,
+      "downloads": 95900,
       "stars": 26,
       "task_types": "文本生成"
     },
@@ -475,7 +475,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 82300,
+      "downloads": 82500,
       "stars": 56,
       "task_types": "文本生成"
     },
@@ -545,7 +545,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/GLM-4.7",
       "time": "2026.01.20",
-      "downloads": 51700,
+      "downloads": 51800,
       "stars": 161,
       "task_types": "文本生成"
     },
@@ -1084,16 +1084,6 @@
       "task_types": "文本生成图片"
     },
     {
-      "link": "https://modelscope.cn/models/MusePublic/majicMIX_realistic_maijuxieshi_SD_1_5",
-      "id": "MusePublic/majicMIX_realistic_maijuxieshi_SD_1_5",
-      "organization": "MusePublic",
-      "name": "majicMIX realistic 麦橘写实 SD1.5",
-      "time": "2025.03.07",
-      "downloads": 8300,
-      "stars": 57,
-      "task_types": "文本生成图片"
-    },
-    {
       "link": "https://modelscope.cn/models/djyzcp123/gjerc",
       "id": "djyzcp123/gjerc",
       "organization": "djyzcp123",
@@ -1101,6 +1091,16 @@
       "time": "2025.05.31",
       "downloads": 7300,
       "stars": 43,
+      "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/MusePublic/majicMIX_realistic_maijuxieshi_SD_1_5",
+      "id": "MusePublic/majicMIX_realistic_maijuxieshi_SD_1_5",
+      "organization": "MusePublic",
+      "name": "majicMIX realistic 麦橘写实 SD1.5",
+      "time": "2025.03.07",
+      "downloads": 8300,
+      "stars": 57,
       "task_types": "文本生成图片"
     },
     {
