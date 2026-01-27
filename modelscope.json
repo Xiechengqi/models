@@ -119,7 +119,7 @@
       "name": "通义千问2.5-72B-Instruct",
       "time": "2025.03.07",
       "downloads": 1800000,
-      "stars": 211,
+      "stars": 210,
       "task_types": "文本生成"
     },
     {
@@ -227,7 +227,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
       "time": "2025.02.25",
-      "downloads": 745500,
+      "downloads": 745600,
       "stars": 402,
       "task_types": "文本生成"
     },
@@ -267,7 +267,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-R1-0528",
       "time": "2025.05.29",
-      "downloads": 521400,
+      "downloads": 521500,
       "stars": 286,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 505900,
+      "downloads": 506000,
       "stars": 108,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 400500,
+      "downloads": 400700,
       "stars": 178
     },
     {
@@ -336,7 +336,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-4B-向量化模型",
       "time": "2025.06.21",
-      "downloads": 330400,
+      "downloads": 330500,
       "stars": 35
     },
     {
@@ -370,16 +370,6 @@
       "task_types": "文本生成"
     },
     {
-      "link": "https://modelscope.cn/models/Qwen/QwQ-32B-Preview",
-      "id": "Qwen/QwQ-32B-Preview",
-      "organization": "Qwen",
-      "name": "Qwen/QwQ-32B-Preview",
-      "time": "2025.03.07",
-      "downloads": 177900,
-      "stars": 98,
-      "task_types": "文本生成"
-    },
-    {
       "link": "https://modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo",
       "id": "Tongyi-MAI/Z-Image-Turbo",
       "organization": "Tongyi-MAI",
@@ -388,6 +378,16 @@
       "downloads": 181900,
       "stars": 1500,
       "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/Qwen/QwQ-32B-Preview",
+      "id": "Qwen/QwQ-32B-Preview",
+      "organization": "Qwen",
+      "name": "Qwen/QwQ-32B-Preview",
+      "time": "2025.03.07",
+      "downloads": 177900,
+      "stars": 98,
+      "task_types": "文本生成"
     },
     {
       "link": "https://modelscope.cn/models/MiniMax/MiniMax-M1-80k",
@@ -435,7 +435,7 @@
       "organization": "deepseek-ai",
       "name": "deepseek-ai/DeepSeek-V3.2",
       "time": "2025.12.01",
-      "downloads": 102200,
+      "downloads": 102300,
       "stars": 287,
       "task_types": "文本生成"
     },
@@ -485,7 +485,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 81100,
+      "downloads": 81300,
       "stars": 56,
       "task_types": "文本生成"
     },
@@ -505,8 +505,8 @@
       "organization": "yiwanji",
       "name": "苏-FLUX抖音小红书极致真实_苏-FLUX小红书极致真实V2",
       "time": "2025.03.07",
-      "downloads": 62100,
-      "stars": 246,
+      "downloads": 62200,
+      "stars": 247,
       "task_types": "文本生成图片"
     },
     {
@@ -515,7 +515,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 57800,
+      "downloads": 57900,
       "stars": 246,
       "task_types": "文本生成图片"
     },
@@ -1159,7 +1159,7 @@
       "organization": "ONETranquil",
       "name": "F.1基础算法dev-fp8",
       "time": "2025.05.17",
-      "downloads": 7200,
+      "downloads": 7300,
       "stars": 27,
       "task_types": "文本生成图片"
     },
