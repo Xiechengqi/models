@@ -217,7 +217,7 @@
       "organization": "Qwen",
       "name": "通义千问3-30B-A3B",
       "time": "2025.07.27",
-      "downloads": 749900,
+      "downloads": 750300,
       "stars": 72,
       "task_types": "文本生成"
     },
@@ -277,7 +277,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Instruct",
       "time": "2025.11.27",
-      "downloads": 507600,
+      "downloads": 507700,
       "stars": 108,
       "task_types": "视觉多模态理解"
     },
@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 403500,
+      "downloads": 403600,
       "stars": 178
     },
     {
@@ -375,7 +375,7 @@
       "organization": "iic",
       "name": "通义-DeepResearch-30B-A3B",
       "time": "2025.10.11",
-      "downloads": 196300,
+      "downloads": 196400,
       "stars": 108,
       "task_types": "文本生成"
     },
@@ -385,7 +385,7 @@
       "organization": "Tongyi-MAI",
       "name": "造相-Z-Image-Turbo",
       "time": "2026.01.07",
-      "downloads": 185000,
+      "downloads": 185100,
       "stars": 1600,
       "task_types": "文本生成图片"
     },
@@ -475,7 +475,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 86000,
+      "downloads": 86100,
       "stars": 64,
       "task_types": "文本生成"
     },
@@ -525,7 +525,7 @@
       "organization": "Qwen",
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
-      "downloads": 58700,
+      "downloads": 58800,
       "stars": 248,
       "task_types": "文本生成图片"
     },
@@ -635,7 +635,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-30B-A3B-Thinking",
       "time": "2025.11.27",
-      "downloads": 32200,
+      "downloads": 32299,
       "stars": 9,
       "task_types": "视觉多模态理解"
     },
@@ -894,16 +894,6 @@
       "time": "2025.03.07",
       "downloads": 14300,
       "stars": 8,
-      "task_types": "文本生成图片"
-    },
-    {
-      "link": "https://modelscope.cn/models/MusePublic/332_ckpt_SD_XL",
-      "id": "MusePublic/332_ckpt_SD_XL",
-      "organization": "MusePublic",
-      "name": "快速生图之水墨风",
-      "time": "2025.03.07",
-      "downloads": 14100,
-      "stars": 20,
       "task_types": "文本生成图片"
     },
     {
@@ -1483,6 +1473,16 @@
       "downloads": 4100,
       "stars": 84,
       "task_types": "文本生成图片"
+    },
+    {
+      "link": "https://modelscope.cn/models/Shanghai_AI_Laboratory/Intern-S1",
+      "id": "Shanghai_AI_Laboratory/Intern-S1",
+      "organization": "Shanghai_AI_Laboratory",
+      "name": "Shanghai_AI_Laboratory/Intern-S1",
+      "time": "2025.11.01",
+      "downloads": 3700,
+      "stars": 21,
+      "task_types": "视觉多模态理解"
     }
   ]
 }
