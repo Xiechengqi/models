@@ -317,7 +317,7 @@
       "organization": "Qwen",
       "name": "通义千问3-Embedding-8B-向量化模型",
       "time": "2025.07.08",
-      "downloads": 402100,
+      "downloads": 402200,
       "stars": 178
     },
     {
@@ -405,7 +405,7 @@
       "organization": "Qwen",
       "name": "通义千问3-VL-235B-A22B-Instruct",
       "time": "2025.11.27",
-      "downloads": 168000,
+      "downloads": 168100,
       "stars": 167,
       "task_types": "视觉多模态理解"
     },
@@ -475,7 +475,7 @@
       "organization": "ZhipuAI",
       "name": "GLM-4.7-Flash",
       "time": "2026.01.21",
-      "downloads": 83700,
+      "downloads": 83900,
       "stars": 59,
       "task_types": "文本生成"
     },
@@ -516,7 +516,7 @@
       "name": "Qwen/Qwen-Image-2512",
       "time": "2025.12.31",
       "downloads": 58300,
-      "stars": 247,
+      "stars": 248,
       "task_types": "文本生成图片"
     },
     {
@@ -615,7 +615,7 @@
       "organization": "ZhipuAI",
       "name": "ZhipuAI/AutoGLM-Phone-9B",
       "time": "2026.01.20",
-      "downloads": 32800,
+      "downloads": 32900,
       "stars": 288,
       "task_types": "视觉多模态理解"
     },
